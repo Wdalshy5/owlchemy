@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Molecular Biology Basics",
+      "topics": [
+        "DNA & RNA Structure",
+        "DNA Replication",
+        "Transcription & Translation"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Proteins & Enzymes",
+      "topics": [
+        "Amino Acid Structure",
+        "Protein Folding",
+        "Enzyme Kinetics"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Bioenergetics & Metabolism",
+      "topics": [
+        "ATP & Energy",
+        "Carbohydrate Metabolism",
+        "Lipid Metabolism",
+        "Amino Acid Metabolism"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Cell Signaling & Hormones",
+      "topics": [
+        "Signal Transduction Pathways",
+        "Hormonal Regulation"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Nutrition & Clinical Biochemistry",
+      "topics": [
+        "Vitamins & Cofactors",
+        "Biochemical Deficiencies",
+        "Inborn Errors of Metabolism"
+      ]
+    }
+  ]
+  
