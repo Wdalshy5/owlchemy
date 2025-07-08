@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BioChemy - Learn Biochemistry with Owly</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gray-100 text-gray-900">
+
+  <!-- Header -->
+  <header class="bg-white shadow-md p-4 flex justify-between items-center">
+    <h1 class="text-2xl font-bold text-blue-600">🦉 BioChemy</h1>
+    <nav class="space-x-4">
+      <a href="#" class="text-blue-600 hover:underline">Home</a>
+      <a href="#" class="text-blue-600 hover:underline">Lessons</a>
+      <a href="#" class="text-blue-600 hover:underline">Progress</a>
+    </nav>
+  </header>
+
+  <!-- Main content -->
+  <main class="p-6 max-w-5xl mx-auto">
+    <section class="flex items-start space-x-6">
+      <!-- Owl Assistant -->
+      <div class="relative">
+        <img src="img/owl.png" alt="Owly the Assistant" class="w-40 animate-bounce" />
+        <div class="absolute left-40 top-0 bg-white rounded-xl shadow p-4 max-w-sm text-sm text-gray-800">
+          Hi, I'm Owly! Let's follow the biochemistry roadmap step by step.
+        </div>
+      </div>
+
+      <!-- Lesson Roadmap -->
+      <div class="flex-1">
+        <h2 class="text-xl font-semibold mb-2">Biochemistry Roadmap</h2>
+        <p class="mb-4">Follow the structured roadmap, inspired by Kaplan and other medical guides.</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4" id="roadmap">
+          <!-- Lesson content injected here -->
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
