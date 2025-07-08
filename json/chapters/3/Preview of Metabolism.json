@@ -1,0 +1,11 @@
+{
+    "title": "Preview of Metabolism",
+    "objectives": [
+      "Define metabolism and its classification",
+      "Understand biochemical forms of energy and ATP generation",
+      "Recognize redox potential and electron flow in metabolism",
+      "Describe major metabolic strategies and phases"
+    ],
+    "content": "<h3 class='text-lg font-semibold mb-2'>Definition & Classification</h3><p>Metabolism is the sum of all chemical reactions that maintain life, including energy production, biosynthesis, and waste elimination. It includes:</p><ul class='list-disc pl-6'><li><strong>Anabolism:</strong> Builds complex molecules (e.g. proteins, DNA)</li><li><strong>Catabolism:</strong> Breaks down molecules for energy</li><li><strong>Amphibolism:</strong> Pathways like the TCA cycle that are both anabolic and catabolic</li></ul><h3 class='text-lg font-semibold mt-4 mb-2'>Biochemical Energy</h3><p>Energy is stored in high-energy molecules and transferred via:</p><ul class='list-disc pl-6'><li><strong>ATP:</strong> Universal energy currency; produced via oxidative/substrate-level phosphorylation and phosphocreatine system</li><li><strong>Other Nucleotides:</strong> GTP, UTP, CTP contribute to biosynthesis</li><li><strong>Coenzyme A:</strong> Transfers acyl groups in lipid metabolism</li><li><strong>Reducing Equivalents:</strong> NADH, FADH<sub>2</sub>, NADPH act as electron carriers</li></ul><h3 class='text-lg font-semibold mt-4 mb-2'>Electron Flow & Redox</h3><p>Electrons flow from lower to higher redox potential. Molecules with more negative redox potential donate electrons (reducing agents), while those with positive values accept them (oxidizing agents).</p><h3 class='text-lg font-semibold mt-4 mb-2'>Metabolic Strategies</h3><ul class='list-disc pl-6'><li>Activation of molecules (phosphorylation, CoA binding)</li><li>Enzymatic catalysis for rapid, energy-efficient reactions</li><li>Coupled and sequential reactions</li><li>Creating instability around specific C-C bonds</li><li>Using specialized carriers for transfer of functional groups</li></ul><h3 class='text-lg font-semibold mt-4 mb-2'>Phases of Catabolism</h3><p>Overview of how dietary fuels are broken down through multiple phases for energy extraction and biosynthesis.</p>"
+  }
+  
