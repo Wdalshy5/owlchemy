@@ -32,11 +32,24 @@
       </div>
 
       <!-- Lesson Roadmap -->
-      <div class="flex-1">
+      <div class="flex-1" id="roadmap-section">
         <h2 class="text-xl font-semibold mb-2">Biochemistry Roadmap</h2>
         <p class="mb-4">Follow the structured roadmap, inspired by Kaplan and other medical guides.</p>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-4" id="roadmap">
-          <!-- Lesson content injected here -->
+          <!-- Chapters loaded from JSON will appear here -->
+        </div>
+      </div>
+
+      <!-- Lesson Section (initially hidden) -->
+      <div class="flex-1 hidden" id="lesson-section">
+        <h2 class="text-xl font-semibold mb-4">📚 Lesson Viewer</h2>
+        <div class="flex space-x-2 mb-4">
+          <select id="chapter-select" class="p-2 rounded border border-gray-300"></select>
+          <select id="topic-select" class="p-2 rounded border border-gray-300"></select>
+          <button id="back-button" class="ml-auto bg-gray-300 px-4 py-2 rounded hover:bg-gray-400">⬅ Back</button>
+        </div>
+        <div id="lesson-content" class="bg-white p-4 rounded shadow text-sm text-gray-800">
+          <!-- Loaded lesson will appear here -->
         </div>
       </div>
     </section>
