@@ -32,9 +32,10 @@ function renderRoadmap(chapters) {
       const a = document.createElement("a");
       a.textContent = topic;
       a.href = "#";
-      a.className = "text-blue-600 hover:underline";
+      a.className = "text-blue-600 hover:underline lesson-tag";
       a.onclick = () => showLessonSection(chapter.id, topic);
       li.appendChild(a);
+      li.className = "lesson-tag";
       ul.appendChild(li);
     });
 
@@ -167,3 +168,4 @@ document.getElementById("back-button").addEventListener("click", () => {
   document.getElementById("lesson-section").classList.add("hidden");
   document.getElementById("roadmap-section").classList.remove("hidden");
 });
+
