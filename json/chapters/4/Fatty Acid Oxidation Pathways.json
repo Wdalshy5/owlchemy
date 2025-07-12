@@ -1,0 +1,43 @@
+{
+    "title": "Fatty Acid Oxidation Pathways",
+    "objectives": [
+      "Understand the four oxidation pathways for fatty acids",
+      "Explain the carnitine shuttle system for mitochondrial import",
+      "Describe the enzymatic steps of β-oxidation",
+      "Compare mitochondrial and peroxisomal oxidation systems"
+    ],
+    "sections": {
+      "pathways": {
+        "title": "Oxidation Systems",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Fatty Acid Oxidation Pathways</h2><div class='enzyme-card'><h3 class='enzyme-name'>1. Mitochondrial β-Oxidation</h3><p class='enzyme-detail'><span class='detail-label'>Substrates:</span> LCFAs (C12-C20)</p><p class='enzyme-detail'><span class='detail-label'>Products:</span> Acetyl-CoA + NADH + FADH2</p><p class='enzyme-detail'><span class='detail-label'>Key Feature:</span> Main energy-generating pathway</p></div><div class='enzyme-card'><h3 class='enzyme-name'>2. Peroxisomal β-Oxidation</h3><p class='enzyme-detail'><span class='detail-label'>Substrates:</span> VLCFAs (≥C22)</p><p class='enzyme-detail'><span class='detail-label'>Products:</span> Shortened FAs for mitochondrial processing</p></div><div class='enzyme-card'><h3 class='enzyme-name'>3. α-Oxidation</h3><p class='enzyme-detail'><span class='detail-label'>Substrates:</span> Branched-chain FAs (phytanate)</p><p class='enzyme-detail'><span class='detail-label'>Unique Step:</span> CO2 removal from α-carbon</p></div><div class='enzyme-card'><h3 class='enzyme-name'>4. ω-Oxidation</h3><p class='enzyme-detail'><span class='detail-label'>Substrates:</span> MCFAs</p><p class='enzyme-detail'><span class='detail-label'>Products:</span> Dicarboxylic acids</p></div></div>"
+      },
+      "activation": {
+        "title": "Fatty Acid Activation",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Pre-Oxidation Steps</h2><div class='enzyme-card'><h3 class='enzyme-name'>Acyl-CoA Synthetase</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> FA + ATP + CoA → Acyl-CoA + AMP + PPi</p><p class='enzyme-detail'><span class='detail-label'>Isozymes:</span> Specific for SCFA, MCFA, LCFA, VLCFA</p><p class='enzyme-detail'><span class='detail-label'>Energy Cost:</span> 2 ATP equivalents</p></div><div class='regulation-type'><h3 class='regulation-title'>Transport Mechanisms</h3><p class='regulator-item'><span class='detail-label'>LCFAs:</span> Require carnitine shuttle (CAT-I/II)</p><p class='regulator-item'><span class='detail-label'>SCFA/MCFA:</span> Diffuse freely into mitochondria</p></div></div>"
+      },
+      "carnitine": {
+        "title": "Carnitine Shuttle",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Mitochondrial Import System</h2><div class='enzyme-card'><h3 class='enzyme-name'>1. CPT-I (Outer Membrane)</h3><p class='enzyme-detail'><span class='detail-label'>Action:</span> Converts acyl-CoA → acyl-carnitine</p><p class='enzyme-detail'><span class='detail-label'>Regulation:</span> Inhibited by malonyl-CoA</p></div><div class='enzyme-card'><h3 class='enzyme-name'>2. Carnitine Translocase</h3><p class='enzyme-detail'><span class='detail-label'>Function:</span> Exchanges acyl-carnitine (in) for carnitine (out)</p></div><div class='enzyme-card'><h3 class='enzyme-name'>3. CPT-II (Inner Membrane)</h3><p class='enzyme-detail'><span class='detail-label'>Action:</span> Regenerates acyl-CoA in matrix</p></div><div class='clinical-box'><h3 class='clinical-title'>Clinical Note</h3><p>CPT-II deficiency causes muscle weakness during fasting due to impaired FA oxidation.</p></div></div>"
+      },
+      "beta_oxidation": {
+        "title": "β-Oxidation Cycle",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Four-Step Process</h2><div class='enzyme-card'><h3 class='enzyme-name'>1. Acyl-CoA Dehydrogenase</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Forms trans-Δ²-enoyl-CoA + FADH2</p><p class='enzyme-detail'><span class='detail-label'>Isozymes:</span> SCAD, MCAD, LCAD, VLCAD</p></div><div class='enzyme-card'><h3 class='enzyme-name'>2. Enoyl-CoA Hydratase</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Adds H₂O → L-β-hydroxyacyl-CoA</p></div><div class='enzyme-card'><h3 class='enzyme-name'>3. β-Hydroxyacyl-CoA DH</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Forms β-ketoacyl-CoA + NADH</p></div><div class='enzyme-card'><h3 class='enzyme-name'>4. Thiolase</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Cleaves acetyl-CoA + 2C-shorter acyl-CoA</p></div><div class='regulation-type'><h3 class='regulation-title'>Energy Yield (Palmitate)</h3><p class='regulator-item'>7 cycles → 8 acetyl-CoA + 7 NADH + 7 FADH2</p></div></div>"
+      },
+      "special_cases": {
+        "title": "Special Substrates",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Non-Standard FA Oxidation</h2><div class='enzyme-card'><h3 class='enzyme-name'>Odd-Chain FAs</h3><p class='enzyme-detail'><span class='detail-label'>End Product:</span> Propionyl-CoA → Succinyl-CoA (B12-dependent)</p><p class='enzyme-detail'><span class='detail-label'>Clinical:</span> Methylmalonic acidemia in B12 deficiency</p></div><div class='enzyme-card'><h3 class='enzyme-name'>Unsaturated FAs</h3><p class='enzyme-detail'><span class='detail-label'>Auxiliary Enzymes:</span> Δ³→Δ² isomerase, 2,4-dienoyl-CoA reductase</p><p class='enzyme-detail'><span class='detail-label'>Example:</span> Linoleate (18:2Δ9,12) requires 3 extra enzymes</p></div><div class='enzyme-card'><h3 class='enzyme-name'>Branched-Chain FAs</h3><p class='enzyme-detail'><span class='detail-label'>Pathway:</span> α-Oxidation (phytanate → pristanate)</p><p class='enzyme-detail'><span class='detail-label'>Defect:</span> Refsum disease (phytanate accumulation)</p></div></div>"
+      },
+      "regulation": {
+        "title": "Regulation",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Control Mechanisms</h2><div class='regulation-type'><h3 class='regulation-title'>Key Points</h3><p class='regulator-item'><span class='detail-label'>CAT-I:</span> Inhibited by malonyl-CoA (prevents FA oxidation when lipogenesis is active)</p><p class='regulator-item'><span class='detail-label'>Dehydrogenases:</span> Inhibited by high NADH/NAD+ ratio</p><p class='regulator-item'><span class='detail-label'>Thiolase:</span> Inhibited by high acetyl-CoA/CoA ratio</p></div><div class='clinical-box'><h3 class='clinical-title'>Fasting State</h3><p>Glucagon → AMPK → ACC phosphorylation → malonyl-CoA ↓ → CAT-I activation</p></div></div>"
+      },
+      "clinical": {
+        "title": "Clinical Correlations",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Metabolic Disorders</h2><div class='clinical-box'><h3 class='clinical-title'>MCAD Deficiency</h3><p class='clinical-highlight'>Presentation:</span> Hypoketotic hypoglycemia during fasting</p><p class='clinical-highlight'>Diagnosis:</span> Elevated C8-C10 acylcarnitines</p></div><div class='clinical-box'><h3 class='clinical-title'>Refsum Disease</h3><p class='clinical-highlight'>Defect:</span> α-Oxidation enzyme deficiency</p><p class='clinical-highlight'>Symptoms:</span> Peripheral neuropathy, cerebellar ataxia</p></div><div class='clinical-box'><h3 class='clinical-title'>Riboflavin Deficiency</h3><p class='clinical-highlight'>Impact:</span> Impaired FAD-dependent dehydrogenases</p></div></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Frequently Asked Questions</h2><div class='faq-item'><div class='faq-question'>Why can't erythrocytes oxidize fatty acids?</div><div class='faq-answer'>They lack mitochondria - rely solely on glycolysis for ATP production.</div></div><div class='faq-item'><div class='faq-question'>How does ω-oxidation contribute to metabolic acidosis?</div><div class='faq-answer'>Dicarboxylic acids accumulate and can't be fully metabolized, lowering blood pH.</div></div><div class='faq-item'><div class='faq-question'>Why are ketone bodies produced during prolonged fasting?</div><div class='faq-answer'>Excess acetyl-CoA from β-oxidation exceeds TCA cycle capacity, leading to ketogenesis.</div></div></div>"
+      }
+    }
+  }

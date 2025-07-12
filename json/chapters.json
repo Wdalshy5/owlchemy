@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "title": "Proteins & Enzymes",
+      "title": "Proteins Metabolism",
       "topics": [
         "Amino Acid Structure",
         "Protein Folding",
@@ -20,20 +20,23 @@
     {
       "id": 3,
       "title": "Bioenergetics & Metabolism",
-      "topics": [
-        "ATP & Energy",
-        "Carbohydrate Metabolism",
-        "Glycogen Metabolism",
-        "Preview of Metabolism",
-        "Amino Acid Metabolism"
+      "topics": 
+      ["Preview of Metabolism",
+        "Common Catabolic Pathways",
+        "Digestion & Absorption of CHO & Glycolysis",
+        "Gluconeogenesis",
+        "Pentose Phosphate Pathway & Uronic Pathway",
+        "Metabolism of Hexoses Other Than Glucose",
+        "Glycogen Metabolism"
       ]
     },
     {
       "id": 4,
-      "title": "Cell Signaling & Hormones",
+      "title": "lipid Metabolism",
       "topics": [
-        "Signal Transduction Pathways",
-        "Hormonal Regulation"
+        "Digestion & Absorption of Lipids",
+        "De Novo Biosynthesis of Fatty Acids",
+        "Fatty Acid Oxidation Pathways"
       ]
     },
     {

@@ -1,0 +1,35 @@
+{
+    "title": "Metabolism of Hexoses Other Than Glucose",
+    "objectives": [
+      "Understand the metabolic pathways of fructose, galactose, and mannose",
+      "Compare hepatic vs. extrahepatic fructose metabolism",
+      "Explain clinical consequences of hexose metabolism disorders",
+      "Describe the relationship between fructose intake and metabolic syndrome"
+    ],
+    "sections": {
+      "fructose": {
+        "title": "Fructose Metabolism",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Fructose Metabolic Pathways</h2><div class='overview-definition'><p>Fructose is metabolized through distinct pathways in liver (fructose-1-P pathway) and extrahepatic tissues (direct phosphorylation to fructose-6-P).</p></div><h3 class='regulation-title'>Hepatic Pathway</h3><div class='enzyme-card'><h3 class='enzyme-name'>1. Fructokinase</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Fructose → Fructose-1-P (liver-specific)</p><p class='enzyme-detail'><span class='detail-label'>Significance:</span> Bypasses PFK-1 regulation</p></div><div class='enzyme-card'><h3 class='enzyme-name'>2. Aldolase B</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Cleaves Fructose-1-P → DHAP + Glyceraldehyde</p><p class='enzyme-detail'><span class='detail-label'>Tissue:</span> Liver-specific isozyme</p></div><h3 class='regulation-title'>Extrahepatic Pathway</h3><div class='enzyme-card'><h3 class='enzyme-name'>Hexokinase</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Fructose → Fructose-6-P (enters glycolysis)</p><p class='enzyme-detail'><span class='detail-label'>Tissues:</span> Muscle, adipose, kidney, intestine</p></div></div>"
+      },
+      "fructose_clinical": {
+        "title": "Fructose Disorders",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Clinical Aspects of Fructose Metabolism</h2><div class='clinical-box'><h3 class='clinical-title'>Essential Fructosuria</h3><p class='clinical-highlight'>Cause:</span> Fructokinase deficiency</p><p class='clinical-highlight'>Features:</span> Benign, asymptomatic fructosuria</p><p class='clinical-highlight'>Management:</span> Low fructose/sucrose/sorbitol diet</p></div><div class='clinical-box'><h3 class='clinical-title'>Hereditary Fructose Intolerance</h3><p class='clinical-highlight'>Cause:</span> Aldolase B deficiency</p><div class='diagnosis-method'><p><span class='detail-label'>Symptoms:</span></p><ul><li>Severe hypoglycemia after fructose intake</li><li>Vomiting, liver dysfunction</li><li>Pi sequestration → ATP depletion</li></ul></div></div><div class='clinical-box'><h3 class='clinical-title'>High Fructose Consequences</h3><p class='clinical-highlight'>Metabolic:</span> Hypertriglyceridemia (excess acetyl-CoA → VLDL)</p><p class='clinical-highlight'>Gout:</span> Fructose-1-P inhibits purine degradation → hyperuricemia</p><p class='clinical-highlight'>Diabetic Complications:</span> Sorbitol accumulation → cataracts/neuropathy</p></div></div>"
+      },
+      "galactose": {
+        "title": "Galactose Metabolism",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Galactose-1-P Pathway</h2><div class='enzyme-card'><h3 class='enzyme-name'>1. Galactokinase</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Galactose → Galactose-1-P</p></div><div class='enzyme-card'><h3 class='enzyme-name'>2. Galactose-1-P Uridyltransferase</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Galactose-1-P + UDP-glucose → UDP-galactose + Glucose-1-P</p><p class='enzyme-detail'><span class='detail-label'>Key Step:</span> Produces glycolytic intermediate</p></div><div class='enzyme-card'><h3 class='enzyme-name'>3. UDP-Galactose Epimerase</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Converts UDP-galactose ↔ UDP-glucose (NAD-dependent)</p><p class='enzyme-detail'><span class='detail-label'>Functions:</span> Lactose synthesis (mammary), glycoprotein/glycolipid production</p></div></div>"
+      },
+      "galactose_clinical": {
+        "title": "Galactosemia",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Galactosemia Types</h2><div class='clinical-box'><h3 class='clinical-title'>Type 1 (Classic)</h3><p class='clinical-highlight'>Defect:</span> Galactose-1-P uridyltransferase (GALT)</p><div class='diagnosis-method'><p><span class='detail-label'>Consequences:</span></p><ul><li>Galactose-1-P accumulation → Pi depletion</li><li>Liver failure, mental retardation, cataracts</li><li>Even dietary restriction doesn't prevent complications</li></ul></div></div><div class='clinical-box'><h3 class='clinical-title'>Type 2</h3><p class='clinical-highlight'>Defect:</span> Galactokinase deficiency</p><p class='clinical-highlight'>Main Symptom:</span> Cataracts from galactitol accumulation</p><p class='clinical-highlight'>Treatment:</span> Dietary galactose restriction effective</p></div><div class='clinical-box'><h3 class='clinical-title'>Type 3</h3><p class='clinical-highlight'>Defect:</span> UDP-galactose-4-epimerase (GALE)</p><p class='clinical-highlight'>Note:</span> Milder symptoms if transferase intact</p></div></div>"
+      },
+      "mannose": {
+        "title": "Mannose Metabolism",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Mannose Pathways</h2><div class='enzyme-card'><h3 class='enzyme-name'>Phosphomannose Isomerase</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Mannose-6-P ↔ Fructose-6-P</p><p class='enzyme-detail'><span class='detail-label'>Glycolytic Entry:</span> Connects to glycolysis intermediates</p></div><div class='regulation-type'><h3 class='regulation-title'>Biosynthetic Roles</h3><p class='regulator-item'>Glycoprotein synthesis: Mannose incorporated into N-linked oligosaccharides</p><p class='regulator-item'>Lysosomal enzymes: Mannose-6-P targets enzymes to lysosomes</p></div></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Frequently Asked Questions</h2><div class='faq-item'><div class='faq-question'>Why does fructose metabolism cause hyperuricemia?</div><div class='faq-answer'>Fructose-1-P sequesters Pi → ATP depletion → reduced inhibition of purine degradation → increased uric acid production.</div></div><div class='faq-item'><div class='faq-question'>How does classic galactosemia differ from type 2?</div><div class='faq-answer'>Type 1 (GALT) causes systemic toxicity from galactose-1-P accumulation, while type 2 (galactokinase) mainly causes cataracts via galactitol.</div></div><div class='faq-item'><div class='faq-question'>Why is hepatic fructose metabolism unregulated?</div><div class='faq-answer'>It bypasses PFK-1 (the main glycolytic control point), allowing uncontrolled flux to pyruvate/acetyl-CoA.</div></div></div>"
+      }
+    }
+  }

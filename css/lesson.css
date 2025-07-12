@@ -1,32 +1,180 @@
-/* Base Interactivity Styles */
-.enzyme-tag {
-    color: #3182ce;
-    cursor: pointer;
-    text-decoration: underline dotted;
+/* lesson.css - Enhanced Lesson Styles */
+
+/* Lesson Container */
+.lesson-container {
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.6;
+  color: #333;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Section Styling */
+.lesson-section {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  padding: 25px;
+  margin-bottom: 30px;
+}
+
+.section-title {
+  color: #2c3e50;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 10px;
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+
+/* Overview Section */
+.overview-definition {
+  font-size: 1.1rem;
+  background: #f8f9fa;
+  padding: 15px;
+  border-left: 4px solid #3498db;
+  margin: 20px 0;
+}
+
+.significance-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.significance-list li {
+  padding: 8px 0;
+  position: relative;
+  padding-left: 25px;
+}
+
+.significance-list li:before {
+  content: "•";
+  color: #3498db;
+  font-size: 1.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+/* Key Enzymes Section */
+.enzyme-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 15px;
+  margin-bottom: 15px;
+  transition: transform 0.3s ease;
+}
+
+.enzyme-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.enzyme-name {
+  color: #2980b9;
+  margin-top: 0;
+  font-size: 1.3rem;
+}
+
+.enzyme-detail {
+  margin-bottom: 8px;
+}
+
+.detail-label {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+/* Regulation Section */
+.regulation-type {
+  margin-bottom: 25px;
+}
+
+.regulation-title {
+  color: #16a085;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.regulator-item {
+  background: #f5fbfa;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  border-left: 3px solid #1abc9c;
+}
+
+/* Clinical Notes Section */
+.clinical-box {
+  background: #fff5f5;
+  border-left: 4px solid #e74c3c;
+  padding: 20px;
+  margin: 25px 0;
+  border-radius: 0 6px 6px 0;
+}
+
+.clinical-title {
+  color: #c0392b;
+  margin-top: 0;
+}
+
+.clinical-highlight {
+  background-color: #ffebee;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-weight: 600;
+  color: #c0392b;
+  display: inline-block;
+  margin: 3px 0;
+}
+
+.diagnosis-method {
+  background: #f0f7ff;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+
+/* FAQs Section */
+.faq-item {
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+
+.faq-question {
+  background: #f8f9fa;
+  padding: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background 0.3s ease;
+}
+
+.faq-question:hover {
+  background: #e9ecef;
+}
+
+.faq-answer {
+  padding: 15px;
+  background: white;
+  border-top: 1px solid #e0e0e0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .lesson-container {
+    padding: 15px;
   }
   
-  .clinical-tag {
-    background-color: #fffacd;
-    padding: 2px 4px;
-    border-radius: 3px;
-    cursor: help;
+  .lesson-section {
+    padding: 15px;
   }
   
-  .quiz-option[data-correct="true"] {
-    background-color: #e6ffed;
+  .section-title {
+    font-size: 1.5rem;
   }
-  
-  .hidden {
-    display: none;
-  }
-  
-  /* Pathway Phase Styling */
-  .pathway-phase[data-phase='investment'] {
-    border-left: 4px solid #f6ad55;
-    padding-left: 1rem;
-  }
-  
-  .pathway-phase[data-phase='payoff'] {
-    border-left: 4px solid #68d391;
-    padding-left: 1rem;
-  }
+}

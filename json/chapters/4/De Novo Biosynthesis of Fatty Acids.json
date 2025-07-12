@@ -1,0 +1,43 @@
+{
+    "title": "De Novo Biosynthesis of Fatty Acids",
+    "objectives": [
+      "Understand the enzymatic steps of palmitate synthesis from acetyl-CoA",
+      "Explain the role of acetyl-CoA carboxylase as the committed step",
+      "Describe the multifunctional fatty acid synthase complex",
+      "Identify regulatory mechanisms controlling fatty acid biosynthesis"
+    ],
+    "sections": {
+      "overview": {
+        "title": "Pathway Overview",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Fatty Acid Biosynthesis</h2><div class='overview-definition'><p>Endergonic pathway synthesizing palmitate (16:0) from acetyl-CoA in the cytosol, primarily in liver, adipose tissue, and lactating mammary glands.</p></div><h3 class='regulation-title'>Key Features</h3><ul class='significance-list'><li>Location: Cytosol (vs mitochondrial β-oxidation)</li><li>Main product: Palmitate (16-carbon saturated FA)</li><li>Energy requirements: 1 ATP + 14 NADPH per palmitate</li><li>Carbon source: Glucose-derived acetyl-CoA</li></ul></div>"
+      },
+      "enzymes": {
+        "title": "Core Enzymes",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Enzyme Machinery</h2><div class='enzyme-card'><h3 class='enzyme-name'>1. Acetyl-CoA Carboxylase (ACC)</h3><p class='enzyme-detail'><span class='detail-label'>Function:</span> Committed step - converts acetyl-CoA → malonyl-CoA</p><p class='enzyme-detail'><span class='detail-label'>Cofactors:</span> Biotin, ATP, Mn2+</p><p class='enzyme-detail'><span class='detail-label'>Domains:</span> Biotin carboxylase + carboxyl carrier + transferase</p></div><div class='enzyme-card'><h3 class='enzyme-name'>2. Fatty Acid Synthase (FAS)</h3><p class='enzyme-detail'><span class='detail-label'>Structure:</span> Homodimer with 7 domains per subunit</p><p class='enzyme-detail'><span class='detail-label'>Key Domains:</span> ACP (pantotheine), β-ketoacyl synthase (KS), enoyl reductase (ER)</p><p class='enzyme-detail'><span class='detail-label'>Product:</span> Palmitate after 7 elongation cycles</p></div></div>"
+      },
+      "steps": {
+        "title": "Reaction Steps",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Synthesis Mechanism</h2><h3 class='regulation-title'>1. Substrate Provision</h3><div class='regulation-type'><p class='regulator-item'><span class='detail-label'>Acetyl-CoA:</span> Mitochondrial export via citrate shuttle</p><p class='regulator-item'><span class='detail-label'>Malonyl-CoA:</span> ACC carboxylation (irreversible)</p></div><h3 class='regulation-title'>2. FAS Loading</h3><div class='enzyme-card'><h3 class='enzyme-name'>MAT Domain</h3><p class='enzyme-detail'><span class='detail-label'>Action:</span> Transfers acetyl/malonyl to ACP-Cys-SH</p></div><h3 class='regulation-title'>3-6. Elongation Cycle</h3><div class='enzyme-card'><h3 class='enzyme-name'>KS-KR-DH-ER Domains</h3><p class='enzyme-detail'><span class='detail-label'>Steps:</span> Condensation → Reduction → Dehydration → Reduction</p><p class='enzyme-detail'><span class='detail-label'>Cofactors:</span> 2 NADPH per cycle</p></div><div class='regulation-type'><h3 class='regulation-title'>7. Termination</h3><p class='regulator-item'>Thioesterase (TE) releases palmitate (16:0)</p></div></div>"
+      },
+      "regulation": {
+        "title": "Regulation",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Control Mechanisms</h2><div class='regulation-type'><h3 class='regulation-title'>Allosteric</h3><p class='regulator-item'><span class='detail-label'>Activators:</span> Citrate (indicates abundant acetyl-CoA)</p><p class='regulator-item'><span class='detail-label'>Inhibitors:</span> Palmitoyl-CoA, LCFAs (end-product feedback)</p></div><div class='regulation-type'><h3 class='regulation-title'>Covalent</h3><p class='regulator-item'><span class='detail-label'>Inactivation:</span> AMPK phosphorylation (glucagon/epinephrine)</p><p class='regulator-item'><span class='detail-label'>Activation:</span> Insulin-stimulated dephosphorylation</p></div><div class='regulation-type'><h3 class='regulation-title'>Coordination</h3><p class='regulator-item'>Citrate inhibits PFK-1 (glycolysis) while activating ACC</p><p class='regulator-item'>LCFAs inhibit citrate transporter & G6PD (PPP)</p></div></div>"
+      },
+      "nadph": {
+        "title": "NADPH Sources",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Reducing Equivalents</h2><div class='enzyme-card'><h3 class='enzyme-name'>1. Pentose Phosphate Pathway</h3><p class='enzyme-detail'><span class='detail-label'>Contribution:</span> 50% of NADPH</p><p class='enzyme-detail'><span class='detail-label'>Link:</span> G6PD upregulated during lipogenesis</p></div><div class='enzyme-card'><h3 class='enzyme-name'>2. Malic Enzyme</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Malate → Pyruvate + CO2 + NADPH</p><p class='enzyme-detail'><span class='detail-label'>Isoforms:</span> Cytosolic (NADP-linked)</p></div><div class='enzyme-card'><h3 class='enzyme-name'>3. Isocitrate Dehydrogenase</h3><p class='enzyme-detail'><span class='detail-label'>Reaction:</span> Isocitrate → α-KG + CO2 + NADPH</p></div></div>"
+      },
+      "elongation": {
+        "title": "Post-Palmitate Modifications",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Elongation & Desaturation</h2><div class='enzyme-card'><h3 class='enzyme-name'>sER Elongase System</h3><p class='enzyme-detail'><span class='detail-label'>Mechanism:</span> Malonyl-CoA adds 2-carbon units (up to 24C)</p><p class='enzyme-detail'><span class='detail-label'>Example:</span> Palmitate (16:0) → Stearate (18:0)</p></div><div class='enzyme-card'><h3 class='enzyme-name'>Desaturases</h3><p class='enzyme-detail'><span class='detail-label'>Requirements:</span> O2, NADPH, cytochrome b5</p><p class='enzyme-detail'><span class='detail-label'>Products:</span> Palmitoleate (16:1Δ9), Oleate (18:1Δ9)</p><p class='enzyme-detail'><span class='detail-label'>Limitation:</span> Cannot introduce double bonds beyond Δ9</p></div></div>"
+      },
+      "clinical": {
+        "title": "Clinical Relevance",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Metabolic Links</h2><div class='clinical-box'><h3 class='clinical-title'>Type I Diabetes</h3><p class='clinical-highlight'>Effect:</span> Absent insulin → ACC inactivation → reduced lipogenesis</p><p class='clinical-highlight'>Consequence:</span> Elevated plasma FAs due to unrestrained lipolysis</p></div><div class='clinical-box'><h3 class='clinical-title'>Obesity</h3><p class='clinical-highlight'>Pathology:</span> Chronic insulin excess → upregulated ACC/FAS</p><p class='clinical-highlight'>Outcome:</span> Excessive TAG storage in adipocytes</p></div></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Frequently Asked Questions</h2><div class='faq-item'><div class='faq-question'>Why can't humans synthesize omega-3/6 FAs?</div><div class='faq-answer'>Lack Δ12/Δ15 desaturases - must obtain linoleic (18:2Δ9,12) and α-linolenic (18:3Δ9,12,15) from diet.</div></div><div class='faq-item'><div class='faq-question'>How does citrate coordinate glycolysis/lipogenesis?</div><div class='faq-answer'>High citrate inhibits PFK-1 (slowing glycolysis) while activating ACC (promoting FA synthesis) when acetyl-CoA is abundant.</div></div><div class='faq-item'><div class='faq-question'>Why are NADPH sources compartmentalized?</div><div class='faq-answer'>PPP provides cytosolic NADPH for lipogenesis, while mitochondrial NADPH is used for antioxidant defense (glutathione system).</div></div></div>"
+      }
+    }
+  }

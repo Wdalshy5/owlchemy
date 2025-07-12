@@ -1,0 +1,31 @@
+{
+    "title": "Digestion & Absorption of Lipids",
+    "objectives": [
+      "Understand the sequential process of lipid digestion in GI tract",
+      "Identify key enzymes and cofactors involved in lipid breakdown",
+      "Explain micelle formation and lipid absorption mechanisms",
+      "Recognize clinical conditions causing lipid malabsorption"
+    ],
+    "sections": {
+      "digestion": {
+        "title": "Lipid Digestion Process",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Lipid Digestion Sites</h2><div class='enzyme-card'><h3 class='enzyme-name'>Stomach</h3><p class='enzyme-detail'><span class='detail-label'>Enzymes:</span> Lingual/gastric lipases (pH 2-4)</p><p class='enzyme-detail'><span class='detail-label'>Action:</span> Hydrolyze sn-3 bonds of TAGs → 1,2-DAGs + FAs</p><p class='enzyme-detail'><span class='detail-label'>Specificity:</span> Short/medium-chain FAs</p></div><div class='enzyme-card'><h3 class='enzyme-name'>Small Intestine</h3><p class='enzyme-detail'><span class='detail-label'>Hormones:</span> Secretin (bicarbonate) & CCK (bile/enzyme release)</p><p class='enzyme-detail'><span class='detail-label'>Key Actions:</span> Neutralizes pH, stimulates gallbladder contraction</p></div></div>"
+      },
+      "enzymes": {
+        "title": "Key Enzymes",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Pancreatic Enzymes</h2><div class='enzyme-card'><h3 class='enzyme-name'>Pancreatic Lipase</h3><p class='enzyme-detail'><span class='detail-label'>Action:</span> Cleaves sn-1 & sn-3 TAGs → 2-MAGs + FAs</p><p class='enzyme-detail'><span class='detail-label'>Cofactor:</span> Colipase (anchors to lipid interface)</p><p class='enzyme-detail'><span class='detail-label'>Inhibitor:</span> Orlistat (anti-obesity drug)</p></div><div class='enzyme-card'><h3 class='enzyme-name'>Phospholipase A2</h3><p class='enzyme-detail'><span class='detail-label'>Action:</span> Cleaves sn-2 PLs → Lysophospholipids</p><p class='enzyme-detail'><span class='detail-label'>Activation:</span> Requires trypsin & bile salts</p></div><div class='enzyme-card'><h3 class='enzyme-name'>Cholesterol Esterase</h3><p class='enzyme-detail'><span class='detail-label'>Action:</span> Hydrolyzes cholesterol esters → Cholesterol + FAs</p></div></div>"
+      },
+      "absorption": {
+        "title": "Absorption Mechanisms",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Micelle Formation</h2><div class='overview-definition'><p>Bile salts emulsify lipids into 1μm disc-shaped micelles containing MAGs, FAs, cholesterol, and fat-soluble vitamins.</p></div><h3 class='regulation-title'>Enterocyte Processing</h3><div class='regulation-type'><p class='regulator-item'><span class='detail-label'>Resynthesis:</span> ER converts 2-MAGs → TAGs via acyltransferases</p><p class='regulator-item'><span class='detail-label'>Packaging:</span> TAGs + cholesterol + apolipoproteins → Chylomicrons</p><p class='regulator-item'><span class='detail-label'>Transport:</span> SCFAs/MCFAs → portal vein; LCFAs → lymphatics</p></div></div>"
+      },
+      "clinical": {
+        "title": "Clinical Correlations",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Lipid Malabsorption</h2><div class='clinical-box'><h3 class='clinical-title'>Cystic Fibrosis</h3><p class='clinical-highlight'>Pathology:</span> CFTR defect → thickened pancreatic secretions</p><div class='diagnosis-method'><p><span class='detail-label'>Manifestations:</span></p><ul><li>Steatorrhea (fatty stools)</li><li>COPD, pancreatic insufficiency</li><li>Male infertility</li></ul></div><p class='clinical-highlight'>Treatment:</span> Enzyme supplements + MCFAs</p></div><div class='clinical-box'><h3 class='clinical-title'>Short Bowel Syndrome</h3><p class='clinical-highlight'>Cause:</span> Reduced absorptive surface</p><p class='clinical-highlight'>Management:</span> Low-fat diet with MCFA supplementation</p></div></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='lesson-section'><h2 class='section-title'>Frequently Asked Questions</h2><div class='faq-item'><div class='faq-question'>Why are bile salts essential for lipid absorption?</div><div class='faq-answer'>They emulsify large fat droplets into micelles, increasing surface area for pancreatic enzymes and enabling transport of hydrophobic products to enterocytes.</div></div><div class='faq-item'><div class='faq-question'>How does orlistat cause weight loss?</div><div class='faq-answer'>It irreversibly inhibits gastric/pancreatic lipases, preventing ~30% of dietary fat absorption, leading to calorie deficit.</div></div><div class='faq-item'><div class='faq-question'>Why are MCFAs recommended for malabsorption?</div><div class='faq-answer'>They're absorbed directly into portal blood (unlike LCFAs needing chylomicrons) and don't require bile for solubilization.</div></div></div>"
+      }
+    }
+  }
