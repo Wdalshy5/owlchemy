@@ -1,0 +1,27 @@
+{
+  "title": "Preview of Metabolism",
+  "objectives": [
+    "Define metabolism and its classification",
+    "Understand biochemical forms of energy and ATP generation",
+    "Recognize redox potential and electron flow in metabolism",
+    "Describe major metabolic strategies and phases"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Pathway Overview",
+      "content": "<h3 class='text-lg font-semibold mb-2'>Definition & Classification</h3><p>Metabolism is the sum of all chemical reactions...</p>"
+    },
+    "regulation": {
+      "title": "Regulation",
+      "content": "<h3 class='text-lg font-semibold mb-2'>Metabolic Regulation</h3><p>Key regulatory mechanisms include...</p>"
+    },
+    "clinical": {
+      "title": "Clinical Notes",
+      "content": "<h3 class='text-lg font-semibold mb-2'>Clinical Correlations</h3><p>Metabolic disorders include...</p>"
+    },
+    "faqs": {
+      "title": "FAQs",
+      "content": "<h3 class='text-lg font-semibold mb-2'>Frequently Asked Questions</h3><ul><li>Q: What is the difference between anabolism and catabolism?...</li></ul>"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Preview of Metabolism",
+    "objectives": [
+      "Define metabolism and its classification",
+      "Understand biochemical forms of energy and ATP generation",
+      "Recognize redox potential and electron flow in metabolism",
+      "Describe major metabolic strategies and phases"
+    ],
+    "sections": {
+      "overview": {
+        "title": "Pathway Overview",
+        "content": "<h3 class='text-lg font-semibold mb-2'>Definition & Classification</h3><p>Metabolism is defined as the sum of all chemical changes in living cells, tissues, and body that results in:</p><ul class='list-disc pl-6'><li>Production of energy</li><li>Synthesis of small and large biomolecules</li><li>Growth and development</li><li>Elimination of waste material</li></ul><h4 class='font-semibold mt-3'>Classification:</h4><ul class='list-disc pl-6'><li><strong>Anabolic pathways:</strong> Formation of macromolecules from simple precursors</li><li><strong>Catabolic pathways:</strong> Breakdown of macromolecules into simple molecules (H<sub>2</sub>O, CO<sub>2</sub>, NH<sub>4</sub><sup>+</sup>) to produce energy</li><li><strong>Amphibolic pathways:</strong> Crossroads between anabolic and catabolic pathways (e.g., citric acid cycle)</li></ul>"
+      },
+      "biochemical_energy": {
+        "title": "Biochemical Energy",
+        "content": "<h3 class='text-lg font-semibold mb-2'>Energy Carriers</h3><ol class='list-decimal pl-6 space-y-2'><li><strong>ATP (Universal energy currency)</strong><ul class='list-disc pl-6 mt-1'><li>Formed from ADP + Pi via oxidative phosphorylation (mitochondria) or substrate-level phosphorylation</li><li>Phosphocreatine system shuttles energy from mitochondria to cytosol</li><li>Adenylate kinase produces ATP from 2ADP (ATP + AMP)</li></ul></li><li><strong>Other nucleotides (GTP, UTP, CTP)</strong><ul class='list-disc pl-6 mt-1'><li>GTP yields GDP + Pi to activate substrates</li><li>UTP/CTP form UDP/CDP-substrate intermediates</li></ul></li><li><strong>Coenzyme A (CoA)</strong><ul class='list-disc pl-6 mt-1'><li>Carries acyl/acetyl groups</li><li>Essential for fatty acid metabolism</li></ul></li><li><strong>Reducing equivalents (NAD, NADP, FAD, FMN)</strong><ul class='list-disc pl-6 mt-1'><li>Electron carriers for redox reactions</li></ul></li></ol>"
+      },
+      "regulation": {
+        "title": "Regulation",
+        "content": "<h3 class='text-lg font-semibold mb-2'>Metabolic Strategies</h3><ol class='list-decimal pl-6 space-y-2'><li><strong>Activation of Molecules</strong><ul class='list-disc pl-6 mt-1'><li>Phosphorylation/pyrophosphorylation</li><li>Adenylation</li><li>CoA binding</li></ul></li><li><strong>Enzymatic Catalysis</strong><ul class='list-disc pl-6 mt-1'><li>Enables rapid, isothermic reactions</li><li>Example: Decarboxylation occurs at body temperature (vs 200°C in vitro)</li></ul></li><li><strong>Coupled & Sequential Reactions</strong><ul class='list-disc pl-6 mt-1'><li>Energy-releasing reactions drive energy-consuming ones</li></ul></li><li><strong>Targeted Bond Instability</strong></li><li><strong>Specialized Carrier Molecules</strong></li></ol>"
+      },
+      "clinical": {
+        "title": "Clinical Notes",
+        "content": "<h3 class='text-lg font-semibold mb-2'>Clinical Correlations</h3><ul class='list-disc pl-6 space-y-2'><li><strong>Phosphocreatine Deficiency:</strong> Impacts muscle energy metabolism (skeletal/cardiac)</li><li><strong>CoA Deficiency:</strong> Disrupts fatty acid metabolism (from pantothenate deficiency)</li><li><strong>Electron Transport Disorders:</strong> Mitochondrial diseases affecting ATP production</li><li><strong>Enzyme Deficiencies:</strong> e.g., Pyruvate kinase deficiency causes hemolytic anemia</li></ul>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<h3 class='text-lg font-semibold mb-2'>Frequently Asked Questions</h3><div class='space-y-4'><div class='bg-blue-50 p-3 rounded-lg'><p class='font-semibold'>Q: Why is ATP called the 'universal energy currency'?</p><p>A: Because it's the common intermediate that links energy-producing and energy-consuming processes in all cells, with standardized energy value (~7.3 kcal/mol per phosphate bond).</p></div><div class='bg-blue-50 p-3 rounded-lg'><p class='font-semibold'>Q: How does phosphocreatine help muscles?</p><p>A: It acts as an energy reservoir - quickly regenerates ATP during bursts of activity and shuttles mitochondrial ATP to cytosolic sites of use.</p></div><div class='bg-blue-50 p-3 rounded-lg'><p class='font-semibold'>Q: Why are enzymes crucial for metabolism?</p><p>A: They enable life-compatible reaction speeds at body temperature (e.g., decarboxylation at 37°C vs 200°C required without enzymes).</p></div><div class='bg-blue-50 p-3 rounded-lg'><p class='font-semibold'>Q: What's the clinical significance of redox potential?</p><p>A: It predicts electron flow direction in metabolic pathways. Disruptions (e.g., in ETC) cause diseases like mitochondrial disorders.</p></div></div>"
+      }
+    }
+  }

@@ -1,0 +1,32 @@
+/* Base Interactivity Styles */
+.enzyme-tag {
+    color: #3182ce;
+    cursor: pointer;
+    text-decoration: underline dotted;
+  }
+  
+  .clinical-tag {
+    background-color: #fffacd;
+    padding: 2px 4px;
+    border-radius: 3px;
+    cursor: help;
+  }
+  
+  .quiz-option[data-correct="true"] {
+    background-color: #e6ffed;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  /* Pathway Phase Styling */
+  .pathway-phase[data-phase='investment'] {
+    border-left: 4px solid #f6ad55;
+    padding-left: 1rem;
+  }
+  
+  .pathway-phase[data-phase='payoff'] {
+    border-left: 4px solid #68d391;
+    padding-left: 1rem;
+  }
