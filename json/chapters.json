@@ -1,52 +1,49 @@
 [
-    {
-      "id": 1,
-      "title": "Molecular Biology Basics",
-      "topics": [
-        "DNA & RNA Structure",
-        "DNA Replication",
-        "Transcription & Translation"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Proteins Metabolism",
-      "topics": [
-        "Amino Acid Structure",
-        "Protein Folding",
-        "Enzyme Kinetics"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Bioenergetics & Metabolism",
-      "topics": 
-      ["Preview of Metabolism",
-        "Common Catabolic Pathways",
-        "Digestion & Absorption of CHO & Glycolysis",
-        "Gluconeogenesis",
-        "Pentose Phosphate Pathway & Uronic Pathway",
-        "Metabolism of Hexoses Other Than Glucose",
-        "Glycogen Metabolism"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "lipid Metabolism",
-      "topics": [
-        "Digestion & Absorption of Lipids",
-        "De Novo Biosynthesis of Fatty Acids",
-        "Fatty Acid Oxidation Pathways"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Nutrition & Clinical Biochemistry",
-      "topics": [
-        "Vitamins & Cofactors",
-        "Biochemical Deficiencies",
-        "Inborn Errors of Metabolism"
-      ]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Basic Bichemistry Molecules",
+    "topics": [
+      "Carbohydrates Structure",
+      "Lipid Chemistry",
+      "Amino Acid Chemistry",
+      "Nucleic Acids and Nucleotides",
+      "Vitamins"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Proteins & Enzymes",
+    "topics": ["Amino Acid Structure", "Protein Folding", "Enzyme Kinetics"]
+  },
+  {
+    "id": 3,
+    "title": "Bioenergetics & Metabolism",
+    "topics": [
+      "Preview of Metabolism",
+      "Common Catabolic Pathways",
+      "Digestion & Absorption of CHO & Glycolysis",
+      "Gluconeogenesis",
+      "Pentose Phosphate Pathway & Uronic Pathway",
+      "Metabolism of Hexoses Other Than Glucose",
+      "Glycogen Metabolism"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "lipid Metabolism",
+    "topics": [
+      "Digestion & Absorption of Lipids",
+      "De Novo Biosynthesis of Fatty Acids",
+      "Fatty Acid Oxidation Pathways"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Nutrition & Clinical Biochemistry",
+    "topics": [
+      "Vitamins & Cofactors",
+      "Biochemical Deficiencies",
+      "Inborn Errors of Metabolism"
+    ]
+  }
+]

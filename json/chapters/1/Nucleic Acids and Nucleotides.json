@@ -1,0 +1,31 @@
+{
+    "title": "Nucleic Acids and Nucleotides",
+    "objectives": [
+      "Understand the structure and components of nucleotides",
+      "Describe the chemical properties and biological roles of DNA and RNA",
+      "Explain the processes of DNA replication, transcription, and translation",
+      "Analyze the metabolic pathways involving nucleotide synthesis and degradation"
+    ],
+    "sections": {
+      "overview": {
+        "title": "Nucleic Acid Overview",
+        "content": "<div class='overview-definition'>Nucleic acids are biopolymers essential for all known forms of life, consisting of nucleotides as their monomeric units. There are two main types: deoxyribonucleic acid (DNA) which stores genetic information, and ribonucleic acid (RNA) which plays various roles in protein synthesis and gene regulation. Nucleotides also serve as energy carriers (ATP), cofactors (NAD), and signaling molecules (cAMP).</div><h3 class='section-subtitle'>Biological Significance</h3><ul class='significance-list'><li><strong>Genetic Information:</strong> DNA encodes the instructions for development, functioning, and reproduction.</li><li><strong>Protein Synthesis:</strong> RNA translates genetic information into proteins.</li><li><strong>Energy Metabolism:</strong> ATP is the primary energy currency of cells.</li><li><strong>Cellular Signaling:</strong> Nucleotides participate in intracellular and extracellular signaling.</li></ul><h3 class='section-subtitle'>Key Components</h3><div class='io-box'><div class='io-column'><h4>Nucleotide Structure</h4><ul><li>Nitrogenous base (purine or pyrimidine)</li><li>Pentose sugar (ribose or deoxyribose)</li><li>Phosphate group (1-3)</li></ul></div><div class='io-column'><h4>Nucleic Acid Types</h4><ul><li>DNA (double-stranded, deoxyribose, thymine)</li><li>RNA (single-stranded, ribose, uracil)</li><li>mRNA, tRNA, rRNA (protein synthesis)</li></ul></div></div>"
+      },
+      "key_concepts": {
+        "title": "Key Concepts",
+        "content": "<div class='concept-card'><h3 class='concept-name'>Base Pairing Rules</h3><p class='concept-detail'><span class='detail-label'>DNA:</span> Adenine (A) pairs with Thymine (T), Guanine (G) pairs with Cytosine (C).</p><p class='concept-detail'><span class='detail-label'>RNA:</span> Adenine (A) pairs with Uracil (U), Guanine (G) pairs with Cytosine (C).</p></div><div class='concept-card'><h3 class='concept-name'>Phosphodiester Bonds</h3><p class='concept-detail'><span class='detail-label'>Formation:</span> Covalent bonds between the 3' hydroxyl of one nucleotide and the 5' phosphate of another.</p><p class='concept-detail'><span class='detail-label'>Significance:</span> Forms the sugar-phosphate backbone of nucleic acids.</p></div><div class='concept-card'><h3 class='concept-name'>DNA vs. RNA</h3><p class='concept-detail'><span class='detail-label'>DNA:</span> Stable, double-stranded, stores genetic information long-term.</p><p class='concept-detail'><span class='detail-label'>RNA:</span> Less stable, single-stranded, diverse functional roles.</p></div>"
+      },
+      "chemical_properties": {
+        "title": "Chemical Properties",
+        "content": "<div class='property-type'><h3 class='property-title'>Hydrogen Bonding</h3><div class='property-item'><p><strong>Base Pairing:</strong> A-T/U forms 2 hydrogen bonds, G-C forms 3 hydrogen bonds.</p></div></div><div class='property-type'><h3 class='property-title'>Acid-Base Properties</h3><div class='property-item'><p><strong>Phosphate Groups:</strong> Make nucleic acids negatively charged at physiological pH.</p></div></div><div class='property-type'><h3 class='property-title'>UV Absorption</h3><div class='property-item'><p><strong>Characteristic:</strong> Nucleic acids absorb UV light at 260 nm due to aromatic bases.</p><p><strong>Application:</strong> Used to quantify and assess purity of nucleic acid samples.</p></div></div>"
+      },
+      "biological_roles": {
+        "title": "Biological Roles",
+        "content": "<div class='role-box'><h3 class='role-title'>Information Storage and Transfer</h3><p><span class='role-highlight'>Replication:</span> DNA makes identical copies of itself during cell division.</p><p><span class='role-highlight'>Transcription:</span> DNA is transcribed into RNA.</p><p><span class='role-highlight'>Translation:</span> mRNA is translated into proteins.</p></div><div class='role-box'><h3 class='role-title'>Energy and Metabolism</h3><p><span class='role-highlight'>ATP:</span> Primary energy currency of cells.</p><p><span class='role-highlight'>NAD+/FAD:</span> Electron carriers in redox reactions.</p></div><div class='role-box'><h3 class='role-title'>Regulation</h3><p><span class='role-highlight'>Gene Expression:</span> microRNAs regulate gene expression.</p><p><span class='role-highlight'>Signaling:</span> cAMP and cGMP act as second messengers.</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><div class='faq-question'>Why does DNA contain thymine while RNA contains uracil?<span class='toggle-icon'>+</span></div><div class='faq-answer'>Thymine provides more stability for long-term information storage, while uracil's presence in RNA allows for more flexibility and degradation when needed.</div></div><div class='faq-item'><div class='faq-question'>What gives DNA its double helical structure?<span class='toggle-icon'>+</span></div><div class='faq-answer'>Hydrogen bonding between complementary bases and hydrophobic interactions between stacked base pairs stabilize the double helix.</div></div><div class='faq-item'><div class='faq-question'>How do antiparallel strands affect DNA replication?<span class='toggle-icon'>+</span></div><div class='faq-answer'>Antiparallel orientation requires different mechanisms for copying each strand (leading and lagging strand synthesis).</div></div><div class='faq-item'><div class='faq-question'>What's the difference between a nucleoside and nucleotide?<span class='toggle-icon'>+</span></div><div class='faq-answer'>A nucleoside consists of a base and sugar only, while a nucleotide has one or more phosphate groups added to the nucleoside.</div></div>"
+      }
+    }
+  }
