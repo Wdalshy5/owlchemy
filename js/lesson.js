@@ -15,7 +15,7 @@ $(document).ready(function() {
     
     // Change the owl image
     $owl.attr('src', lessonOwl);
-   $('.speech-bubble').html("<strong>Owly:</strong><br>great let's learn something new!<br>")
+   $('.speech-bubble-right').html("<strong>Owly:</strong><br>great let's learn something new!<br>")
   
   });
   $(document).on('click', '#back-button', function(e) {
@@ -23,7 +23,7 @@ $(document).ready(function() {
     
     // Change the owl image
     $owl.attr('src', originalSrc);
-   $('.speech-bubble').html("<strong>Owly:</strong><br>pick another lesson!<br>")
+   $('.speech-bubble-right').html("<strong>Owly:</strong><br>pick another lesson!<br>")
   
   });
 });
