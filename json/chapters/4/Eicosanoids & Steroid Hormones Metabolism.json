@@ -1,0 +1,36 @@
+{
+    "title": "Eicosanoids & Steroid Hormones Metabolism",
+    "objectives": [
+      "Understand the biosynthesis pathways of eicosanoids from polyunsaturated fatty acids",
+      "Describe the enzymatic production of steroid hormones from cholesterol",
+      "Explain the regulatory mechanisms controlling eicosanoid and steroid hormone production",
+      "Analyze the physiological roles and clinical significance of these signaling molecules",
+      "Identify pharmacological targets in these metabolic pathways"
+    ],
+    "sections": {
+      "overview": {
+        "title": "Overview of Lipid-Derived Signaling Molecules",
+        "content": "<div class='overview-definition'>Eicosanoids and steroid hormones represent two major classes of lipid-derived signaling molecules that regulate diverse physiological processes. Eicosanoids are short-acting, locally-acting mediators derived from 20-carbon PUFAs, while steroid hormones are systemic, long-acting regulators synthesized from cholesterol.</div><h3 class='section-subtitle'>Key Characteristics</h3><table class='comparison-table'><tr><th>Feature</th><th>Eicosanoids</th><th>Steroid Hormones</th></tr><tr><td>Precursor</td><td>Arachidonic acid (20:4ω6)</td><td>Cholesterol</td></tr><tr><td>Half-life</td><td>Seconds to minutes</td><td>Minutes to hours</td></tr><tr><td>Range of action</td><td>Autocrine/paracrine</td><td>Endocrine</td></tr><tr><td>Receptors</td><td>Cell surface GPCRs</td><td>Nuclear/intracellular receptors</td></tr><tr><td>Major classes</td><td>Prostaglandins, leukotrienes, thromboxanes</td><td>Glucocorticoids, mineralocorticoids, sex steroids</td></tr></table>"
+      },
+      "eicosanoid_metabolism": {
+        "title": "Eicosanoid Biosynthesis",
+        "content": "<div class='pathway-card'><h3 class='pathway-name'>Arachidonic Acid Release</h3><p class='pathway-detail'><span class='detail-label'>Source:</span> Membrane phospholipids (PI, PC, PE) via PLA<sub>2</sub></p><p class='pathway-detail'><span class='detail-label'>Regulation:</span> Glucocorticoids inhibit PLA<sub>2</sub>; calcium activates</p></div><div class='pathway-card'><h3 class='pathway-name'>Major Pathways</h3><div class='pathway-columns'><div><h4>Cyclooxygenase (COX)</h4><ul><li>Produces: PGH<sub>2</sub> (precursor to PGs/TXs)</li><li>Isoforms: COX-1 (constitutive), COX-2 (inducible)</li><li>Inhibitors: NSAIDs (aspirin irreversibly acetylates COX-1)</li></ul></div><div><h4>Lipoxygenase (LOX)</h4><ul><li>Produces: HPETEs → leukotrienes/lipoxins</li><li>Isoforms: 5-LOX (leukotrienes), 12/15-LOX</li><li>Inhibitors: Zileuton (5-LOX inhibitor)</li></ul></div><div><h4>Cytochrome P450</h4><ul><li>Produces: EETs (epoxyeicosatrienoic acids)</li><li>Functions: Vasodilation, anti-inflammatory</li></ul></div></div></div>"
+      },
+      "steroidogenesis": {
+        "title": "Steroid Hormone Synthesis",
+        "content": "<div class='steroid-card'><h3 class='steroid-name'>Cholesterol Precursor</h3><p class='steroid-detail'><span class='detail-label'>Source:</span> LDL-derived or de novo synthesis</p><p class='steroid-detail'><span class='detail-label'>Transport:</span> StAR protein mediates mitochondrial import</p></div><div class='steroid-card'><h3 class='steroid-name'>Key Pathways</h3><div class='steroid-pathway'><h4>1. Pregnenolone Production</h4><p>CYP11A1 cleaves cholesterol side-chain (rate-limiting)</p></div><div class='steroid-pathway'><h4>2. Branch Points</h4><ul><li><strong>Glucocorticoids:</strong> 17α-hydroxylase → 21-hydroxylase → 11β-hydroxylase</li><li><strong>Mineralocorticoids:</strong> 21-hydroxylase → 11β-hydroxylase</li><li><strong>Androgens:</strong> 17,20-lyase → DHEA/testosterone</li><li><strong>Estrogens:</strong> Aromatase (CYP19) converts androgens</li></ul></div></div>"
+      },
+      "regulation": {
+        "title": "Regulatory Mechanisms",
+        "content": "<div class='regulation-box'><h3 class='regulation-title'>Eicosanoid Regulation</h3><ul><li><strong>Substrate Availability:</strong> PLA<sub>2</sub> activity controls AA release</li><li><strong>Enzyme Induction:</strong> Cytokines induce COX-2 expression</li><li><strong>Product Inhibition:</strong> PGE<sub>2</sub> inhibits 5-LOX</li></ul></div><div class='regulation-box'><h3 class='regulation-title'>Steroid Hormone Regulation</h3><ul><li><strong>HPA Axis:</strong> CRH → ACTH → cortisol</li><li><strong>HPG Axis:</strong> GnRH → FSH/LH → sex steroids</li><li><strong>Feedback:</strong> Cortisol inhibits ACTH; estradiol inhibits GnRH</li></ul></div><div class='regulation-box'><h3 class='regulation-title'>Cross-Regulation</h3><ul><li>Glucocorticoids suppress eicosanoid production</li><li>Estrogens modulate COX-2 expression</li><li>PGE<sub>2</sub> stimulates adrenal steroidogenesis</li></ul></div>"
+      },
+      "clinical_correlations": {
+        "title": "Clinical Correlations",
+        "content": "<div class='clinical-grid'><div class='clinical-card'><h3>Eicosanoid-Related</h3><ul><li><strong>Asthma:</strong> Leukotriene antagonists (montelukast)</li><li><strong>Inflammation:</strong> COX-2 selective inhibitors (celecoxib)</li><li><strong>Thrombosis:</strong> Low-dose aspirin for TXA<sub>2</sub> inhibition</li></ul></div><div class='clinical-card'><h3>Steroid-Related</h3><ul><li><strong>CAH:</strong> 21-hydroxylase deficiency → virilization</li><li><strong>Cushing's:</strong> Glucocorticoid excess</li><li><strong>PCOS:</strong> Androgen excess</li></ul></div><div class='clinical-card'><h3>Pharmacology</h3><ul><li>Aromatase inhibitors (breast cancer)</li><li>5α-reductase inhibitors (BPH)</li><li>CRH antagonists (depression)</li></ul></div></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><div class='faq-question'>Why do NSAIDs cause gastric irritation?<span class='toggle-icon'>+</span></div><div class='faq-answer'>COX-1 inhibition reduces protective PGE<sub>2</sub> in gastric mucosa, increasing acid damage. COX-2 selective drugs reduce this side effect.</div></div><div class='faq-item'><div class='faq-question'>How does cortisol suppress inflammation?<span class='toggle-icon'>+</span></div><div class='faq-answer'>By inducing annexin-1 (blocks PLA<sub>2</sub>), suppressing COX-2 expression, and inhibiting cytokine production.</div></div><div class='faq-item'><div class='faq-question'>What causes the 'aspirin triad' in sensitive patients?<span class='toggle-icon'>+</span></div><div class='faq-answer'>Shunting of AA to leukotriene pathway when COX is inhibited, causing asthma/nasal polyps/urticaria in susceptible individuals.</div></div><div class='faq-item'><div class='faq-question'>Why are steroid hormones transported bound to proteins?<span class='toggle-icon'>+</span></div><div class='faq-answer'>Binding proteins (CBG, SHBG) increase solubility in blood, provide reservoir, and regulate free (active) hormone levels.</div></div>"
+      }
+    }
+  }

@@ -1,0 +1,35 @@
+{
+    "title": "Purine Nucleotide Metabolism",
+    "objectives": [
+      "Trace the de novo biosynthesis pathway of purines",
+      "Compare purine salvage pathways and their importance",
+      "Explain the regulation of purine synthesis and degradation",
+      "Diagnose and manage disorders of purine metabolism"
+    ],
+    "sections": {
+      "overview": {
+        "title": "Purine Metabolism Overview",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Purine Production Pathways</h2>\n  \n  <div class='overview-definition'>\n    <ul class='significance-list'>\n      <li><strong>De novo synthesis:</strong> Builds purines from simple precursors (glycine, glutamine, aspartate, CO<sub>2</sub>, formate)</li>\n      <li><strong>Salvage pathway:</strong> Recycles free bases (hypoxanthine, guanine, adenine) via HGPRT/APRT</li>\n      <li><strong>Shared precursor:</strong> PRPP (ribose-5-P + ATP)</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "de_novo": {
+        "title": "De Novo Purine Synthesis",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>10-Step Biosynthesis (Cytosol)</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>1. PRPP Formation</h4>\n    <ul class='significance-list'>\n      <li>Ribose-5-P + ATP → PRPP (PRPP synthetase)</li>\n      <li><em>Regulated:</em> Inhibited by ADP/GDP</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>2. Commitment Step</h4>\n    <ul class='significance-list'>\n      <li>PRPP + glutamine → 5-phosphoribosylamine (PRA) via <em>glutamine-PRPP amidotransferase</em></li>\n      <li><strong>Key regulation:</strong> Inhibited by IMP/AMP/GMP</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>3-10. IMP Synthesis</h4>\n    <ul class='significance-list'>\n      <li>Glycine, formate (N<sup>10</sup>-formyl-THF), glutamine, CO<sub>2</sub>, and aspartate are added stepwise</li>\n      <li><strong>Final product:</strong> Inosine monophosphate (IMP)</li>\n      <li><em>Multienzyme complex:</em> Purinosome</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>AMP & GMP Formation</h4>\n    <ul class='significance-list'>\n      <li><strong>AMP:</strong> IMP + aspartate + GTP → adenylosuccinate → AMP</li>\n      <li><strong>GMP:</strong> IMP → XMP (NAD<sup>+</sup>-dependent) → GMP (glutamine + ATP)</li>\n      <li><em>Reciprocal regulation:</em> GTP for AMP synthesis, ATP for GMP synthesis</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "salvage": {
+        "title": "Purine Salvage Pathways",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Recycling of Purines</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>1. HGPRT Pathway</h4>\n    <ul class='significance-list'>\n      <li>Hypoxanthine/guanine + PRPP → IMP/GMP (HGPRT enzyme)</li>\n      <li><span class='clinical-highlight'>Lesch-Nyhan syndrome:</span> HGPRT deficiency → uric acid accumulation</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>2. APRT Pathway</h4>\n    <ul class='significance-list'>\n      <li>Adenine + PRPP → AMP (APRT enzyme)</li>\n      <li>Deficiency causes 2,8-dihydroxyadenine stones</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "catabolism": {
+        "title": "Purine Degradation",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Uric Acid Production</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>Key Steps</h4>\n    <ul class='significance-list'>\n      <li>AMP → IMP → hypoxanthine → xanthine</li>\n      <li>GMP → guanine → xanthine</li>\n      <li>Xanthine → uric acid (xanthine oxidase)</li>\n      <li><em>Final product:</em> Uric acid (excreted in urine)</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>Regulation</h4>\n    <ul class='significance-list'>\n      <li><strong>Xanthine oxidase:</strong> Inhibited by allopurinol (gout treatment)</li>\n      <li><strong>Purine nucleoside phosphorylase (PNP):</strong> Deficiency causes immunodeficiency</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "disorders": {
+        "title": "Clinical Disorders",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Purine Metabolic Diseases</h2>\n  \n  <div class='clinical-box'>\n    <h3 class='clinical-title'>1. Gout</h3>\n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li><strong>Cause:</strong> Hyperuricemia (>6.8 mg/dL) → urate crystal deposition</li>\n        <li><strong>Triggers:</strong> PRPP overproduction, HGPRT deficiency, renal underexcretion</li>\n        <li><strong>Treatment:</strong> Allopurinol (XO inhibitor), febuxostat, probenecid</li>\n      </ul>\n    </div>\n  </div>\n\n  <div class='clinical-box'>\n    <h3 class='clinical-title'>2. Lesch-Nyhan Syndrome</h3>\n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li><strong>Defect:</strong> HGPRT deficiency (X-linked recessive)</li>\n        <li><strong>Features:</strong> Hyperuricemia, self-mutilation, dystonia, intellectual disability</li>\n        <li><strong>Management:</strong> Allopurinol (reduces uric acid), no cure for neurological symptoms</li>\n      </ul>\n    </div>\n  </div>\n\n  <div class='clinical-box'>\n    <h3 class='clinical-title'>3. ADA/PNP Deficiency</h3>\n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li><strong>Adenosine deaminase (ADA) deficiency:</strong> SCID (T/B cell dysfunction)</li>\n        <li><strong>Purine nucleoside phosphorylase (PNP) deficiency:</strong> T-cell immunodeficiency</li>\n        <li><strong>Treatment:</strong> Enzyme replacement, bone marrow transplant</li>\n      </ul>\n    </div>\n  </div>\n</div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>FAQs</h2>\n  \n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: Why does HGPRT deficiency cause neurological symptoms?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: Accumulated PRPP increases de novo purine synthesis, leading to excessive uric acid and depletion of GTP/dopamine precursors in basal ganglia.</p>\n    </div>\n  </div>\n\n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: How does allopurinol treat gout?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: It inhibits xanthine oxidase, reducing uric acid production while increasing soluble xanthine/hypoxanthine excretion.</p>\n    </div>\n  </div>\n\n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: Why do ADA/PNP defects cause immunodeficiency?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A> Toxic dATP/dGTP accumulate, inhibiting ribonucleotide reductase and blocking DNA synthesis in lymphocytes.</p>\n    </div>\n  </div>\n</div>"
+      }
+    }
+  }

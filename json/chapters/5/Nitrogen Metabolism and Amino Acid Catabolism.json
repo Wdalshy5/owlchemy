@@ -1,0 +1,52 @@
+{
+    "title": "Nitrogen Metabolism and Amino Acid Catabolism",
+    "objectives": [
+      "Understand the nitrogen cycle and its biological significance",
+      "Describe protein digestion and amino acid absorption processes",
+      "Explain the amino acid pool and nitrogen balance concepts",
+      "Understand ammonia toxicity and its transport mechanisms",
+      "Describe the catabolism of α-amino groups through transamination and oxidative deamination"
+    ],
+    "sections": {
+      "overview": {
+        "title": "Overview of Nitrogen Metabolism",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Overview of Nitrogen Metabolism</h2>\n  \n  <div class='overview-definition'>\n    <h3 class='section-subtitle'>Nitrogen Cycle</h3>\n    <p>80% of atmosphere is molecular nitrogen (N<sub>2</sub>) which plants & animals cannot use directly. Many living species contribute to convert nitrogen to ammonia via nitrogen cycle.</p>\n  </div>\n\n  <div class='regulation-type'>\n    <h3 class='section-subtitle'>Nitrogen Compounds</h3>\n    <ul class='significance-list'>\n      <li>Amino Acids</li>\n      <li>Specialized products derived from amino acids (Heme, Nucleotides)</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "digestion": {
+        "title": "Digestion of Proteins",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Digestion of Proteins</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>In the Stomach</h4>\n    <ul class='significance-list'>\n      <li>HCl secreted by parietal cells (pH 2-4), causing proteins to denature</li>\n      <li>Pepsinogen secreted by chief cells, activated by HCl</li>\n      <li>Pepsin is an endopeptidase releasing peptides and few free amino acids</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>In the Small Intestine</h4>\n    <ul class='significance-list'>\n      <li>HCO<sub>3</sub><sup>-</sup> secreted by pancreas neutralizes pH (6-8)</li>\n      <li>Zymogens (endopeptidases & exopeptidases) complete digestion</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "absorption": {
+        "title": "Absorption & Transport",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Absorption & Transport</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>Absorption Mechanisms</h4>\n    <ul class='significance-list'>\n      <li>Free amino acids: Na<sup>+</sup>-dependent active transport</li>\n      <li>Di- & tri-peptides: proton-linked transport system</li>\n      <li>Only free amino acids enter portal system</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>Distribution</h4>\n    <ul class='significance-list'>\n      <li>Seven active transport systems deliver amino acids to cells</li>\n      <li>Levels inside cells > extracellular fluid</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "amino_acid_pool": {
+        "title": "Amino Acid Pool",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Amino Acid Pool</h2>\n  \n  <div class='overview-definition'>\n    <p>Free amino acids throughout the body (about 100g total). Unlike carbohydrates & fatty acids, amino acids are not stored.</p>\n  </div>\n\n  <div class='regulation-type'>\n    <h3 class='section-subtitle'>Sources</h3>\n    <ul class='significance-list'>\n      <li>Diet</li>\n      <li>De novo synthesis</li>\n      <li>Protein degradation (70% reutilized)</li>\n    </ul>\n  </div>\n\n  <div class='regulation-type'>\n    <h3 class='section-subtitle'>Depletion Routes</h3>\n    <ul class='significance-list'>\n      <li>Body protein synthesis</li>\n      <li>Precursors for essential molecules</li>\n      <li>Conversion to glucose, fatty acids or oxidation</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "nitrogen_balance": {
+        "title": "Nitrogen Balance",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Nitrogen Balance</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>Balance States</h4>\n    <ul class='significance-list'>\n      <li><strong>Positive balance:</strong> Growth, pregnancy, hypothyroidism</li>\n      <li><strong>Negative balance:</strong> Surgery, cancer, burns, hyperthyroidism, starvation</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "ammonia_toxicity": {
+        "title": "Ammonia Toxicity",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Ammonia Toxicity</h2>\n  \n  <div class='clinical-box'>\n    <h3 class='clinical-title'>Hyperammonemia</h3>\n    \n    <div class='diagnosis-method'>\n      <h4>Sources of Ammonia</h4>\n      <ul class='significance-list'>\n        <li>Amino acid catabolism (major source)</li>\n        <li>Intestinal bacteria</li>\n        <li>Monoamines</li>\n        <li>Purines & pyrimidines</li>\n      </ul>\n    </div>\n\n    <div class='diagnosis-method'>\n      <h4>Neurotoxicity Mechanisms</h4>\n      <ul class='significance-list'>\n        <li>Depletes ATP by impairing TCA cycle</li>\n        <li>Brain cell swelling from glutamine accumulation</li>\n        <li>Reduced glutamate & GABA neurotransmitters</li>\n      </ul>\n    </div>\n\n    <div class='diagnosis-method'>\n      <h4>Causes</h4>\n      <ul class='significance-list'>\n        <li>Liver cirrhosis</li>\n        <li>Genetic defects in urea cycle enzymes</li>\n      </ul>\n    </div>\n  </div>\n</div>"
+      },
+      "catabolism": {
+        "title": "Catabolism of α-Amino Group",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Catabolism of α-Amino Group</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>1. Transamination</h4>\n    <ul class='significance-list'>\n      <li>Transfer of α-NH<sub>2</sub> to α-ketoglutarate → glutamate</li>\n      <li>Catalyzed by transaminases (ALT, AST)</li>\n      <li>PLP (pyridoxal phosphate) as cofactor</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>2. Oxidative Deamination</h4>\n    <ul class='significance-list'>\n      <li>Glutamate → α-ketoglutarate + NH<sub>3</sub></li>\n      <li>Catalyzed by glutamate dehydrogenase (GDH)</li>\n      <li>Uses NAD<sup>+</sup> or NADP<sup>+</sup></li>\n    </ul>\n  </div>\n</div>"
+      },
+      "transport": {
+        "title": "Ammonia Transport",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Ammonia Transport</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>1. Glutamine</h4>\n    <ul class='significance-list'>\n      <li>Major transport form (glutamate + NH<sub>3</sub> + ATP)</li>\n      <li>Cleaved by glutaminase in liver/kidney</li>\n      <li>Regulated by adenylylation</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>2. Alanine</h4>\n    <ul class='significance-list'>\n      <li>Glucose-alanine cycle (muscle → liver)</li>\n      <li>Pyruvate transaminated to alanine</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "clinical": {
+        "title": "Clinical Relevance",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Clinical Relevance</h2>\n  \n  <div class='clinical-box'>\n    <h3 class='clinical-title'>Disorders</h3>\n    \n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li><span class='clinical-highlight'>Food Allergy:</span> Large absorbed peptides stimulate immune response</li>\n        <li><span class='clinical-highlight'>Pancreatic deficiency:</span> Chronic pancreatitis, cystic fibrosis</li>\n        <li><span class='clinical-highlight'>Hartnup Disease:</span> Tryptophan transport defect causing pellagra-like symptoms</li>\n        <li><span class='clinical-highlight'>Hyperinsulinism-hyperammonemia:</span> GDH mutation causing hypoglycemia and high blood ammonia</li>\n      </ul>\n    </div>\n  </div>\n\n  <div class='clinical-box'>\n    <h3 class='clinical-title'>Diagnostic Enzymes</h3>\n    \n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li><span class='clinical-highlight'>ALT (alanine transaminase):</span> More specific for liver damage</li>\n        <li><span class='clinical-highlight'>AST (aspartate transaminase):</span> More sensitive but less specific</li>\n      </ul>\n    </div>\n  </div>\n</div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>FAQs</h2>\n  \n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: Why is ammonia toxic to the brain?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: Ammonia depletes ATP by impairing the TCA cycle, causes osmotic swelling from glutamine accumulation, and reduces key neurotransmitters (glutamate & GABA).</p>\n    </div>\n  </div>\n\n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: What's the difference between ALT and AST?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: ALT transfers amino groups from alanine to α-ketoglutarate, while AST transfers them from glutamate to oxaloacetate. ALT is more liver-specific, while AST is more sensitive but less specific.</p>\n    </div>\n  </div>\n\n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: How does the body transport toxic ammonia safely?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: Mainly via glutamine (glutamate + NH<sub>3</sub>) and alanine (glucose-alanine cycle). These non-toxic carriers deliver ammonia to the liver for urea synthesis.</p>\n    </div>\n  </div>\n</div>"
+      }
+    }
+  }

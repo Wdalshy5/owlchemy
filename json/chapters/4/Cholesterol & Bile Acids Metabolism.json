@@ -1,0 +1,36 @@
+{
+    "title": "Cholesterol & Bile Acids Metabolism",
+    "objectives": [
+      "Understand cholesterol biosynthesis and regulation",
+      "Describe bile acid synthesis pathways and enterohepatic circulation",
+      "Explain the roles of cholesterol and bile acids in lipid digestion and absorption",
+      "Analyze clinical disorders related to cholesterol and bile acid metabolism",
+      "Identify pharmacological targets in these pathways"
+    ],
+    "sections": {
+      "overview": {
+        "title": "Cholesterol Fundamentals",
+        "content": "<div class='overview-definition'>Cholesterol is an essential structural component of cell membranes and precursor for steroid hormones, bile acids, and vitamin D. The body maintains tight regulation of cholesterol homeostasis through de novo synthesis (mainly liver), dietary absorption, and excretion (as bile acids).</div><h3 class='section-subtitle'>Key Functions</h3><ul class='significance-list'><li><strong>Membrane Integrity:</strong> Modulates fluidity and raft formation</li><li><strong>Precursor Molecule:</strong> For bile acids, steroid hormones, vitamin D</li><li><strong>Lipoprotein Core:</strong> Structural component of LDL/HDL particles</li></ul><h3 class='section-subtitle'>Cholesterol Properties</h3><div class='io-box'><div class='io-column'><h4>Structure</h4><ul><li>27-carbon steroid nucleus</li><li>Hydroxyl group at C3</li><li>Double bond at C5-C6</li><li>8-carbon side chain at C17</li></ul></div><div class='io-column'><h4>Characteristics</h4><ul><li>Amphipathic (polar OH + hydrophobic rings)</li><li>Insoluble in water (requires lipoproteins)</li><li>~140g total body content (1.5g turnover/day)</li></ul></div></div>"
+      },
+      "cholesterol_synthesis": {
+        "title": "Cholesterol Biosynthesis",
+        "content": "<div class='pathway-card'><h3 class='pathway-name'>Mevalonate Pathway</h3><p class='pathway-detail'><span class='detail-label'>Location:</span> Cytoplasm and ER (liver, intestine, adrenal)</p><p class='pathway-detail'><span class='detail-label'>Key Enzymes:</span> HMG-CoA reductase (rate-limiting), squalene synthase</p></div><div class='pathway-card'><h3 class='pathway-name'>Synthetic Steps</h3><ol class='pathway-steps'><li>3 Acetyl-CoA → HMG-CoA (thiolase & HMG-CoA synthase)</li><li>HMG-CoA → Mevalonate (HMG-CoA reductase, NADPH)</li><li>Mevalonate → Isoprenoids (IPP/DMAPP)</li><li>6 Isoprenoids → Squalene (30C)</li><li>Squalene → Lanosterol (cyclization)</li><li>Lanosterol → Cholesterol (19 additional steps)</li></ol></div><div class='pathway-card'><h3 class='pathway-name'>Regulation</h3><p class='pathway-detail'><span class='detail-label'>Transcriptional:</span> SREBP-2 activation when cholesterol low</p><p class='pathway-detail'><span class='detail-label'>Post-translational:</span> HMG-CoA reductase phosphorylation (AMPK)</p><p class='pathway-detail'><span class='detail-label'>Feedback:</span> Oxysterols accelerate enzyme degradation</p></div>"
+      },
+      "bile_acid_metabolism": {
+        "title": "Bile Acid Synthesis & Circulation",
+        "content": "<div class='bile-card'><h3 class='bile-name'>Primary Bile Acids</h3><p class='bile-detail'><span class='detail-label'>Synthesis:</span> Liver (0.5g/day), via classic (neutral) and alternative (acidic) pathways</p><p class='bile-detail'><span class='detail-label'>Products:</span> Cholic acid (CA) and chenodeoxycholic acid (CDCA)</p></div><div class='bile-card'><h3 class='bile-name'>Key Reactions</h3><ol class='bile-steps'><li>Cholesterol → 7α-hydroxycholesterol (CYP7A1, rate-limiting)</li><li>Side-chain oxidation/cleavage (CYP27A1)</li><li>Conjugation (glycine/taurine) → bile salts</li></ol></div><div class='bile-card'><h3 class='bile-name'>Enterohepatic Circulation</h3><p class='bile-detail'><span class='detail-label'>Process:</span> 95% reabsorbed in ileum (ASBT transporter)</p><p class='bile-detail'><span class='detail-label'>Secondary BAs:</span> Bacterial dehydroxylation → DCA & LCA</p></div>"
+      },
+      "transport_regulation": {
+        "title": "Transport & Homeostasis",
+        "content": "<div class='transport-box'><h3 class='transport-title'>Cholesterol Transport</h3><ul><li><strong>LDL:</strong> Delivers cholesterol to peripheral tissues (ApoB-100)</li><li><strong>HDL:</strong> Reverse cholesterol transport (ApoA-I)</li><li><strong>NPC1L1:</strong> Intestinal cholesterol absorption</li></ul></div><div class='transport-box'><h3 class='transport-title'>Bile Acid Transporters</h3><ul><li><strong>NTCP:</strong> Hepatic uptake of conjugated bile salts</li><li><strong>BSEP:</strong> Canalicular secretion of bile acids</li><li><strong>OSTα/β:</strong> Basolateral efflux</li></ul></div><div class='transport-box'><h3 class='transport-title'>Regulatory Nodes</h3><ul><li><strong>FXR:</strong> Bile acid-activated nuclear receptor</li><li><strong>LXR:</strong> Oxysterol-activated cholesterol sensor</li><li><strong>FGF19:</strong> Ileal hormone that suppresses CYP7A1</li></ul></div>"
+      },
+      "clinical_correlations": {
+        "title": "Clinical Correlations",
+        "content": "<div class='clinical-grid'><div class='clinical-card'><h3>Cholesterol Disorders</h3><ul><li><strong>FH:</strong> LDL receptor mutations → ↑LDL (xanthomas)</li><li><strong>Smith-Lemli-Opitz:</strong> DHCR7 deficiency → low cholesterol</li></ul></div><div class='clinical-card'><h3>Bile Acid Disorders</h3><ul><li><strong>Cholestasis:</strong> BSEP mutations (PFIC2)</li><li><strong>Gallstones:</strong> Cholesterol supersaturation</li><li><strong>BA malabsorption:</strong> Diarrhea (FXR agonists treat)</li></ul></div><div class='clinical-card'><h3>Therapeutics</h3><ul><li><strong>Statins:</strong> HMG-CoA reductase inhibitors</li><li><strong>Ezetimibe:</strong> NPC1L1 inhibitor</li><li><strong>Bile acid sequestrants:</strong> Cholestyramine</li><li><strong>FXR agonists:</strong> Obeticholic acid (PBC)</li></ul></div></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><div class='faq-question'>Why does cholesterol synthesis require so much NADPH?<span class='toggle-icon'>+</span></div><div class='faq-answer'>Each cholesterol molecule requires 18 ATP and 26 NADPH equivalents, reflecting the energy cost of reducing saturated hydrocarbon chains from acetyl-CoA precursors.</div></div><div class='faq-item'><div class='faq-question'>How do bile acids emulsify dietary fats?<span class='toggle-icon'>+</span></div><div class='faq-answer'>Their amphipathic structure (polar hydroxyl/COO- and nonpolar steroid rings) allows formation of micelles that solubilize lipids for pancreatic lipase action.</div></div><div class='faq-item'><div class='faq-question'>Why are bile acids conjugated with glycine/taurine?<span class='toggle-icon'>+</span></div><div class='faq-answer'>Conjugation lowers pKa, preventing protonation in acidic duodenum and maintaining solubility for efficient intestinal reabsorption.</div></div><div class='faq-item'><div class='faq-question'>What causes the genetic defect in familial hypercholesterolemia?<span class='toggle-icon'>+</span></div><div class='faq-answer'>Mutations in LDL receptor (Type IIa), ApoB (Type IIb), or PCSK9 (gain-of-function) impair LDL clearance, causing severe premature atherosclerosis.</div></div>"
+      }
+    }
+  }

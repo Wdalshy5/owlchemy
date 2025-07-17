@@ -1,0 +1,39 @@
+{
+    "title": "Specialized Products Derived from Amino Acids",
+    "objectives": [
+      "Identify key biomolecules synthesized from amino acids",
+      "Describe biosynthetic pathways and regulatory mechanisms",
+      "Understand clinical correlations of metabolic disorders",
+      "Explain the physiological roles of specialized products"
+    ],
+    "sections": {
+      "overview": {
+        "title": "Product Categories",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Specialized Derivatives</h2>\n  \n  <div class='overview-definition'>\n    <p>Key products derived from amino acids:</p>\n    <ul class='significance-list'>\n      <li>Neurotransmitters (Catecholamines, GABA, Serotonin)</li>\n      <li>Energy metabolites (Creatine, CoA, Carnitine)</li>\n      <li>Signaling molecules (NO, Histamine, Thyroid hormones)</li>\n      <li>Cofactors (THF, DHB, SAM, NAD<sup>+</sup>, FAD)</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "neurotransmitters": {
+        "title": "Neuroactive Compounds",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Neurotransmitters</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>1. Catecholamines</h4>\n    <ul class='significance-list'>\n      <li><strong>Precursor:</strong> Tyrosine</li>\n      <li><strong>Pathway:</strong> Tyr → DOPA → Dopamine → Norepinephrine → Epinephrine</li>\n      <li><strong>Key Enzymes:</strong>\n        <ul>\n          <li>Tyrosine hydroxylase (THB, O<sub>2</sub>)</li>\n          <li>DOPA decarboxylase (PLP)</li>\n          <li>Dopamine β-hydroxylase (Cu<sup>2+</sup>, ascorbate)</li>\n          <li>PNMT (SAM)</li>\n        </ul>\n      </li>\n      <li><span class='clinical-highlight'>Disorders:</span> Parkinson's (low dopamine), Pheochromocytoma (excess catecholamines)</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>2. Serotonin (5-HT)</h4>\n    <ul class='significance-list'>\n      <li><strong>Precursor:</strong> Tryptophan</li>\n      <li><strong>Pathway:</strong> Trp → 5-HTP → Serotonin</li>\n      <li><strong>Functions:</strong> Mood regulation, vasoconstriction</li>\n      <li><span class='clinical-highlight'>Carcinoid Syndrome:</span> Tumor-induced overproduction (↑5-HIAA in urine)</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>3. GABA</h4>\n    <ul class='significance-list'>\n      <li><strong>Precursor:</strong> Glutamate</li>\n      <li><strong>Synthesis:</strong> Glutamate decarboxylase (PLP)</li>\n      <li><strong>Role:</strong> Major inhibitory neurotransmitter</li>\n      <li><span class='clinical-highlight'>Epilepsy:</span> Associated with GABA deficiency</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "energy_metabolites": {
+        "title": "Energy Metabolism",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Energy-Related Compounds</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>1. Creatine/Phosphocreatine</h4>\n    <ul class='significance-list'>\n      <li><strong>Precursors:</strong> Glycine, arginine, methionine</li>\n      <li><strong>Pathway:</strong> Guanidinoacetate → Creatine → Phosphocreatine</li>\n      <li><strong>Function:</strong> Muscle energy buffer (ATP regeneration)</li>\n      <li><span class='clinical-highlight'>Clinical Marker:</span> Creatinine clearance tests renal function</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>2. Coenzyme A</h4>\n    <ul class='significance-list'>\n      <li><strong>Components:</strong> Cysteine, pantothenate, ATP</li>\n      <li><strong>Synthesis:</strong> 4-step pathway consuming 2 ATP</li>\n      <li><strong>Role:</strong> Acyl group carrier in metabolism</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "signaling_molecules": {
+        "title": "Signaling Molecules",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Cell Signaling</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>1. Histamine</h4>\n    <ul class='significance-list'>\n      <li><strong>Precursor:</strong> Histidine (PLP-dependent decarboxylation)</li>\n      <li><strong>Roles:</strong> Allergic response, gastric acid secretion</li>\n      <li><span class='clinical-highlight'>Derivatives:</span> Carnosine (muscle/brain), ↓3-methylhistidine in Wilson's disease</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>2. Polyamines</h4>\n    <ul class='significance-list'>\n      <li><strong>Examples:</strong> Putrescine, spermidine, spermine</li>\n      <li><strong>Functions:</strong> DNA packaging, cell proliferation</li>\n      <li><strong>Effects:</strong> High doses cause hypothermia/hypotension</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "protective_molecules": {
+        "title": "Protective Compounds",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Cellular Protection</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>Glutathione (GSH)</h4>\n    <ul class='significance-list'>\n      <li><strong>Structure:</strong> γ-Glu-Cys-Gly tripeptide</li>\n      <li><strong>Functions:</strong>\n        <ul>\n          <li>Redox buffer (maintains -SH groups)</li>\n          <li>Detoxifies peroxides</li>\n          <li>RBC protection from oxidative damage</li>\n        </ul>\n      </li>\n    </ul>\n  </div>\n</div>"
+      },
+      "clinical": {
+        "title": "Clinical Correlations",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Clinical Applications</h2>\n  \n  <div class='clinical-box'>\n    <h3 class='clinical-title'>Diagnostic Markers</h3>\n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li><span class='clinical-highlight'>VMA/HVA:</span> Catecholamine metabolites (pheochromocytoma)</li>\n        <li><span class='clinical-highlight'>5-HIAA:</span> Serotonin metabolite (carcinoid syndrome)</li>\n        <li><span class='clinical-highlight'>Creatinine:</span> Muscle mass/renal function indicator</li>\n      </ul>\n    </div>\n  </div>\n\n  <div class='clinical-box'>\n    <h3 class='clinical-title'>Therapeutic Targets</h3>\n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li>GABA analogs for epilepsy/hypertension</li>\n        <li>MAO/COMT inhibitors in Parkinson's</li>\n        <li>Antihistamines for allergies</li>\n      </ul>\n    </div>\n  </div>\n</div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>FAQs</h2>\n  \n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: Why does carcinoid syndrome cause flushing?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: Tumor-overproduced serotonin acts as a potent vasoconstrictor, followed by reactive vasodilation causing characteristic bluish-red facial flushing.</p>\n    </div>\n  </div>\n\n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: How is creatinine used to assess kidney function?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: Creatinine is produced at a constant rate from muscle creatine and rapidly excreted by kidneys. Elevated blood levels indicate impaired glomerular filtration.</p>\n    </div>\n  </div>\n\n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: Why are PLP-dependent enzymes clinically significant?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A> Vitamin B<sub>6</sub> (PLP precursor) is required for decarboxylases synthesizing dopamine, serotonin, GABA, and histamine - all crucial neurotransmitters.</p>\n    </div>\n  </div>\n</div>"
+      }
+    }
+  }

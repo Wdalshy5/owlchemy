@@ -13,7 +13,10 @@
   {
     "id": 2,
     "title": "Proteins & Enzymes",
-    "topics": ["Amino Acid Structure", "Protein Folding", "Enzyme Kinetics"]
+    "topics": [
+      "Protein Biochemistry", 
+       "Enzyme Biochemistry"
+    ]
   },
   {
     "id": 3,
@@ -34,16 +37,41 @@
     "topics": [
       "Digestion & Absorption of Lipids",
       "De Novo Biosynthesis of Fatty Acids",
-      "Fatty Acid Oxidation Pathways"
+      "Fatty Acid Oxidation Pathways",
+      "Triglyceride Metabolism",
+      "Phospholipids & Sphingolipids Metabolism",  
+      "Cholesterol & Bile Acids Metabolism",
+      "Eicosanoids & Steroid Hormones Metabolism",
+      "Ketone Body Metabolism",
+      "Lipid Transport & Lipoproteins"
     ]
   },
   {
     "id": 5,
-    "title": "Nutrition & Clinical Biochemistry",
+    "title": "Amino Acid & Protein Metabolism",
     "topics": [
-      "Vitamins & Cofactors",
-      "Biochemical Deficiencies",
-      "Inborn Errors of Metabolism"
+      "Nitrogen Metabolism and Amino Acid Catabolism",
+      "Biosynthesis of Urea (Urea Cycle)",
+      "Catabolism of Carbon Skeletons of Amino Acids.json",
+      "Catabolism of Carbon Skeletons of Amino Acids (Part 2)",
+      "Specialized Products Derived from Amino Acids",
+      "Biosynthesis of Heme and Porphyrias",
+      "Catabolism of Heme and Bilirubin Metabolism.json",
+      "Pyrimidine Nucleotide Metabolism",
+      "Purine Nucleotide Metabolism"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Metabolic Integration",
+    "topics": [
+      "Overview of Metabolic Integration",
+      "Key Organs in Metabolic Integration",
+      "Metabolic States",
+      "Interorgan Metabolic Cycles",
+      "Hormonal Regulation of Metabolism",
+      "Metabolic Adaptation in Disease States"
+
     ]
   }
 ]

@@ -1,0 +1,39 @@
+{
+    "title": "Pyrimidine Nucleotide Metabolism",
+    "objectives": [
+      "Trace the de novo biosynthesis pathway of pyrimidines",
+      "Compare regulation of CAD and UMP synthase enzymes",
+      "Explain the salvage pathway and catabolism of pyrimidines",
+      "Diagnose and manage orotic aciduria"
+    ],
+    "sections": {
+      "overview": {
+        "title": "Pyrimidine Metabolism Overview",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Nucleotide Production Pathways</h2>\n  \n  <div class='overview-definition'>\n    <ul class='significance-list'>\n      <li><strong>De novo synthesis:</strong> Builds nucleotides from simple precursors (carbamoyl-P, Asp, PRPP)</li>\n      <li><strong>Salvage pathway:</strong> Recycles free bases/nucleosides</li>\n      <li><strong>Shared precursors:</strong> Ribose-5-P (PRPP), CO<sub>2</sub>, Glu/Asp (N donors)</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "digestion": {
+        "title": "Dietary Nucleic Acid Digestion",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Intestinal Processing</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>Enzymatic Breakdown</h4>\n    <ul class='significance-list'>\n      <li>Pancreatic nucleases → oligonucleotides</li>\n      <li>Phosphodiesterases → mononucleotides (3'/5')</li>\n      <li>Nucleotidases → nucleosides + P<sub>i</sub></li>\n      <li>Nucleosidases → free bases + ribose</li>\n      <li><em>Dietary purines</em> are excreted as uric acid</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "de_novo": {
+        "title": "De Novo Pyrimidine Synthesis",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>6-Step Biosynthesis (Cytosol)</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>1. Carbamoyl-P Formation</h4>\n    <ul class='significance-list'>\n      <li>CO<sub>2</sub> + glutamine + 2ATP → carbamoyl-P (CPS-II)</li>\n      <li><em>Committed step</em> (inhibited by UTP, activated by PRPP)</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>2-3. CAD Complex Reactions</h4>\n    <ul class='significance-list'>\n      <li>Carbamoyl-P + Asp → carbamoyl aspartate (ATCase)</li>\n      <li>→ Dihydroorotate (DHOase)</li>\n      <li><em>Regulation:</em> CTP inhibits, ATP activates</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>4. Orotate Formation (Mitochondria)</h4>\n    <ul class='significance-list'>\n      <li>Dihydroorotate → orotate (DHODH, FMN/Q-dependent)</li>\n      <li>Only redox step (links to ETC)</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>5-6. UMP Production</h4>\n    <ul class='significance-list'>\n      <li>Orotate + PRPP → OMP (OPRT)</li>\n      <li>OMP → UMP (OMP decarboxylase)</li>\n      <li><em>Bifunctional enzyme:</em> UMP synthase</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>CTP & TMP Synthesis</h4>\n    <ul class='significance-list'>\n      <li><strong>CTP:</strong> UTP + glutamine + ATP → CTP (CTP synthetase)</li>\n      <li><strong>TMP:</strong> dUMP + N<sup>5</sup>,N<sup>10</sup>-methylene-THF → TMP (thymidylate synthase)</li>\n      <li><em>THF regeneration:</em> DHF reductase (MTX target)</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "regulation": {
+        "title": "Pathway Regulation",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Control Mechanisms</h2>\n  \n  <div class='regulation-type'>\n    <h3 class='section-subtitle'>CAD Complex</h3>\n    <ul class='significance-list'>\n      <li>CPS-II: UTP (-), PRPP/ATP (+)</li>\n      <li>ATCase: CTP (-), ATP (+)</li>\n    </ul>\n  </div>\n\n  <div class='regulation-type'>\n    <h3 class='section-subtitle'>UMP Synthase</h3>\n    <ul class='significance-list'>\n      <li>Coordinated repression/derepression with CAD</li>\n    </ul>\n  </div>\n\n  <div class='regulation-type'>\n    <h3 class='section-subtitle'>PRPP Availability</h3>\n    <ul class='significance-list'>\n      <li>Synthesized by PRPP synthetase (X-linked)</li>\n      <li>Activated by P<sub>i</sub>, inhibited by ADP</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "catabolism": {
+        "title": "Pyrimidine Catabolism",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Degradation Pathway</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>Stepwise Breakdown</h4>\n    <ul class='significance-list'>\n      <li>Nucleotidases → nucleosides</li>\n      <li>Nucleoside phosphorylases → bases + ribose-1-P</li>\n      <li>Dehydrogenation (uracil/thymine)</li>\n      <li>Ring opening (hydratase)</li>\n      <li>Final deamination/decarboxylation (β-ureidopropionase)</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "disorders": {
+        "title": "Clinical Disorders",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Orotic Aciduria</h2>\n  \n  <div class='clinical-box'>\n    <h3 class='clinical-title'>Causes</h3>\n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li><strong>Type 1:</strong> UMP synthase deficiency (OPRT/OMP decarboxylase)</li>\n        <li><strong>Type 2:</strong> OTC deficiency (urea cycle defect)</li>\n        <li><strong>Acquired:</strong> Allopurinol competition, Reye syndrome</li>\n      </ul>\n    </div>\n  </div>\n\n  <div class='clinical-box'>\n    <h3 class='clinical-title'>Clinical Features</h3>\n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li>Orotic acid accumulation (blood/urine)</li>\n        <li>Megaloblastic anemia (impaired DNA synthesis)</li>\n        <li>Hyperammonemia (in OTC-related cases)</li>\n      </ul>\n    </div>\n  </div>\n\n  <div class='clinical-box'>\n    <h3 class='clinical-title'>Management</h3>\n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li>Uridine supplementation (bypasses block)</li>\n        <li>Supports salvage pathway nucleotide production</li>\n      </ul>\n    </div>\n  </div>\n</div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>FAQs</h2>\n  \n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: Why does OTC deficiency cause orotic aciduria?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: Mitochondrial carbamoyl-P accumulates when OTC is deficient, overflowing into the pyrimidine pathway where CPS-II utilizes it for excessive orotate production.</p>\n    </div>\n  </div>\n\n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: How does uridine treat orotic aciduria?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: Uridine is salvaged to UMP, which inhibits CAD (feedback) and provides pyrimidines for DNA/RNA synthesis, bypassing the defective de novo pathway.</p>\n    </div>\n  </div>\n\n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: Why is thymidylate synthase a chemotherapy target?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A> It's the sole pathway for dTMP synthesis. Inhibitors (5-FU) deplete thymidine nucleotides, blocking DNA replication in rapidly dividing cancer cells.</p>\n    </div>\n  </div>\n</div>"
+      }
+    }
+  }
