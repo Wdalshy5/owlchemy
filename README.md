@@ -1,9 +1,9 @@
 
 
-# BioChemy 🦉  
+  # OWLChemy 🦉  
 **Interactive Biochemistry Learning Platform with AI Assistant**
 
-BioChemy is an engaging web-based platform designed to make biochemistry education accessible and enjoyable. Featuring Owly, our friendly AI owl guide, the project helps students navigate complex biochemical concepts through structured lessons and interactive roadmaps.
+OWLChemy is an engaging web-based platform designed to make biochemistry education accessible and enjoyable. Featuring Owly, our friendly AI owl guide, the project helps students navigate complex biochemical concepts through structured lessons and interactive roadmaps.
 
 ### Key Features:
 - 🧪 **Structured Learning Path**: Curriculum organized by core biochemistry topics
