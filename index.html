@@ -2,66 +2,85 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <title>BioChemy - Learn Biochemistry with Owly</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" href="css/lesson.css">
 </head>
-<body class="bg-gray-100 text-gray-900">
+<body class="bg-gray-100 text-gray-900 text-sm md:text-base">
 
-  <!-- Header -->
-  <header class="bg-white shadow-md p-4 flex justify-between items-center">
-    <h1 class="text-2xl font-bold text-blue-600">🦉 BioChemy</h1>
-    <nav class="space-x-4">
-      <a href="#" class="text-blue-600 hover:underline">Home</a>
-      <a href="#" class="text-blue-600 hover:underline">Lessons</a>
-      <a href="#" class="text-blue-600 hover:underline">Progress</a>
-    </nav>
+  <!-- Responsive Header -->
+  <header class="bg-white shadow-md p-3 md:p-4 flex flex-col sm:flex-row justify-between items-center gap-3 sm:gap-0">
+    <h1 class="text-xl md:text-2xl font-bold text-blue-600">🦉 OWLChemy</h1>
   </header>
 
-  <!-- Main content -->
-  <main class="p-6 max-w-5xl mx-auto">
-    <section class="flex items-start space-x-6">
-      <!-- Owl Assistant -->
-      <div class="relative">
-        <img id="owly" src="imgs/owl.png" alt="Owly the Assistant" class="w-40 " />
-        <div class="absolute right-40 top-0 bg-white rounded-xl shadow p-4 max-w-sm text-sm text-gray-800 speech-bubble">
-          <strong>Owly:</strong><br>
-          Hi, I'm Owly! Let's follow the biochemistry roadmap step by step.
-        </div>
-      </div>
+  <!-- Responsive Main Content -->
+  <main class="p-4 md:p-6 max-w-5xl mx-auto">
+    <section class="flex flex-col lg:flex-row items-start gap-4 lg:gap-6">
+    <!-- Guaranteed Working Version -->
+<div class="flex justify-end">  <!-- Container to push content right -->
+  <div class="relative" style="width: 140px; height: 140px;">  <!-- Fixed size container -->
+    
+    <!-- Speech Bubble (Left Side) -->
+    <div class="absolute left-full top-[-2%] ml-3
+                bg-white rounded-xl shadow p-3
+                max-w-[180px] text-sm
+                text-gray-800 speech-bubble-right">
+      <strong>Owly:</strong><br>
+      Hi, I'm Owly! Let's follow the biochemistry roadmap step by step.
+    </div>
+    
+    <!-- Owl Image (Right Side) -->
+    <img id="owly" src="imgs/owl.png" alt="Owly the Assistant" 
+         class="absolute bottom-0 right-0 w-full h-auto" />
+  </div>
+</div>
 
-      <!-- Lesson Roadmap -->
-      <div class="flex-1" id="roadmap-section">
-        <h2 class="text-xl font-semibold mb-2">Biochemistry Roadmap</h2>
-        <p class="mb-4">Follow the structured roadmap, inspired by Kaplan and other medical guides.</p>
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4" id="roadmap">
-          <!-- Chapters loaded from JSON will appear here -->
+<style>
+  .speech-bubble {
+    position: relative;
+  }
+  .speech-bubble-right:after {
+    content: '';
+    position: absolute;
+    right: 100%;  /* Changed from left: 100% */
+    top: 48%;
+    transform: translateY(-50%);
+    border: 8px solid transparent;
+    border-right-color: white;  /* Changed from border-left-color */
+  }
+</style>
+      <!-- Content Sections -->
+      <div class="w-full">
+        <!-- Roadmap Section -->
+        <div class="flex-1" id="roadmap-section">
+          <h2 class="text-lg md:text-xl font-semibold mb-3 md:mb-4">Biochemistry Roadmap</h2>
+          <p class="mb-3 md:mb-4">Follow the structured roadmap, inspired by Kaplan and other medical guides.</p>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-4" id="roadmap">
+            <!-- Chapters loaded from JSON will appear here -->
+          </div>
         </div>
-      </div>
 
-      <!-- Lesson Section (initially hidden) -->
-      <div class="flex-1 hidden" id="lesson-section">
-        <h2 class="text-xl font-semibold mb-4">📚 Lesson Viewer</h2>
-        <div class="flex space-x-2 mb-4">
-          <select id="chapter-select" class="p-2 rounded border border-gray-300"></select>
-          <select id="topic-select" class="p-2 rounded border border-gray-300"></select>
-          <button id="back-button" class="ml-auto bg-gray-300 px-4 py-2 rounded hover:bg-gray-400">⬅ Back</button>
-        </div>
-        <div id="lesson-content" class="bg-white p-4 rounded shadow text-sm text-gray-800">
-          <!-- Loaded lesson will appear here -->
+        <!-- Lesson Section (initially hidden) -->
+        <div class="flex-1 hidden" id="lesson-section">
+          <h2 class="text-lg md:text-xl font-semibold mb-3 md:mb-4">📚 Lesson Viewer</h2>
+          <div class="flex flex-col sm:flex-row gap-2 mb-3 md:mb-4">
+            <select id="chapter-select" class="p-2 rounded border border-gray-300"></select>
+            <select id="topic-select" class="p-2 rounded border border-gray-300"></select>
+            <button id="back-button" class="mt-2 sm:mt-0 ml-auto bg-gray-300 px-3 py-1 md:px-4 md:py-2 rounded hover:bg-gray-400">⬅ Back</button>
+          </div>
+          <div id="lesson-content" class="bg-white p-3 md:p-4 rounded shadow text-xs md:text-sm text-gray-800">
+            <!-- Loaded lesson will appear here -->
+          </div>
         </div>
       </div>
     </section>
   </main>
 
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="js/main.js"></script>
-  <!-- Include jQuery first -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-<!-- Then your lesson.js file -->
-<script src="js/lesson.js"></script>
+  <script src="js/lesson.js"></script>
 </body>
 </html>

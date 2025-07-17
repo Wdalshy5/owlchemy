@@ -1,0 +1,35 @@
+{
+    "title": "Lipid Transport & Lipoproteins",
+    "objectives": [
+      "Describe the structure and function of major lipoprotein classes",
+      "Trace the exogenous and endogenous lipid transport pathways",
+      "Explain cholesterol metabolism and reverse cholesterol transport",
+      "Diagnose and manage dyslipidemias and their clinical consequences"
+    ],
+    "sections": {
+      "overview": {
+        "title": "Lipoprotein Overview",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Lipoprotein Structure</h2>\n  \n  <div class='overview-definition'>\n    <ul class='significance-list'>\n      <li><strong>Composition:</strong> Neutral lipid core (TG/cholesteryl esters) + amphipathic shell (phospholipids, free cholesterol, apolipoproteins)</li>\n      <li><strong>Key apolipoproteins:</strong> ApoB-48 (chylomicrons), ApoB-100 (VLDL/LDL), ApoA-I (HDL)</li>\n      <li><strong>Density classes:</strong> Chylomicrons < VLDL < IDL < LDL < HDL</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "exogenous_pathway": {
+        "title": "Exogenous Pathway",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Dietary Fat Transport</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>1. Chylomicron Formation</h4>\n    <ul class='significance-list'>\n      <li>Intestinal enterocytes package dietary TGs + cholesterol into chylomicrons (ApoB-48)</li>\n      <li><em>Requires:</em> MTP (microsomal triglyceride transfer protein)</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>2. Circulation & Lipolysis</h4>\n    <ul class='significance-list'>\n      <li>LPL (lipoprotein lipase) hydrolyzes TGs → FFA for tissues (ApoC-II activates LPL)</li>\n      <li>Chylomicron remnants delivered to liver via ApoE recognition</li>\n      <li><span class='clinical-highlight'>Deficiency:</span> LPL/ApoC-II deficiency → Type I hyperlipidemia</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "endogenous_pathway": {
+        "title": "Endogenous Pathway",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Hepatic Lipid Transport</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>1. VLDL Secretion</h4>\n    <ul class='significance-list'>\n      <li>Liver packages hepatic TGs into VLDL (ApoB-100)</li>\n      <li><strong>Regulation:</strong> Insulin inhibits VLDL production</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>2. LDL Formation</h4>\n    <ul class='significance-list'>\n      <li>VLDL → IDL (via LPL) → LDL (via hepatic lipase)</li>\n      <li><strong>Fate:</strong> LDL delivers cholesterol to peripheral tissues via LDL receptor (ApoB-100 recognition)</li>\n      <li><span class='clinical-highlight'>Hypercholesterolemia:</span> LDL receptor defects → Type IIa</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "reverse_transport": {
+        "title": "Reverse Cholesterol Transport",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>HDL Metabolism</h2>\n  \n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>1. HDL Biogenesis</h4>\n    <ul class='significance-list'>\n      <li>Nascent HDL forms from liver/intestine (ApoA-I + phospholipids)</li>\n      <li>ABC1 transporter loads free cholesterol from tissues</li>\n    </ul>\n  </div>\n\n  <div class='enzyme-card'>\n    <h4 class='enzyme-name'>2. Cholesterol Esterification</h4>\n    <ul class='significance-list'>\n      <li>LCAT (lecithin-cholesterol acyltransferase) converts FC → CE (ApoA-I activates)</li>\n      <li>Mature HDL delivers CE to liver (SR-B1 receptor) or transfers to LDL (CETP)</li>\n      <li><span class='clinical-highlight'>Target:</span> CETP inhibitors raise HDL</li>\n    </ul>\n  </div>\n</div>"
+      },
+      "disorders": {
+        "title": "Clinical Disorders",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>Dyslipidemias</h2>\n  \n  <div class='clinical-box'>\n    <h3 class='clinical-title'>1. Primary Dyslipidemias</h3>\n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li><strong>Type I:</strong> LPL deficiency → milky plasma (↑↑ chylomicrons)</li>\n        <li><strong>Type IIa:</strong> LDL receptor defect → ↑LDL (xanthomas, CAD)</li>\n        <li><strong>Type III:</strong> ApoE2 homozygosity → ↑β-VLDL (palmar xanthomas)</li>\n      </ul>\n    </div>\n  </div>\n\n  <div class='clinical-box'>\n    <h3 class='clinical-title'>2. Atherosclerosis</h3>\n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li><strong>Pathogenesis:</strong> Oxidized LDL uptake by macrophages → foam cells → plaque</li>\n        <li><strong>Risk factors:</strong> High LDL, low HDL, smoking, hypertension</li>\n      </ul>\n    </div>\n  </div>\n\n  <div class='clinical-box'>\n    <h3 class='clinical-title'>3. Treatment</h3>\n    <div class='diagnosis-method'>\n      <ul class='significance-list'>\n        <li><strong>Statins:</strong> HMG-CoA reductase inhibitors (↑LDL receptors)</li>\n        <li><strong>Ezetimibe:</strong> Blocks NPC1L1 (intestinal cholesterol absorption)</li>\n        <li><strong>PCSK9 inhibitors:</strong> Prevent LDL receptor degradation</li>\n      </ul>\n    </div>\n  </div>\n</div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='lesson-section'>\n  <h2 class='section-title'>FAQs</h2>\n  \n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: Why does HDL have cardioprotective effects?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: HDL removes arterial cholesterol (reverse transport), has anti-inflammatory/antioxidant properties, and inhibits LDL oxidation.</p>\n    </div>\n  </div>\n\n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: How do statins reduce cardiovascular risk beyond LDL lowering?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: Pleiotropic effects include improved endothelial function, plaque stabilization, and reduced inflammation via isoprenoid inhibition.</p>\n    </div>\n  </div>\n\n  <div class='faq-item'>\n    <div class='faq-question'>\n      Q: Why are chylomicrons absent in fasting plasma?\n      <span class='toggle-icon'>+</span>\n    </div>\n    <div class='faq-answer'>\n      <p>A: Chylomicron half-life is 5-15 minutes; they're rapidly cleared after meals. Persistent chylomicronemia suggests LPL deficiency.</p>\n    </div>\n  </div>\n</div>"
+      }
+    }
+  }
