@@ -1,0 +1,312 @@
+[
+  {
+    "question": "Which type of mutation changes a single nucleotide?",
+    "options": [
+      "Frameshift mutation",
+      "Nonsense mutation",
+      "Point mutation",
+      "Chromosomal inversion"
+    ],
+    "answer": "Point mutation"
+  },
+  {
+    "question": "What is the effect of a nonsense mutation?",
+    "options": [
+      "Changes one amino acid",
+      "Introduces a premature stop codon",
+      "Shifts the reading frame",
+      "Creates a silent change"
+    ],
+    "answer": "Introduces a premature stop codon"
+  },
+  {
+    "question": "Which mutation causes sickle cell anemia?",
+    "options": [
+      "GAG → GTG (Glu → Val)",
+      "CTC → CAC (Leu → His)",
+      "ATG → ATA (Met → Ile)",
+      "TTC → TTT (Phe → Phe)"
+    ],
+    "answer": "GAG → GTG (Glu → Val)"
+  },
+  {
+    "question": "What type of mutation is caused by UV radiation?",
+    "options": [
+      "Point mutation",
+      "Thymine dimers",
+      "Chromosomal translocation",
+      "Trisomy"
+    ],
+    "answer": "Thymine dimers"
+  },
+  {
+    "question": "Which mutation affects only one nucleotide but changes the amino acid?",
+    "options": [
+      "Silent mutation",
+      "Missense mutation",
+      "Nonsense mutation",
+      "Frameshift mutation"
+    ],
+    "answer": "Missense mutation"
+  },
+  {
+    "question": "What causes a frameshift mutation?",
+    "options": [
+      "Single nucleotide substitution",
+      "Insertion or deletion of nucleotides not divisible by 3",
+      "Chromosomal inversion",
+      "Gene duplication"
+    ],
+    "answer": "Insertion or deletion of nucleotides not divisible by 3"
+  },
+  {
+    "question": "Which disease results from trinucleotide repeat expansion?",
+    "options": [
+      "Cystic fibrosis",
+      "Huntington's disease",
+      "Sickle cell anemia",
+      "Tay-Sachs disease"
+    ],
+    "answer": "Huntington's disease"
+  },
+  {
+    "question": "What is a somatic mutation?",
+    "options": [
+      "Present in all body cells",
+      "Occurs only in gametes",
+      "Occurs in non-germline cells",
+      "Caused by viral integration"
+    ],
+    "answer": "Occurs in non-germline cells"
+  },
+  {
+    "question": "Which mutation mechanism causes Fragile X syndrome?",
+    "options": [
+      "CGG repeat expansion in FMR1 gene",
+      "CTP repeat expansion",
+      "Chromosomal deletion",
+      "Mitochondrial DNA mutation"
+    ],
+    "answer": "CGG repeat expansion in FMR1 gene"
+  },
+  {
+    "question": "What is a silent mutation?",
+    "options": [
+      "Changes amino acid sequence",
+      "Introduces stop codon",
+      "Changes nucleotide but not amino acid",
+      "Deletes entire exon"
+    ],
+    "answer": "Changes nucleotide but not amino acid"
+  },
+  {
+    "question": "Which type of mutation affects regulatory regions?",
+    "options": [
+      "Coding mutation",
+      "Promoter mutation",
+      "Intronic mutation",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What causes Lynch syndrome (HNPCC)?",
+    "options": [
+      "Defective DNA mismatch repair",
+      "Defective nucleotide excision repair",
+      "Defective base excision repair",
+      "Defective double-strand break repair"
+    ],
+    "answer": "Defective DNA mismatch repair"
+  },
+  {
+    "question": "Which mutation is most likely to be deleterious?",
+    "options": [
+      "Synonymous mutation in exon",
+      "Missense mutation in catalytic domain",
+      "Silent mutation in intron",
+      "3' UTR mutation"
+    ],
+    "answer": "Missense mutation in catalytic domain"
+  },
+  {
+    "question": "What is a transition mutation?",
+    "options": [
+      "Purine to purine or pyrimidine to pyrimidine",
+      "Purine to pyrimidine or vice versa",
+      "Insertion of multiple nucleotides",
+      "Chromosomal inversion"
+    ],
+    "answer": "Purine to purine or pyrimidine to pyrimidine"
+  },
+  {
+    "question": "Which disease results from a splicing mutation?",
+    "options": [
+      "Beta-thalassemia",
+      "Cystic fibrosis",
+      "Duchenne muscular dystrophy",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is a gain-of-function mutation?",
+    "options": [
+      "Complete loss of protein activity",
+      "New or enhanced protein function",
+      "Reduced protein activity",
+      "No change in protein function"
+    ],
+    "answer": "New or enhanced protein function"
+  },
+  {
+    "question": "Which mutation causes Tay-Sachs disease?",
+    "options": [
+      "HEXA gene nonsense mutation",
+      "Frameshift in CFTR gene",
+      "Missense in hemoglobin",
+      "Deletion in dystrophin gene"
+    ],
+    "answer": "HEXA gene nonsense mutation"
+  },
+  {
+    "question": "What is a conditional mutation?",
+    "options": [
+      "Only affects certain cell types",
+      "Only expressed under specific conditions",
+      "Always causes severe phenotypes",
+      "Cannot be inherited"
+    ],
+    "answer": "Only expressed under specific conditions"
+  },
+  {
+    "question": "Which mechanism causes antibiotic resistance?",
+    "options": [
+      "Chromosomal translocation",
+      "Point mutations in target genes",
+      "Gene duplication",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is a neutral mutation?",
+    "options": [
+      "Has no effect on fitness",
+      "Always causes disease",
+      "Only occurs in non-coding DNA",
+      "Cannot be inherited"
+    ],
+    "answer": "Has no effect on fitness"
+  },
+  {
+    "question": "Which mutation causes Ehlers-Danlos syndrome (vascular type)?",
+    "options": [
+      "COL3A1 missense mutation",
+      "FBN1 nonsense mutation",
+      "CFTR deletion",
+      "DMD frameshift"
+    ],
+    "answer": "COL3A1 missense mutation"
+  },
+  {
+    "question": "What is mosaicism?",
+    "options": [
+      "Identical mutations in all cells",
+      "Different mutations in different cell populations",
+      "Only occurs in cancer cells",
+      "Cannot be detected genetically"
+    ],
+    "answer": "Different mutations in different cell populations"
+  },
+  {
+    "question": "Which mutation causes achondroplasia?",
+    "options": [
+      "FGFR3 gain-of-function",
+      "CFTR loss-of-function",
+      "Dystrophin deletion",
+      "Beta-globin missense"
+    ],
+    "answer": "FGFR3 gain-of-function"
+  },
+  {
+    "question": "What is a dominant-negative mutation?",
+    "options": [
+      "Inactivates wild-type allele product",
+      "Only affects homozygous individuals",
+      "Creates new protein function",
+      "Cannot be inherited"
+    ],
+    "answer": "Inactivates wild-type allele product"
+  },
+  {
+    "question": "Which disease results from mitochondrial DNA mutations?",
+    "options": [
+      "Leber hereditary optic neuropathy",
+      "Cystic fibrosis",
+      "Sickle cell anemia",
+      "Huntington's disease"
+    ],
+    "answer": "Leber hereditary optic neuropathy"
+  },
+  {
+    "question": "What is the mutation rate in human genomes?",
+    "options": [
+      "~1 mutation per cell division",
+      "~100 mutations per cell division",
+      "~1 mutation per generation",
+      "~1000 mutations per generation"
+    ],
+    "answer": "~1 mutation per generation"
+  },
+  {
+    "question": "Which mutation causes Marfan syndrome?",
+    "options": [
+      "FBN1 loss-of-function",
+      "CFTR deletion",
+      "DMD nonsense",
+      "HEXA missense"
+    ],
+    "answer": "FBN1 loss-of-function"
+  },
+  {
+    "question": "What is a suppressor mutation?",
+    "options": [
+      "Enhances another mutation's effect",
+      "Compensates for another mutation",
+      "Always occurs in the same gene",
+      "Cannot be inherited"
+    ],
+    "answer": "Compensates for another mutation"
+  },
+  {
+    "question": "Which mutation causes hereditary breast cancer (BRCA1/2)?",
+    "options": [
+      "Chromosomal translocation",
+      "Trinucleotide repeat expansion",
+      "Loss-of-function mutations",
+      "Mitochondrial DNA deletion"
+    ],
+    "answer": "Loss-of-function mutations"
+  },
+  {
+    "question": "What is the most common CFTR mutation in cystic fibrosis?",
+    "options": [
+      "G542X",
+      "ΔF508",
+      "W1282X",
+      "N1303K"
+    ],
+    "answer": "ΔF508"
+  },
+  {
+    "question": "Which mutation causes Huntington's disease?",
+    "options": [
+      "CAG repeat expansion in HTT",
+      "CTG repeat expansion in DMPK",
+      "GAA repeat expansion in FXN",
+      "CCG repeat expansion in FMR1"
+    ],
+    "answer": "CAG repeat expansion in HTT"
+  }
+]

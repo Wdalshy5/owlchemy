@@ -1,0 +1,312 @@
+[
+    {
+      "question": "Where does transcription occur in eukaryotic cells?",
+      "options": [
+        "Cytoplasm",
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome"
+      ],
+      "answer": "Nucleus"
+    },
+    {
+      "question": "Which component recognizes the TATA box in promoters?",
+      "options": [
+        "RNA polymerase II",
+        "TFIID",
+        "Sigma factor",
+        "Mediator complex"
+      ],
+      "answer": "TFIID"
+    },
+    {
+      "question": "What is the function of the 5' cap in mRNA processing?",
+      "options": [
+        "Initiate translation",
+        "Protect from exonuclease degradation",
+        "Facilitate splicing",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which process removes introns from pre-mRNA?",
+      "options": [
+        "Capping",
+        "Polyadenylation",
+        "Splicing",
+        "Editing"
+      ],
+      "answer": "Splicing"
+    },
+    {
+      "question": "What binds to the poly-A tail during translation initiation?",
+      "options": [
+        "Small ribosomal subunit",
+        "Poly-A binding protein",
+        "Release factor",
+        "Aminoacyl-tRNA synthetase"
+      ],
+      "answer": "Poly-A binding protein"
+    },
+    {
+      "question": "Which modification occurs to histone tails during transcriptional activation?",
+      "options": [
+        "Methylation",
+        "Acetylation",
+        "Phosphorylation",
+        "Ubiquitination"
+      ],
+      "answer": "Acetylation"
+    },
+    {
+      "question": "What is the function of microRNAs (miRNAs)?",
+      "options": [
+        "Enhance transcription",
+        "Promote mRNA degradation",
+        "Activate translation",
+        "Repair DNA damage"
+      ],
+      "answer": "Promote mRNA degradation"
+    },
+    {
+      "question": "Which enzyme synthesizes mRNA from DNA?",
+      "options": [
+        "DNA polymerase",
+        "RNA polymerase II",
+        "Primase",
+        "Reverse transcriptase"
+      ],
+      "answer": "RNA polymerase II"
+    },
+    {
+      "question": "What is the role of enhancer sequences?",
+      "options": [
+        "Initiate transcription",
+        "Increase transcription rate",
+        "Terminate transcription",
+        "Mark replication origins"
+      ],
+      "answer": "Increase transcription rate"
+    },
+    {
+      "question": "Which component recognizes the start codon during translation?",
+      "options": [
+        "16S rRNA",
+        "Initiator tRNA",
+        "Release factor",
+        "Shine-Dalgarno sequence"
+      ],
+      "answer": "Initiator tRNA"
+    },
+    {
+      "question": "What disease results from abnormal trinucleotide repeat expansion in non-coding regions?",
+      "options": [
+        "Huntington's disease",
+        "Fragile X syndrome",
+        "Cystic fibrosis",
+        "Sickle cell anemia"
+      ],
+      "answer": "Fragile X syndrome"
+    },
+    {
+      "question": "Which post-translational modification targets proteins for degradation?",
+      "options": [
+        "Acetylation",
+        "Ubiquitination",
+        "Glycosylation",
+        "Phosphorylation"
+      ],
+      "answer": "Ubiquitination"
+    },
+    {
+      "question": "What is the function of the spliceosome?",
+      "options": [
+        "Add 5' cap",
+        "Add poly-A tail",
+        "Remove introns",
+        "Degrade mRNA"
+      ],
+      "answer": "Remove introns"
+    },
+    {
+      "question": "Which mechanism allows for alternative protein products from a single gene?",
+      "options": [
+        "Alternative splicing",
+        "RNA editing",
+        "Translational frameshifting",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the role of DNA methylation in gene regulation?",
+      "options": [
+        "Activate transcription",
+        "Repress transcription",
+        "Initiate translation",
+        "Mark replication origins"
+      ],
+      "answer": "Repress transcription"
+    },
+    {
+      "question": "Which component binds to operator sequences in prokaryotes?",
+      "options": [
+        "Activator proteins",
+        "Repressor proteins",
+        "RNA polymerase",
+        "Ribosomes"
+      ],
+      "answer": "Repressor proteins"
+    },
+    {
+      "question": "What is the function of chaperone proteins?",
+      "options": [
+        "Degrade misfolded proteins",
+        "Facilitate protein folding",
+        "Modify mRNA",
+        "Repair DNA damage"
+      ],
+      "answer": "Facilitate protein folding"
+    },
+    {
+      "question": "Which process converts pre-mRNA to mature mRNA?",
+      "options": [
+        "Transcription",
+        "Translation",
+        "RNA processing",
+        "DNA replication"
+      ],
+      "answer": "RNA processing"
+    },
+    {
+      "question": "What is the role of the mediator complex?",
+      "options": [
+        "Initiate transcription",
+        "Bridge between transcription factors and RNA polymerase",
+        "Terminate transcription",
+        "Degrade mRNA"
+      ],
+      "answer": "Bridge between transcription factors and RNA polymerase"
+    },
+    {
+      "question": "Which mechanism explains differences between identical twins?",
+      "options": [
+        "DNA mutations",
+        "Epigenetic modifications",
+        "Alternative splicing",
+        "All of the above"
+      ],
+      "answer": "Epigenetic modifications"
+    },
+    {
+      "question": "What is the function of the poly-A tail?",
+      "options": [
+        "Initiate transcription",
+        "Protect mRNA from degradation",
+        "Facilitate splicing",
+        "Mark proteins for degradation"
+      ],
+      "answer": "Protect mRNA from degradation"
+    },
+    {
+      "question": "Which RNA polymerase transcribes ribosomal RNA?",
+      "options": [
+        "RNA polymerase I",
+        "RNA polymerase II",
+        "RNA polymerase III",
+        "RNA polymerase IV"
+      ],
+      "answer": "RNA polymerase I"
+    },
+    {
+      "question": "What is the role of sigma factors in prokaryotes?",
+      "options": [
+        "Initiate translation",
+        "Direct RNA polymerase to promoters",
+        "Terminate transcription",
+        "Process rRNA"
+      ],
+      "answer": "Direct RNA polymerase to promoters"
+    },
+    {
+      "question": "Which disease results from defective mRNA splicing?",
+      "options": [
+        "Beta-thalassemia",
+        "Huntington's disease",
+        "Cystic fibrosis",
+        "Tay-Sachs disease"
+      ],
+      "answer": "Beta-thalassemia"
+    },
+    {
+      "question": "What is the function of the proteasome?",
+      "options": [
+        "Synthesize proteins",
+        "Degrade ubiquitinated proteins",
+        "Modify mRNA",
+        "Repair DNA damage"
+      ],
+      "answer": "Degrade ubiquitinated proteins"
+    },
+    {
+      "question": "Which mechanism allows for tissue-specific gene expression?",
+      "options": [
+        "Alternative promoters",
+        "Tissue-specific transcription factors",
+        "Chromatin remodeling",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the role of enhancer RNAs (eRNAs)?",
+      "options": [
+        "Code for proteins",
+        "Stabilize mRNA",
+        "Facilitate enhancer-promoter looping",
+        "Degrade mRNA"
+      ],
+      "answer": "Facilitate enhancer-promoter looping"
+    },
+    {
+      "question": "Which process converts tryptophan to serotonin?",
+      "options": [
+        "Transcription",
+        "Translation",
+        "Post-translational modification",
+        "RNA editing"
+      ],
+      "answer": "Post-translational modification"
+    },
+    {
+      "question": "What is the function of the Shine-Dalgarno sequence?",
+      "options": [
+        "Initiate transcription",
+        "Position ribosomes on mRNA",
+        "Terminate translation",
+        "Mark proteins for degradation"
+      ],
+      "answer": "Position ribosomes on mRNA"
+    },
+    {
+      "question": "Which mechanism explains genomic imprinting?",
+      "options": [
+        "DNA methylation",
+        "Histone modification",
+        "Chromatin remodeling",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the role of the 5' UTR in translation regulation?",
+      "options": [
+        "Bind transcription factors",
+        "Bind translation initiation factors",
+        "Mark mRNA for degradation",
+        "Facilitate splicing"
+      ],
+      "answer": "Bind translation initiation factors"
+    }
+  ]

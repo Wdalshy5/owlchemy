@@ -1,0 +1,312 @@
+[
+    {
+      "question": "Which enzyme unwinds the DNA double helix during replication?",
+      "options": [
+        "DNA polymerase",
+        "Helicase",
+        "Topoisomerase",
+        "Ligase"
+      ],
+      "answer": "Helicase"
+    },
+    {
+      "question": "What is the function of DNA ligase?",
+      "options": [
+        "Synthesize RNA primers",
+        "Join Okazaki fragments",
+        "Proofread DNA strands",
+        "Unwind supercoiled DNA"
+      ],
+      "answer": "Join Okazaki fragments"
+    },
+    {
+      "question": "Which repair mechanism corrects thymine dimers?",
+      "options": [
+        "Base excision repair",
+        "Nucleotide excision repair",
+        "Mismatch repair",
+        "Non-homologous end joining"
+      ],
+      "answer": "Nucleotide excision repair"
+    },
+    {
+      "question": "What direction does DNA polymerase synthesize new DNA?",
+      "options": [
+        "3' to 5'",
+        "5' to 3'",
+        "Both directions",
+        "Randomly"
+      ],
+      "answer": "5' to 3'"
+    },
+    {
+      "question": "Which enzyme prevents DNA from becoming overly supercoiled during replication?",
+      "options": [
+        "Primase",
+        "Topoisomerase",
+        "Helicase",
+        "Single-strand binding proteins"
+      ],
+      "answer": "Topoisomerase"
+    },
+    {
+      "question": "What is the function of single-strand binding proteins?",
+      "options": [
+        "Unwind DNA",
+        "Prevent reannealing of separated strands",
+        "Remove RNA primers",
+        "Join DNA fragments"
+      ],
+      "answer": "Prevent reannealing of separated strands"
+    },
+    {
+      "question": "Which enzyme synthesizes RNA primers?",
+      "options": [
+        "DNA polymerase α",
+        "Primase",
+        "DNA polymerase δ",
+        "DNA polymerase ε"
+      ],
+      "answer": "Primase"
+    },
+    {
+      "question": "What causes Okazaki fragments to form?",
+      "options": [
+        "DNA polymerase working backward",
+        "Discontinuous synthesis on lagging strand",
+        "DNA repair mechanisms",
+        "Transcription interference"
+      ],
+      "answer": "Discontinuous synthesis on lagging strand"
+    },
+    {
+      "question": "Which repair pathway fixes single-base mismatches?",
+      "options": [
+        "Base excision repair",
+        "Nucleotide excision repair",
+        "Mismatch repair",
+        "Double-strand break repair"
+      ],
+      "answer": "Mismatch repair"
+    },
+    {
+      "question": "What is the function of telomerase?",
+      "options": [
+        "Unwind DNA at origins",
+        "Add telomeric repeats to chromosome ends",
+        "Remove RNA primers",
+        "Proofread DNA synthesis"
+      ],
+      "answer": "Add telomeric repeats to chromosome ends"
+    },
+    {
+      "question": "Which DNA polymerase has proofreading activity in eukaryotes?",
+      "options": [
+        "α",
+        "β",
+        "δ",
+        "γ"
+      ],
+      "answer": "δ"
+    },
+    {
+      "question": "What type of damage does base excision repair fix?",
+      "options": [
+        "Thymine dimers",
+        "Single-strand breaks",
+        "Deaminated bases",
+        "Double-strand breaks"
+      ],
+      "answer": "Deaminated bases"
+    },
+    {
+      "question": "Which enzyme removes RNA primers in eukaryotic replication?",
+      "options": [
+        "DNA polymerase α",
+        "DNA polymerase δ",
+        "RNase H",
+        "FEN1 endonuclease"
+      ],
+      "answer": "FEN1 endonuclease"
+    },
+    {
+      "question": "What is the role of PCNA in DNA replication?",
+      "options": [
+        "Unwind DNA",
+        "Sliding clamp for DNA polymerase",
+        "Synthesize RNA primers",
+        "Join Okazaki fragments"
+      ],
+      "answer": "Sliding clamp for DNA polymerase"
+    },
+    {
+      "question": "Which repair mechanism fixes double-strand breaks without a template?",
+      "options": [
+        "Homologous recombination",
+        "Non-homologous end joining",
+        "Mismatch repair",
+        "Nucleotide excision repair"
+      ],
+      "answer": "Non-homologous end joining"
+    },
+    {
+      "question": "What disease results from defective nucleotide excision repair?",
+      "options": [
+        "Ataxia-telangiectasia",
+        "Xeroderma pigmentosum",
+        "Fanconi anemia",
+        "Bloom syndrome"
+      ],
+      "answer": "Xeroderma pigmentosum"
+    },
+    {
+      "question": "Which enzyme adds nucleotides to growing DNA strands?",
+      "options": [
+        "Helicase",
+        "Primase",
+        "DNA polymerase",
+        "Ligase"
+      ],
+      "answer": "DNA polymerase"
+    },
+    {
+      "question": "What maintains the ends of linear chromosomes?",
+      "options": [
+        "Centromeres",
+        "Telomeres",
+        "Origins of replication",
+        "Primers"
+      ],
+      "answer": "Telomeres"
+    },
+    {
+      "question": "Which repair pathway uses the sister chromatid as a template?",
+      "options": [
+        "Base excision repair",
+        "Homologous recombination",
+        "Non-homologous end joining",
+        "Mismatch repair"
+      ],
+      "answer": "Homologous recombination"
+    },
+    {
+      "question": "What is the function of the origin recognition complex (ORC)?",
+      "options": [
+        "Initiate transcription",
+        "Mark replication origins",
+        "Terminate replication",
+        "Repair DNA damage"
+      ],
+      "answer": "Mark replication origins"
+    },
+    {
+      "question": "Which condition results from defective DNA mismatch repair?",
+      "options": [
+        "Hereditary nonpolyposis colon cancer",
+        "Breast cancer",
+        "Sickle cell anemia",
+        "Cystic fibrosis"
+      ],
+      "answer": "Hereditary nonpolyposis colon cancer"
+    },
+    {
+      "question": "What synthesizes mitochondrial DNA?",
+      "options": [
+        "DNA polymerase α",
+        "DNA polymerase γ",
+        "DNA polymerase δ",
+        "DNA polymerase ε"
+      ],
+      "answer": "DNA polymerase γ"
+    },
+    {
+      "question": "Which enzyme is defective in Bloom syndrome?",
+      "options": [
+        "Helicase",
+        "Topoisomerase",
+        "Ligase",
+        "Primase"
+      ],
+      "answer": "Helicase"
+    },
+    {
+      "question": "What is the role of telomeres in cellular aging?",
+      "options": [
+        "Prevent chromosome fusion",
+        "Limit number of cell divisions",
+        "Both A and B",
+        "Neither A nor B"
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "question": "Which repair mechanism removes uracil from DNA?",
+      "options": [
+        "Base excision repair",
+        "Nucleotide excision repair",
+        "Mismatch repair",
+        "Non-homologous end joining"
+      ],
+      "answer": "Base excision repair"
+    },
+    {
+      "question": "What is the function of the replisome?",
+      "options": [
+        "DNA repair complex",
+        "Transcription machinery",
+        "Replication machinery",
+        "RNA processing complex"
+      ],
+      "answer": "Replication machinery"
+    },
+    {
+      "question": "Which enzyme is targeted by fluoroquinolone antibiotics?",
+      "options": [
+        "DNA polymerase",
+        "Topoisomerase II",
+        "Helicase",
+        "Ligase"
+      ],
+      "answer": "Topoisomerase II"
+    },
+    {
+      "question": "What disease results from defective double-strand break repair?",
+      "options": [
+        "Ataxia-telangiectasia",
+        "Xeroderma pigmentosum",
+        "Cockayne syndrome",
+        "Hereditary spherocytosis"
+      ],
+      "answer": "Ataxia-telangiectasia"
+    },
+    {
+      "question": "Which component recognizes damaged bases in base excision repair?",
+      "options": [
+        "AP endonuclease",
+        "DNA glycosylase",
+        "DNA polymerase β",
+        "DNA ligase"
+      ],
+      "answer": "DNA glycosylase"
+    },
+    {
+      "question": "What is the end-replication problem?",
+      "options": [
+        "Inability to fully replicate chromosome ends",
+        "Difficulty initiating replication",
+        "Errors in DNA proofreading",
+        "Primer removal issues"
+      ],
+      "answer": "Inability to fully replicate chromosome ends"
+    },
+    {
+      "question": "Which enzyme is defective in Werner syndrome?",
+      "options": [
+        "DNA helicase",
+        "DNA polymerase",
+        "Telomerase",
+        "Topoisomerase"
+      ],
+      "answer": "DNA helicase"
+    }
+  ]
