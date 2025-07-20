@@ -1,38 +1,252 @@
 {
   "chapters": {
-      "basic-genetic-concepts": {
-        "title": "Basic Genetic Concepts",
-        "lessons": {
-          "introduction-to-genetics-and-genes": {
-            "title": "Introduction to Genetics and Genes",
-            "batches": ["batch1"]
-          },
-          "structure-and-function-of-chromosomal-dna": {
-            "title": "Structure and Function of Chromosomal DNA",
-            "batches": ["batch1"]
-          },
-          "genetic-inheritance-patterns": {
-            "title": "Genetic Inheritance Patterns",
-            "batches": []
-          },
-          "dna-replication-and-repair": {
-            "title": "DNA Replication and Repair",
-            "batches": []
-          },
-          "gene-expression-and-regulation": {
-            "title": "Gene Expression and Regulation",
-            "batches": []
-          },
-          "genetic-mutations-and-variations": {
-            "title": "Genetic Mutations and Variations",
-            "batches": []
-          },
-          "applications-of-genetic-principles": {
-            "title": "Applications of Genetic Principles",
-            "batches": []
-          }
+    "basic-biochemistry-molecules": {
+      "title": "Basic Biochemistry Molecules",
+      "lessons": {
+        "carbohydrates-structure": {
+          "title": "Carbohydrates Structure",
+          "batches": ["batch1"]
+        },
+        "lipid-chemistry": {
+          "title": "Lipid Chemistry",
+          "batches": ["batch1"]
+        },
+        "amino-acid-chemistry": {
+          "title": "Amino Acid Chemistry",
+          "batches": ["batch1"]
+        },
+        "nucleic-acids-and-nucleotides": {
+          "title": "Nucleic Acids and Nucleotides",
+          "batches": ["batch1"]
+        },
+        "vitamins": {
+          "title": "Vitamins",
+          "batches": ["batch1"]
+        }
+      }
+    },
+    "proteins-enzymes": {
+      "title": "Proteins & Enzymes",
+      "lessons": {
+        "protein-biochemistry": {
+          "title": "Protein Biochemistry",
+          "batches": ["batch1"]
+        },
+        "enzyme-biochemistry": {
+          "title": "Enzyme Biochemistry",
+          "batches": ["batch1"]
+        }
+      }
+    },
+    "bioenergetics-metabolism": {
+      "title": "Bioenergetics & Metabolism",
+      "lessons": {
+        "preview-of-metabolism": {
+          "title": "Preview of Metabolism",
+          "batches": ["batch1"]
+        },
+        "common-catabolic-pathways": {
+          "title": "Common Catabolic Pathways",
+          "batches": ["batch1"]
+        },
+        "digestion-absorption-of-cho-glycolysis": {
+          "title": "Digestion & Absorption of CHO & Glycolysis",
+          "batches": ["batch1"]
+        },
+        "gluconeogenesis": {
+          "title": "Gluconeogenesis",
+          "batches": ["batch1"]
+        },
+        "pentose-phosphate-pathway-uronic-pathway": {
+          "title": "Pentose Phosphate Pathway & Uronic Pathway",
+          "batches": ["batch1"]
+        },
+        "metabolism-of-hexoses-other-than-glucose": {
+          "title": "Metabolism of Hexoses Other Than Glucose",
+          "batches": ["batch1"]
+        },
+        "glycogen-metabolism": {
+          "title": "Glycogen Metabolism",
+          "batches": ["batch1"]
+        }
+      }
+    },
+    "lipid-metabolism": {
+      "title": "Lipid Metabolism",
+      "lessons": {
+        "digestion-absorption-of-lipids": {
+          "title": "Digestion & Absorption of Lipids",
+          "batches": ["batch1"]
+        },
+        "de-novo-biosynthesis-of-fatty-acids": {
+          "title": "De Novo Biosynthesis of Fatty Acids",
+          "batches": ["batch1"]
+        },
+        "fatty-acid-oxidation-pathways": {
+          "title": "Fatty Acid Oxidation Pathways",
+          "batches": ["batch1"]
+        },
+        "triglyceride-metabolism": {
+          "title": "Triglyceride Metabolism",
+          "batches": ["batch1"]
+        },
+        "phospholipids-sphingolipids-metabolism": {
+          "title": "Phospholipids & Sphingolipids Metabolism",
+          "batches": ["batch1"]
+        },
+        "cholesterol-bile-acids-metabolism": {
+          "title": "Cholesterol & Bile Acids Metabolism",
+          "batches": ["batch1"]
+        },
+        "eicosanoids-steroid-hormones-metabolism": {
+          "title": "Eicosanoids & Steroid Hormones Metabolism",
+          "batches": ["batch1"]
+        },
+        "ketone-body-metabolism": {
+          "title": "Ketone Body Metabolism",
+          "batches": ["batch1"]
+        },
+        "lipid-transport-lipoproteins": {
+          "title": "Lipid Transport & Lipoproteins",
+          "batches": ["batch1"]
+        }
+      }
+    },
+    "amino-acid-protein-metabolism": {
+      "title": "Amino Acid & Protein Metabolism",
+      "lessons": {
+        "nitrogen-metabolism-and-amino-acid-catabolism": {
+          "title": "Nitrogen Metabolism and Amino Acid Catabolism",
+          "batches": ["batch1"]
+        },
+        "biosynthesis-of-urea-urea-cycle": {
+          "title": "Biosynthesis of Urea (Urea Cycle)",
+          "batches": ["batch1"]
+        },
+        "catabolism-of-carbon-skeletons-of-amino-acids": {
+          "title": "Catabolism of Carbon Skeletons of Amino Acids",
+          "batches": ["batch1"]
+        },
+        "catabolism-of-carbon-skeletons-of-amino-acids-part-2": {
+          "title": "Catabolism of Carbon Skeletons of Amino Acids (Part 2)",
+          "batches": ["batch1"]
+        },
+        "specialized-products-derived-from-amino-acids": {
+          "title": "Specialized Products Derived from Amino Acids",
+          "batches": ["batch1"]
+        },
+        "biosynthesis-of-heme-and-porphyrias": {
+          "title": "Biosynthesis of Heme and Porphyrias",
+          "batches": ["batch1"]
+        },
+        "catabolism-of-heme-and-bilirubin-metabolism": {
+          "title": "Catabolism of Heme and Bilirubin Metabolism",
+          "batches": ["batch1"]
+        },
+        "pyrimidine-nucleotide-metabolism": {
+          "title": "Pyrimidine Nucleotide Metabolism",
+          "batches": ["batch1"]
+        },
+        "purine-nucleotide-metabolism": {
+          "title": "Purine Nucleotide Metabolism",
+          "batches": ["batch1"]
+        }
+      }
+    },
+    "metabolic-integration": {
+      "title": "Metabolic Integration",
+      "lessons": {
+        "metabolic-integration-and-regulation": {
+          "title": "Metabolic Integration and Regulation",
+          "batches": ["batch1"]
+        },
+        "key-organs-in-metabolic-integration": {
+          "title": "Key Organs in Metabolic Integration",
+          "batches": ["batch1"]
+        },
+        "metabolic-states": {
+          "title": "Metabolic States",
+          "batches": ["batch1"]
+        },
+        "interorgan-metabolic-cycles": {
+          "title": "Interorgan Metabolic Cycles",
+          "batches": ["batch1"]
+        },
+        "hormonal-regulation-of-metabolism": {
+          "title": "Hormonal Regulation of Metabolism",
+          "batches": ["batch1"]
+        },
+        "metabolic-adaptation-in-disease-states": {
+          "title": "Metabolic Adaptation in Disease States",
+          "batches": ["batch1"]
+        }
+      }
+    },
+    "basic-genetic-concepts": {
+      "title": "Basic Genetic Concepts",
+      "lessons": {
+        "introduction-to-genetics-and-genes": {
+          "title": "Introduction to Genetics and Genes",
+          "batches": ["batch1"]
+        },
+        "structure-and-function-of-chromosomal-dna": {
+          "title": "Structure and Function of Chromosomal DNA",
+          "batches": ["batch1"]
+        },
+        "genetic-inheritance-patterns": {
+          "title": "Genetic Inheritance Patterns",
+          "batches": ["batch1"]
+        },
+        "dna-replication-and-repair": {
+          "title": "DNA Replication and Repair",
+          "batches": ["batch1"]
+        },
+        "gene-expression-and-regulation": {
+          "title": "Gene Expression and Regulation",
+          "batches": ["batch1"]
+        },
+        "genetic-mutations-and-variations": {
+          "title": "Genetic Mutations and Variations",
+          "batches": ["batch1"]
+        },
+        "applications-of-genetic-principles": {
+          "title": "Applications of Genetic Principles",
+          "batches": ["batch1"]
+        }
+      }
+    },
+    "genetic-diseases-and-inheritance": {
+      "title": "Genetic Diseases and Inheritance",
+      "lessons": {
+        "introduction-to-genetic-diseases": {
+          "title": "Introduction to Genetic Diseases",
+          "batches": ["batch1"]
+        },
+        "genetic-basis-of-diseases": {
+          "title": "Genetic Basis of Diseases",
+          "batches": ["batch1"]
+        },
+        "mendelian-inheritance-autosomal-sex-linked": {
+          "title": "Mendelian Inheritance (Autosomal & Sex-Linked)",
+          "batches": ["batch1"]
+        },
+        "non-mendelian-inheritance-patterns": {
+          "title": "Non-Mendelian Inheritance Patterns",
+          "batches": ["batch1"]
+        },
+        "population-genetics1": {
+          "title": "Population Genetics1",
+          "batches": ["batch1"]
+        },
+        "population-genetics2": {
+          "title": "Population Genetics2",
+          "batches": ["batch1"]
+        },
+        "chromosomal-disorders-aneuploidy-structural-defects": {
+          "title": "Chromosomal Disorders (Aneuploidy, Structural Defects)",
+          "batches": ["batch1"]
         }
       }
     }
-  
+  }
 }
