@@ -1,0 +1,31 @@
+{
+    "title": "Introduction to Genetic Diseases",
+    "objectives": [
+      "Classify genetic disorders by inheritance pattern",
+      "Interpret pedigree charts for disease risk assessment",
+      "Correlate molecular defects with clinical phenotypes",
+      "Evaluate genetic testing strategies"
+    ],
+    "sections": {
+      "disease_classification": {
+        "title": "Categories of Genetic Disorders",
+        "content": "<div class='lesson-section'><table class='disease-table'><tr><th>Type</th><th>Example</th><th>Key Feature</th></tr><tr><td>Single-gene</td><td>Sickle cell anemia</td><td>Mendelian inheritance</td></tr><tr><td>Chromosomal</td><td>Down syndrome</td><td>Trisomy 21</td></tr><tr><td>Mitochondrial</td><td>MELAS</td><td>Maternal inheritance</td></tr><tr><td>Multifactorial</td><td>Type 2 diabetes</td><td>Gene-environment interaction</td></tr></table></div>"
+      },
+      "pedigree_analysis": {
+        "title": "Family History Interpretation",
+        "content": "<div class='enzyme-card'><strong>Autosomal Dominant</strong><br>• Vertical transmission<br>• 50% offspring risk<br>• Example: Huntington's disease</div><div class='enzyme-card'><strong>X-linked Recessive</strong><br>• Male predominance<br>• No male-to-male transmission<br>• Example: Duchenne muscular dystrophy</div>"
+      },
+      "molecular_pathology": {
+        "title": "Genotype-Phenotype Correlations",
+        "content": "<div class='clinical-box'><h3>Cystic Fibrosis</h3><p><span class='clinical-highlight'>Gene:</span> CFTR (7q31.2)</p><p><span class='clinical-highlight'>ΔF508 Mutation:</span> Protein misfolding → chloride channel defect</p><p><span class='clinical-highlight'>Triad:</span> Chronic lung disease, pancreatic insufficiency, ↑sweat Cl<sup>-</sup></p></div><div class='clinical-box'><h3>Marfan Syndrome</h3><p><span class='clinical-highlight'>Gene:</span> FBN1 (fibrillin-1)</p><p><span class='clinical-highlight'>Effect:</span> Connective tissue weakness</p><p><span class='clinical-highlight'>Diagnosis:</span> Ghent criteria (aortic root dilation + ectopia lentis)</p></div>"
+      },
+      "diagnostic_approaches": {
+        "title": "Genetic Testing Modalities",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Karyotyping:</strong> Aneuploidy detection (resolution 5-10 Mb)</li><li><strong>FISH:</strong> Targeted microdeletions (e.g., 22q11.2)</li><li><strong>CMA:</strong> Genome-wide CNVs (resolution 50-100 kb)</li><li><strong>NGS:</strong> Panel/WES/WGS (single nucleotide resolution)</li></ul></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why are autosomal dominant disorders often late-onset?</h3><p>Many involve gain-of-function or toxic aggregation (e.g., huntingtin protein) that takes decades to manifest, unlike recessive loss-of-function disorders presenting in childhood.</p></div><div class='faq-item'><h3>How can identical mutations cause different disease severity?</h3><p>Due to modifier genes (e.g., α-thalassemia ameliorates β-thalassemia) or environmental factors (diet in PKU).</p></div><div class='faq-item'><h3>Why are mitochondrial disorders multisystemic?</h3><p>High-energy tissues (brain, muscle, retina) are most vulnerable to ATP production defects from mtDNA mutations.</p></div>"
+      }
+    }
+  }

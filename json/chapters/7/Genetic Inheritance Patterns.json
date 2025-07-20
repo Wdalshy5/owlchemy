@@ -1,0 +1,27 @@
+{
+    "title": "Genetic Inheritance Patterns",
+    "objectives": [
+      "Distinguish between Mendelian and non-Mendelian inheritance",
+      "Solve pedigree analysis problems",
+      "Recognize inheritance patterns in genetic disorders",
+      "Apply probability rules to genetic crosses"
+    ],
+    "sections": {
+      "mendelian_inheritance": {
+        "title": "Classical Inheritance Patterns",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Autosomal Dominant:</strong> Huntington's disease (50% offspring risk)</li><li><strong>Autosomal Recessive:</strong> Cystic fibrosis (25% risk)</li><li><strong>X-linked:</strong> Hemophilia (son of carrier mother has 50% risk)</li></ul></div>"
+      },
+      "non_mendelian": {
+        "title": "Complex Inheritance",
+        "content": "<div class='enzyme-card'><strong>Non-Mendelian Mechanisms</strong><br>• <span class='clinical-highlight'>Mitochondrial:</span> Maternal inheritance (e.g., MELAS)<br>• <span class='clinical-highlight'>Imprinting:</span> Prader-Willi/Angelman syndromes<br>• <span class='clinical-highlight'>Mosaicism:</span> Post-zygotic mutations</div>"
+      },
+      "pedigree_analysis": {
+        "title": "Clinical Interpretation",
+        "content": "<div class='clinical-box'><h3>Pedigree Red Flags</h3><p><span class='clinical-highlight'>Dominant:</span> Vertical transmission</p><p><span class='clinical-highlight'>Recessive:</span> Horizontal pattern, consanguinity</p><p><span class='clinical-highlight'>X-linked:</span> No male-to-male transmission</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why can two unaffected parents have a child with an autosomal dominant disorder?</h3><p>Possible explanations include germline mosaicism in one parent or de novo mutation in the child.</p></div>"
+      }
+    }
+  }

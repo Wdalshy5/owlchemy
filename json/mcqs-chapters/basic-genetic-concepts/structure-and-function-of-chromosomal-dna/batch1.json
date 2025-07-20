@@ -1,0 +1,302 @@
+[
+    {
+      "question": "What is the primary function of chromosomal DNA?",
+      "options": [
+        "Energy storage",
+        "Protein synthesis",
+        "Storing and transmitting genetic information",
+        "Cell movement"
+      ],
+      "answer": "Storing and transmitting genetic information"
+    },
+    {
+      "question": "Which of the following best describes the structure of a chromosome?",
+      "options": [
+        "A single-stranded RNA molecule",
+        "A tightly coiled complex of DNA and proteins",
+        "A lipid bilayer with embedded proteins",
+        "A free-floating circular DNA molecule"
+      ],
+      "answer": "A tightly coiled complex of DNA and proteins"
+    },
+    {
+      "question": "What are the two main components of chromatin?",
+      "options": [
+        "DNA and RNA",
+        "DNA and lipids",
+        "DNA and histones",
+        "RNA and carbohydrates"
+      ],
+      "answer": "DNA and histones"
+    },
+    {
+      "question": "Which protein plays a key role in packaging DNA into nucleosomes?",
+      "options": [
+        "Hemoglobin",
+        "Actin",
+        "Histones",
+        "Collagen"
+      ],
+      "answer": "Histones"
+    },
+    {
+      "question": "What is the basic structural unit of chromatin?",
+      "options": [
+        "Centromere",
+        "Nucleosome",
+        "Telomere",
+        "Ribosome"
+      ],
+      "answer": "Nucleosome"
+    },
+    {
+      "question": "How many histone proteins are present in a single nucleosome core?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "Which of the following is NOT a level of DNA packaging in eukaryotes?",
+      "options": [
+        "Nucleosome formation",
+        "30-nm fiber",
+        "Looped domains",
+        "Circular plasmid"
+      ],
+      "answer": "Circular plasmid"
+    },
+    {
+      "question": "What is the role of the centromere in a chromosome?",
+      "options": [
+        "Site of transcription",
+        "Attachment point for spindle fibers",
+        "Location of ribosome assembly",
+        "Replication origin"
+      ],
+      "answer": "Attachment point for spindle fibers"
+    },
+    {
+      "question": "What are telomeres?",
+      "options": [
+        "Enzymes that replicate DNA",
+        "Proteins that bind to histones",
+        "Repetitive DNA sequences at chromosome ends",
+        "Sites of crossing over"
+      ],
+      "answer": "Repetitive DNA sequences at chromosome ends"
+    },
+    {
+      "question": "Why are telomeres important?",
+      "options": [
+        "They prevent chromosome shortening during replication",
+        "They code for essential proteins",
+        "They initiate DNA replication",
+        "They help in chromosome condensation"
+      ],
+      "answer": "They prevent chromosome shortening during replication"
+    },
+    {
+      "question": "Which enzyme maintains telomere length?",
+      "options": [
+        "DNA polymerase",
+        "Telomerase",
+        "RNA polymerase",
+        "Helicase"
+      ],
+      "answer": "Telomerase"
+    },
+    {
+      "question": "In which phase of the cell cycle does DNA replication occur?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": "S phase"
+    },
+    {
+      "question": "What is the difference between euchromatin and heterochromatin?",
+      "options": [
+        "Euchromatin is tightly packed, heterochromatin is loosely packed",
+        "Euchromatin is transcriptionally active, heterochromatin is inactive",
+        "Euchromatin contains only RNA, heterochromatin contains DNA",
+        "Euchromatin is found in prokaryotes, heterochromatin in eukaryotes"
+      ],
+      "answer": "Euchromatin is transcriptionally active, heterochromatin is inactive"
+    },
+    {
+      "question": "Which of the following is true about histone modifications?",
+      "options": [
+        "They alter the DNA sequence",
+        "They affect gene expression without changing DNA sequence",
+        "They only occur in prokaryotes",
+        "They prevent DNA replication"
+      ],
+      "answer": "They affect gene expression without changing DNA sequence"
+    },
+    {
+      "question": "What is the function of topoisomerases in DNA?",
+      "options": [
+        "Unwind the double helix",
+        "Relieve torsional strain during replication",
+        "Synthesize RNA primers",
+        "Repair thymine dimers"
+      ],
+      "answer": "Relieve torsional strain during replication"
+    },
+    {
+      "question": "Which of the following describes the 30-nm fiber?",
+      "options": [
+        "A type of RNA secondary structure",
+        "A coiled form of chromatin",
+        "A bacterial plasmid",
+        "A microtubule structure"
+      ],
+      "answer": "A coiled form of chromatin"
+    },
+    {
+      "question": "What is the role of cohesin proteins?",
+      "options": [
+        "Break hydrogen bonds in DNA",
+        "Hold sister chromatids together",
+        "Degrade damaged DNA",
+        "Synthesize telomeres"
+      ],
+      "answer": "Hold sister chromatids together"
+    },
+    {
+      "question": "Which of the following is a feature of prokaryotic chromosomal DNA?",
+      "options": [
+        "Linear structure with telomeres",
+        "Associated with histones",
+        "Circular and supercoiled",
+        "Packaged into nucleosomes"
+      ],
+      "answer": "Circular and supercoiled"
+    },
+    {
+      "question": "What is the function of scaffold proteins in chromosomes?",
+      "options": [
+        "Provide structural support for chromatin loops",
+        "Act as enzymes in DNA replication",
+        "Break down damaged DNA",
+        "Synthesize ribosomal RNA"
+      ],
+      "answer": "Provide structural support for chromatin loops"
+    },
+    {
+      "question": "Which of the following is true about satellite DNA?",
+      "options": [
+        "It codes for essential proteins",
+        "It consists of highly repetitive sequences",
+        "It is found only in mitochondria",
+        "It is unique to prokaryotes"
+      ],
+      "answer": "It consists of highly repetitive sequences"
+    },
+    {
+      "question": "What is the significance of chromosome banding patterns?",
+      "options": [
+        "They indicate regions of high mutation rates",
+        "They help in identifying specific chromosomes",
+        "They mark sites of active transcription",
+        "They prevent DNA replication errors"
+      ],
+      "answer": "They help in identifying specific chromosomes"
+    },
+    {
+      "question": "Which protein helps condense chromosomes during mitosis?",
+      "options": [
+        "Actin",
+        "Condensin",
+        "Tubulin",
+        "Keratin"
+      ],
+      "answer": "Condensin"
+    },
+    {
+      "question": "What is the function of origin recognition complexes (ORCs) in DNA?",
+      "options": [
+        "Initiate transcription",
+        "Mark replication origins",
+        "Repair DNA damage",
+        "Degrade old chromosomes"
+      ],
+      "answer": "Mark replication origins"
+    },
+    {
+      "question": "Which of the following best describes a kinetochore?",
+      "options": [
+        "A protein complex that assembles on centromeres",
+        "An enzyme that synthesizes telomeres",
+        "A type of histone modification",
+        "A region of heterochromatin"
+      ],
+      "answer": "A protein complex that assembles on centromeres"
+    },
+    {
+      "question": "How does supercoiling affect DNA?",
+      "options": [
+        "Prevents transcription",
+        "Compacts DNA and regulates accessibility",
+        "Causes mutations",
+        "Increases telomere length"
+      ],
+      "answer": "Compacts DNA and regulates accessibility"
+    },
+    {
+      "question": "Which enzyme introduces negative supercoils in DNA?",
+      "options": [
+        "DNA polymerase",
+        "Topoisomerase II (gyrase)",
+        "RNA polymerase",
+        "Helicase"
+      ],
+      "answer": "Topoisomerase II (gyrase)"
+    },
+    {
+      "question": "What is the role of insulator sequences in chromosomes?",
+      "options": [
+        "Block the spread of heterochromatin",
+        "Initiate DNA replication",
+        "Code for ribosomal proteins",
+        "Prevent telomere shortening"
+      ],
+      "answer": "Block the spread of heterochromatin"
+    },
+    {
+      "question": "Which of the following is a characteristic of lampbrush chromosomes?",
+      "options": [
+        "Found in prokaryotes",
+        "Highly condensed during interphase",
+        "Active in transcription (found in oocytes)",
+        "Lack histones"
+      ],
+      "answer": "Active in transcription (found in oocytes)"
+    },
+    {
+      "question": "What is the function of polytene chromosomes?",
+      "options": [
+        "Store lipids",
+        "Allow rapid gene expression (e.g., in Drosophila salivary glands)",
+        "Replicate without cell division",
+        "Both B and C"
+      ],
+      "answer": "Both B and C"
+    },
+    {
+      "question": "Which of the following is true about mitochondrial DNA (mtDNA)?",
+      "options": [
+        "It is linear like nuclear DNA",
+        "It is inherited maternally",
+        "It contains histones",
+        "It is only found in plants"
+      ],
+      "answer": "It is inherited maternally"
+    }
+  ]

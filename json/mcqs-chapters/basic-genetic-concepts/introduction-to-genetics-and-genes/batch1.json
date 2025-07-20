@@ -1,0 +1,152 @@
+[
+    {
+      "question": "What is the basic unit of heredity?",
+      "options": ["Chromosome", "Gene", "Protein", "Nucleotide"],
+      "answer": "Gene"
+    },
+    {
+      "question": "Which molecule carries genetic information in most organisms?",
+      "options": ["RNA", "DNA", "Protein", "Lipid"],
+      "answer": "DNA"
+    },
+    {
+      "question": "What are the building blocks of DNA?",
+      "options": ["Amino acids", "Nucleotides", "Fatty acids", "Monosaccharides"],
+      "answer": "Nucleotides"
+    },
+    {
+      "question": "Which of the following nitrogenous bases is NOT found in DNA?",
+      "options": ["Adenine", "Thymine", "Uracil", "Cytosine"],
+      "answer": "Uracil"
+    },
+    {
+      "question": "What is the complementary base pair for adenine in DNA?",
+      "options": ["Guanine", "Thymine", "Cytosine", "Uracil"],
+      "answer": "Thymine"
+    },
+    {
+      "question": "What is the shape of the DNA molecule?",
+      "options": ["Single helix", "Double helix", "Triple helix", "Linear strand"],
+      "answer": "Double helix"
+    },
+    {
+      "question": "Which process describes the copying of DNA into RNA?",
+      "options": ["Replication", "Translation", "Transcription", "Mutation"],
+      "answer": "Transcription"
+    },
+    {
+      "question": "What is the function of mRNA?",
+      "options": ["Stores genetic information", "Carries amino acids", "Carries genetic code to ribosomes", "Forms ribosomes"],
+      "answer": "Carries genetic code to ribosomes"
+    },
+    {
+      "question": "Which of the following is the site of protein synthesis?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+      "answer": "Ribosome"
+    },
+    {
+      "question": "What are the three-nucleotide sequences in mRNA called?",
+      "options": ["Anticodons", "Codons", "Introns", "Exons"],
+      "answer": "Codons"
+    },
+    {
+      "question": "Which molecule carries amino acids to the ribosome during translation?",
+      "options": ["mRNA", "tRNA", "rRNA", "DNA"],
+      "answer": "tRNA"
+    },
+    {
+      "question": "What is a mutation?",
+      "options": ["A change in DNA sequence", "A type of protein", "A cell division process", "A type of RNA"],
+      "answer": "A change in DNA sequence"
+    },
+    {
+      "question": "Which type of mutation involves a single nucleotide change?",
+      "options": ["Frameshift mutation", "Insertion", "Point mutation", "Deletion"],
+      "answer": "Point mutation"
+    },
+    {
+      "question": "What is the term for different versions of the same gene?",
+      "options": ["Chromosomes", "Alleles", "Genotypes", "Phenotypes"],
+      "answer": "Alleles"
+    },
+    {
+      "question": "If an individual has two identical alleles for a gene, they are:",
+      "options": ["Heterozygous", "Homozygous", "Hemizygous", "Dominant"],
+      "answer": "Homozygous"
+    },
+    {
+      "question": "What is the physical expression of a gene called?",
+      "options": ["Genotype", "Phenotype", "Allele", "Chromosome"],
+      "answer": "Phenotype"
+    },
+    {
+      "question": "Which law states that alleles segregate independently during gamete formation?",
+      "options": ["Law of Dominance", "Law of Segregation", "Law of Independent Assortment", "Law of Inheritance"],
+      "answer": "Law of Independent Assortment"
+    },
+    {
+      "question": "Who is considered the father of modern genetics?",
+      "options": ["Charles Darwin", "Gregor Mendel", "James Watson", "Rosalind Franklin"],
+      "answer": "Gregor Mendel"
+    },
+    {
+      "question": "In Mendelian inheritance, if a trait is recessive, how many copies are needed to express it?",
+      "options": ["One", "Two", "Three", "None"],
+      "answer": "Two"
+    },
+    {
+      "question": "What is a Punnett square used for?",
+      "options": ["To predict protein structure", "To determine DNA sequence", "To predict offspring genotypes", "To measure mutation rates"],
+      "answer": "To predict offspring genotypes"
+    },
+    {
+      "question": "Which inheritance pattern involves both alleles being expressed equally in the phenotype?",
+      "options": ["Complete dominance", "Incomplete dominance", "Codominance", "Recessive inheritance"],
+      "answer": "Codominance"
+    },
+    {
+      "question": "What is the term for genes located on the same chromosome?",
+      "options": ["Linked genes", "Independent genes", "Allelic genes", "Mutated genes"],
+      "answer": "Linked genes"
+    },
+    {
+      "question": "Which process increases genetic diversity by exchanging chromosome segments?",
+      "options": ["Replication", "Transcription", "Crossing over", "Translation"],
+      "answer": "Crossing over"
+    },
+    {
+      "question": "What is a karyotype?",
+      "options": ["A type of protein", "A visual arrangement of chromosomes", "A DNA sequence", "A type of RNA"],
+      "answer": "A visual arrangement of chromosomes"
+    },
+    {
+      "question": "How many chromosomes do humans typically have in somatic cells?",
+      "options": ["23", "46", "44", "48"],
+      "answer": "46"
+    },
+    {
+      "question": "Which of the following is an example of a sex-linked trait in humans?",
+      "options": ["Eye color", "Blood type", "Hemophilia", "Hair texture"],
+      "answer": "Hemophilia"
+    },
+    {
+      "question": "What is the term for a gene that is located on the X or Y chromosome?",
+      "options": ["Autosomal gene", "Sex-linked gene", "Dominant gene", "Recessive gene"],
+      "answer": "Sex-linked gene"
+    },
+    {
+      "question": "Which genetic disorder results from an extra chromosome 21?",
+      "options": ["Turner syndrome", "Klinefelter syndrome", "Down syndrome", "Cystic fibrosis"],
+      "answer": "Down syndrome"
+    },
+    {
+      "question": "What is the purpose of PCR (Polymerase Chain Reaction)?",
+      "options": ["To separate DNA fragments", "To amplify DNA sequences", "To translate mRNA", "To synthesize proteins"],
+      "answer": "To amplify DNA sequences"
+    },
+    {
+      "question": "Which technique is used to separate DNA fragments by size?",
+      "options": ["PCR", "Gel electrophoresis", "Western blot", "ELISA"],
+      "answer": "Gel electrophoresis"
+    }
+  ]

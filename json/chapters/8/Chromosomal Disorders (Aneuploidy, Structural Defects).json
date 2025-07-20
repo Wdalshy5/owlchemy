@@ -1,0 +1,35 @@
+{
+    "title": "Chromosomal Disorders (Aneuploidy, Structural Defects)",
+    "objectives": [
+      "Classify chromosomal abnormalities by type and mechanism",
+      "Correlate specific cytogenetic findings with clinical phenotypes",
+      "Interpret karyotype and microarray results",
+      "Counsel patients about recurrence risks"
+    ],
+    "sections": {
+      "aneuploidy": {
+        "title": "Numerical Abnormalities",
+        "content": "<div class='lesson-section'><table class='aneuploidy-table'><tr><th>Disorder</th><th>Karyotype</th><th>Key Features</th><th>Mechanism</th></tr><tr><td>Down syndrome</td><td>47,XX/XY,+21</td><td>Hypotonia, CHD, ALZ risk</td><td>Non-disjunction (90%)</td></tr><tr><td>Turner syndrome</td><td>45,X</td><td>Short stature, gonadal dysgenesis</td><td>Meiotic error (X loss)</td></tr><tr><td>Klinefelter</td><td>47,XXY</td><td>Tall, infertility, gynecomastia</td><td>Paternal meiosis I error</td></tr></table></div>"
+      },
+      "structural_abnormalities": {
+        "title": "Chromosomal Rearrangements",
+        "content": "<div class='lesson-section'><div class='enzyme-card'><strong>Deletions</strong><br>• <span class='clinical-highlight'>22q11.2 del:</span> DiGeorge syndrome<br>• <span class='clinical-highlight'>5p-:</span> Cri-du-chat (high-pitched cry)</div><div class='enzyme-card'><strong>Translocations</strong><br>• <span class='clinical-highlight'>Robertsonian:</span> 45,der(14;21) in Down carriers<br>• <span class='clinical-highlight'>Reciprocal:</span> t(9;22) in CML (BCR-ABL1)</div></div>"
+      },
+      "diagnostic_methods": {
+        "title": "Testing Approaches",
+        "content": "<div class='clinical-box'><h3>Karyotyping</h3><p><span class='clinical-highlight'>Resolution:</span> 5-10 Mb<br><span class='clinical-highlight'>Best for:</span> Aneuploidy, large rearrangements<br><span class='clinical-highlight'>Turnaround:</span> 7-14 days</p></div><div class='clinical-box'><h3>Chromosomal Microarray</h3><p><span class='clinical-highlight'>Resolution:</span> 50-100 kb<br><span class='clinical-highlight'>Detects:</span> CNVs, UPD, consanguinity<br><span class='clinical-highlight'>First-line for:</span> DD/ID, MCA</p></div>"
+      },
+      "counseling_points": {
+        "title": "Recurrence Risks",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Non-disjunction:</strong> 1% baseline + maternal age adjustment</li><li><strong>Balanced translocation carrier:</strong> 5-30% risk for unbalanced offspring</li><li><strong>22q11.2 deletion:</strong> 50% risk if parent affected (AD)</li></ul></div>"
+      },
+      "case_studies": {
+        "title": "Clinical Correlations",
+        "content": "<div class='clinical-box'><h3>Prader-Willi Syndrome</h3><p><span class='clinical-highlight'>Mechanism:</span> Paternal 15q11-13 del (70%)<br><span class='clinical-highlight'>Testing:</span> Methylation analysis<br><span class='clinical-highlight'>Key feature:</span> Neonatal hypotonia → childhood hyperphagia</p></div><div class='clinical-box'><h3>Williams Syndrome</h3><p><span class='clinical-highlight'>Deletion:</span> 7q11.23 (ELN gene)<br><span class='clinical-highlight'>Features:</span> Supravalvular AS, social personality<br><span class='clinical-highlight'>Testing:</span> FISH or CMA</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why does advanced maternal age increase aneuploidy risk?</h3><p>Oocytes remain in prophase I for decades - accumulated meiotic errors and weakened cohesin proteins increase non-disjunction (especially chr21).</p></div><div class='faq-item'><h3>How can a balanced translocation cause problems?</h3><p>Breakpoints may disrupt genes, or meiosis can produce unbalanced gametes (adjacent-1 segregation → 50% abnormal).</p></div><div class='faq-item'><h3>Why is microarray better than karyotype for autism?</h3><p>Detects smaller CNVs (e.g., 16p11.2 del/dup) and UPD - yields 15-20% diagnosis rate vs 3% with karyotype.</p></div>"
+      }
+    }
+  }

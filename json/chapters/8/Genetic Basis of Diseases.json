@@ -1,0 +1,35 @@
+{
+    "title": "Genetic Basis of Diseases",
+    "objectives": [
+      "Analyze disease-causing genetic variations at molecular level",
+      "Correlate mutation types with clinical phenotypes",
+      "Evaluate inheritance patterns in disease pedigrees",
+      "Apply genomic medicine approaches to diagnosis"
+    ],
+    "sections": {
+      "mutation_mechanisms": {
+        "title": "Pathogenic Mutation Categories",
+        "content": "<div class='lesson-section'><table class='mechanism-table'><tr><th>Mechanism</th><th>Molecular Consequence</th><th>Disease Example</th></tr><tr><td>Loss-of-function</td><td>Reduced protein activity</td><td>CFTR in cystic fibrosis</td></tr><tr><td>Gain-of-function</td><td>Toxic protein aggregation</td><td>HTT in Huntington's</td></tr><tr><td>Dominant-negative</td><td>Mutant disrupts wild-type</td><td>COL1A1 in OI</td></tr><tr><td>Haploinsufficiency</td><td>50% protein insufficient</td><td>TBX22 in cleft palate</td></tr></table></div>"
+      },
+      "inheritance_patterns": {
+        "title": "Disease Transmission",
+        "content": "<div class='enzyme-card'><strong>Imprinting Disorders</strong><br>• <span class='clinical-highlight'>Prader-Willi:</span> Paternal 15q11-13 deletion<br>• <span class='clinical-highlight'>Angelman:</span> Maternal UBE3A mutation<br>• <span class='clinical-highlight'>Testing:</span> Methylation analysis</div><div class='enzyme-card'><strong>Mitochondrial</strong><br>• Maternal inheritance<br>• Heteroplasmy threshold effect<br>• Examples: MELAS, LHON</div>"
+      },
+      "genomic_medicine": {
+        "title": "Diagnostic Technologies",
+        "content": "<div class='clinical-box'><h3>Whole Exome Sequencing</h3><p><span class='clinical-highlight'>Yield:</span> 25-40% for neurodevelopmental disorders</p><p><span class='clinical-highlight'>Limitations:</span> Non-coding variants, CNVs</p><p><span class='clinical-highlight'>Case:</span> DYNC1H1 mutation in spinal muscular atrophy</p></div><div class='clinical-box'><h3>Pharmacogenomics</h3><p><span class='clinical-highlight'>TPMT:</span> Thiopurine metabolism (3% poor metabolizers)</p><p><span class='clinical-highlight'>CYP2D6:</span> Codeine activation (UMs vs PMs)</p></div>"
+      },
+      "therapeutic_approaches": {
+        "title": "Genetic Therapies",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Enzyme replacement:</strong> GAA for Pompe disease</li><li><strong>Gene addition:</strong> AAV9-SMN1 for SMA</li><li><strong>Gene editing:</strong> CRISPR for β-thalassemia trials</li><li><strong>RNA therapy:</strong> Nusinersen splicing modifier</li></ul></div>"
+      },
+      "case_studies": {
+        "title": "Clinical Correlations",
+        "content": "<div class='clinical-box'><h3>Familial Hypercholesterolemia</h3><p><span class='clinical-highlight'>Gene:</span> LDLR (1p32)</p><p><span class='clinical-highlight'>Mechanism:</span> Impaired LDL clearance</p><p><span class='clinical-highlight'>Treatment:</span> PCSK9 inhibitors + statins</p></div><div class='clinical-box'><h3>Long QT Syndrome</h3><p><span class='clinical-highlight'>Genes:</span> KCNQ1/KCNH2/SCN5A</p><p><span class='clinical-highlight'>ECG:</span> QTc >500ms risk for TdP</p><p><span class='clinical-highlight'>Therapy:</span> β-blockers, ICD for type 1</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why do some autosomal dominant disorders have reduced penetrance?</h3><p>Due to modifier genes (e.g., hypertrophic cardiomyopathy) or environmental factors (diet in hereditary hemochromatosis).</p></div><div class='faq-item'><h3>How can mitochondrial diseases show variable tissue involvement?</h3><p>Heteroplasmy levels differ across tissues - high-energy organs (brain, muscle) exceed threshold first.</p></div><div class='faq-item'><h3>Why are trinucleotide repeat disorders anticipation diseases?</h3><p>Meiotic instability causes expansion in successive generations (e.g., CAG repeats in Huntington's).</p></div>"
+      }
+    }
+  }

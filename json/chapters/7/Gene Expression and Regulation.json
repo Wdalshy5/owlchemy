@@ -1,0 +1,27 @@
+{
+    "title": "Gene Expression and Regulation",
+    "objectives": [
+      "Outline the steps from gene to functional protein",
+      "Compare prokaryotic and eukaryotic gene regulation",
+      "Describe epigenetic control mechanisms",
+      "Explain how mutations affect expression patterns"
+    ],
+    "sections": {
+      "expression_steps": {
+        "title": "Transcription & Translation",
+        "content": "<div class='lesson-section'><ol class='significance-list'><li><strong>Transcription Initiation:</strong> RNA polymerase binds promoter (TATA box)</li><li><strong>Elongation:</strong> 5'→3' RNA synthesis (antisense strand template)</li><li><strong>Translation:</strong> Ribosome reads mRNA codons (AUG start)</li></ol></div>"
+      },
+      "regulation_mechanisms": {
+        "title": "Expression Control",
+        "content": "<div class='enzyme-card'><strong>Prokaryotic (Operons)</strong><br>• Lac operon: Lactose-inducible<br>• Trp operon: Tryptophan-repressible</div><div class='enzyme-card'><strong>Eukaryotic</strong><br>• Enhancers/silencers<br>• Histone modifications (acetylation ↑ transcription)<br>• miRNA post-transcriptional regulation</div>"
+      },
+      "clinical_correlation": {
+        "title": "Expression Disorders",
+        "content": "<div class='clinical-box'><h3>β-Thalassemia</h3><p><span class='clinical-highlight'>Mechanism:</span> Mutated β-globin promoters/enhancers</p><p><span class='clinical-highlight'>Result:</span> Imbalanced α/β globin chains</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why can identical twins have different gene expression?</h3><p>Epigenetic differences (DNA methylation, histone modifications) accumulate due to environmental exposures and stochastic events.</p></div>"
+      }
+    }
+  }

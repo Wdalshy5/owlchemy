@@ -1,0 +1,27 @@
+{
+    "title": "Genetic Mutations and Variations",
+    "objectives": [
+      "Classify types of DNA sequence variations",
+      "Distinguish between germline and somatic mutations",
+      "Evaluate functional consequences of mutations",
+      "Analyze mutation rates in different genomic regions"
+    ],
+    "sections": {
+      "mutation_types": {
+        "title": "Mutation Classification",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Point mutations:</strong> Silent/missense/nonsense (e.g., Sickle cell: Glu6Val)</li><li><strong>Frameshifts:</strong> Indels in non-3n multiples</li><li><strong>Dynamic mutations:</strong> Trinucleotide repeats (Huntington's CAG expansion)</li></ul></div>"
+      },
+      "mutation_origins": {
+        "title": "Mutation Sources",
+        "content": "<div class='enzyme-card'><strong>Endogenous</strong><br>• Replication errors (1 in 10<sup>9</sup> bp/cell division)<br>• Oxidative damage (8-oxoG lesions)</div><div class='enzyme-card'><strong>Exogenous</strong><br>• UV radiation (pyrimidine dimers)<br>• Chemicals (benzopyrene adducts)</div>"
+      },
+      "clinical_correlation": {
+        "title": "Mutation Disorders",
+        "content": "<div class='clinical-box'><h3>CFTR Mutations in Cystic Fibrosis</h3><p><span class='clinical-highlight'>ΔF508:</span> Protein misfolding (70% alleles)</p><p><span class='clinical-highlight'>G542X:</span> Premature stop codon</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why are some mutations dominant-negative?</h3><p>The mutant protein interferes with normal protein function (e.g., mutant collagen fibers disrupting tissue integrity in Osteogenesis Imperfecta).</p></div>"
+      }
+    }
+  }

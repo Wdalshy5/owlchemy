@@ -1,0 +1,27 @@
+{
+    "title": "Introduction to Genetics and Genes",
+    "objectives": [
+      "Define key genetic terminology (gene, allele, genome, etc.)",
+      "Describe the central dogma of molecular biology",
+      "Differentiate between genotype and phenotype",
+      "Explain the significance of genetics in medicine"
+    ],
+    "sections": {
+      "basic_concepts": {
+        "title": "Fundamental Concepts",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Gene:</strong> Basic unit of heredity (DNA sequence)</li><li><strong>Allele:</strong> Variant form of a gene</li><li><strong>Genome:</strong> Complete set of genetic material</li><li><strong>Central Dogma:</strong> DNA → RNA → Protein</li></ul></div>"
+      },
+      "genotype_phenotype": {
+        "title": "Genotype vs Phenotype",
+        "content": "<div class='enzyme-card'><strong>Genotype</strong><br>• Genetic constitution (e.g., BB, Bb, bb)<br>• Inherited from parents</div><div class='enzyme-card'><strong>Phenotype</strong><br>• Observable characteristics<br>• Result of genotype + environment</div>"
+      },
+      "medical_importance": {
+        "title": "Medical Applications",
+        "content": "<div class='clinical-box'><h3>Genetic Testing</h3><p><span class='clinical-highlight'>Examples:</span> Carrier screening, pharmacogenomics</p><p><span class='clinical-highlight'>Impact:</span> Personalized medicine approaches</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why can't phenotypes always predict genotypes?</h3><p>Due to factors like incomplete penetrance, variable expressivity, and environmental influences (e.g., nutrition affecting height).</p></div>"
+      }
+    }
+  }

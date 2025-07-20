@@ -65,13 +65,38 @@
     "id": 6,
     "title": "Metabolic Integration",
     "topics": [
-      "Overview of Metabolic Integration",
+      "Metabolic Integration and Regulation",
       "Key Organs in Metabolic Integration",
       "Metabolic States",
       "Interorgan Metabolic Cycles",
       "Hormonal Regulation of Metabolism",
       "Metabolic Adaptation in Disease States"
 
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Basic Genetic Concepts",
+    "topics": [
+      "Introduction to Genetics and Genes",
+      "Structure and Function of Chromosomal DNA",
+      "Genetic Inheritance Patterns",
+      "DNA Replication and Repair",
+      "Gene Expression and Regulation",
+      "Genetic Mutations and Variations",
+      "Applications of Genetic Principles"
+    ]
+  },{
+    "id": 8,
+    "title": "Genetic Diseases and Inheritance",
+    "topics": [
+      "Introduction to Genetic Diseases",
+      "Genetic Basis of Diseases",
+      "Mendelian Inheritance (Autosomal & Sex-Linked)",
+      "Non-Mendelian Inheritance Patterns",
+      "Population Genetics1",
+      "Population Genetics2",
+      "Chromosomal Disorders (Aneuploidy, Structural Defects)"
     ]
   }
 ]

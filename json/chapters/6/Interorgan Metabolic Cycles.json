@@ -1,0 +1,35 @@
+{
+    "title": "Interorgan Metabolic Cycles",
+    "objectives": [
+      "Describe the major nutrient exchange pathways between organs",
+      "Explain the role of key metabolites in interorgan communication",
+      "Identify clinical disruptions in metabolic cycles",
+      "Analyze diagnostic patterns in metabolic cycle disorders"
+    ],
+    "sections": {
+      "introduction": {
+        "title": "Principles of Interorgan Metabolism",
+        "content": "<div class='lesson-section'><p>The human body coordinates metabolism through specialized cycles between:</p><ul class='significance-list'><li><span class='clinical-highlight'>Liver</span> (Biosynthesis/detoxification)</li><li><span class='clinical-highlight'>Muscle</span> (Energy consumption)</li><li><span class='clinical-highlight'>Adipose</span> (Energy storage)</li><li><span class='clinical-highlight'>Brain</span> (Priority fuel allocation)</li></ul></div>"
+      },
+      "cori_cycle": {
+        "title": "Glucose-Lactate Cycle",
+        "content": "<div class='enzyme-card'><strong>Cori Cycle</strong><br>• <span class='clinical-highlight'>Muscle:</span> Glucose → Lactate (anaerobic glycolysis)<br>• <span class='clinical-highlight'>Liver:</span> Lactate → Glucose (gluconeogenesis)<br>Regulators: NAD<sup>+</sup>/NADH ratio, oxygen availability</div><div class='enzyme-card'><strong>Key Enzyme: Lactate Dehydrogenase (LDH)</strong><br>Isoforms: LDH<sub>1</sub> (heart), LDH<sub>5</sub> (liver/muscle)<br>Diagnostic use: ↑LDH<sub>5</sub> in muscle injury</div>"
+      },
+      "alanine_cycle": {
+        "title": "Glucose-Alanine Cycle",
+        "content": "<div class='lesson-section'><div class='enzyme-card'><strong>Muscle</strong><br>• Pyruvate + amino group → Alanine<br>• Transports nitrogen to liver</div><div class='enzyme-card'><strong>Liver</strong><br>• Alanine → Pyruvate (via ALT)<br>• Pyruvate for gluconeogenesis<br>• Nitrogen enters urea cycle</div><p class='clinical-highlight'>Clinical correlation:</span> Elevated ALT in liver damage</p></div>"
+      },
+      "ketone_metabolism": {
+        "title": "Liver-Brain Ketone Cycle",
+        "content": "<div class='enzyme-card'><strong>Ketogenesis (Liver)</strong><br>• Substrate: Acetyl-CoA from β-oxidation<br>• Products: β-hydroxybutyrate/acetoacetate<br>• Regulator: Malonyl-CoA inhibition</div><div class='enzyme-card'><strong>Ketolysis (Brain)</strong><br>• Converts ketones back to acetyl-CoA<br>• Provides >60% brain energy during fasting</div>"
+      },
+      "clinical_relevance": {
+        "title": "Clinical Disruptions",
+        "content": "<div class='clinical-box'><h3>Diabetic Ketoacidosis</h3><p><span class='clinical-highlight'>Mechanism:</span> Uncontrolled lipolysis → excessive ketogenesis</p><p><span class='clinical-highlight'>Diagnosis:</span> ↑β-hydroxybutyrate, anion gap metabolic acidosis</p><p><span class='clinical-highlight'>Treatment:</span> Insulin + hydration</p></div><div class='clinical-box'><h3>Reye's Syndrome</h3><p><span class='clinical-highlight'>Cause:</span> Mitochondrial dysfunction during viral illness</p><p><span class='clinical-highlight'>Effect:</span> Disrupted liver-brain metabolite exchange</p><p><span class='clinical-highlight'>Marker:</span> ↑Ammonia with normal amino acid levels</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why can't muscles perform gluconeogenesis during the Cori cycle?</h3><p>Muscles lack glucose-6-phosphatase, the final enzyme required to release free glucose into circulation. This ensures muscles retain glucose-6-P for local glycolysis.</p></div><div class='faq-item'><h3>How does the alanine cycle protect against ammonia toxicity?</h3><p>By transporting amino groups as stable alanine (non-toxic) rather than free NH<sub>4</sub><sup>+</sup>, preventing neurotoxicity during muscle protein catabolism.</p></div><div class='faq-item'><h3>Why do ketone bodies require less oxygen to metabolize than fatty acids?</h3><p>Ketones bypass the rate-limiting carnitine shuttle system and β-oxidation steps, providing acetyl-CoA directly to the TCA cycle with lower oxygen demand.</p></div>"
+      }
+    }
+  }

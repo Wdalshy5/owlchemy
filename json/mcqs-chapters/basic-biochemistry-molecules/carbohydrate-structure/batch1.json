@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following is a monosaccharide?",
+    "options": ["Sucrose", "Glucose", "Lactose", "Maltose"],
+    "answer": "Glucose"
+  },
+  {
+    "question": "Which functional groups are found in all monosaccharides?",
+    "options": ["Hydroxyl and carboxyl", "Aldehyde or ketone and hydroxyl", "Amine and carboxyl", "Phosphate and methyl"],
+    "answer": "Aldehyde or ketone and hydroxyl"
+  },
+  {
+    "question": "Which carbon in glucose determines whether it is alpha or beta anomer?",
+    "options": ["C1", "C2", "C4", "C6"],
+    "answer": "C1"
+  },
+  {
+    "question": "Which is the correct term for a carbohydrate with 6 carbon atoms and an aldehyde group?",
+    "options": ["Ketohexose", "Aldohexose", "Aldopentose", "Ketopentose"],
+    "answer": "Aldohexose"
+  },
+  {
+    "question": "What type of isomerism exists between D-glucose and D-mannose?",
+    "options": ["Enantiomers", "Epimers", "Anomers", "Tautomers"],
+    "answer": "Epimers"
+  },
+  {
+    "question": "Which of the following sugars is a non-reducing sugar?",
+    "options": ["Glucose", "Fructose", "Lactose", "Sucrose"],
+    "answer": "Sucrose"
+  },
+  {
+    "question": "The bond connecting two monosaccharides in maltose is called:",
+    "options": ["Glycosidic bond", "Peptide bond", "Phosphodiester bond", "Hydrogen bond"],
+    "answer": "Glycosidic bond"
+  },
+  {
+    "question": "Which of the following pairs are epimers at carbon 4?",
+    "options": ["Glucose and Mannose", "Glucose and Galactose", "Galactose and Mannose", "Ribose and Arabinose"],
+    "answer": "Glucose and Galactose"
+  },
+  {
+    "question": "Which sugar exists predominantly in a furanose ring form?",
+    "options": ["Glucose", "Fructose", "Galactose", "Mannose"],
+    "answer": "Fructose"
+  },
+  {
+    "question": "What is the common method used to detect reducing sugars?",
+    "options": ["Benedict's test", "Biuret test", "Seliwanoff’s test", "Sudan III test"],
+    "answer": "Benedict's test"
+  }
+]

@@ -1,0 +1,35 @@
+{
+    "title": "Metabolic Adaptation in Disease States",
+    "objectives": [
+      "Explain how chronic diseases alter normal metabolic pathways",
+      "Identify characteristic metabolic signatures of pathological states",
+      "Describe compensatory mechanisms during metabolic stress",
+      "Recognize therapeutic targets in disease-induced metabolic dysfunction"
+    ],
+    "sections": {
+      "cancer_metabolism": {
+        "title": "Cancer (Warburg Effect)",
+        "content": "<div class='enzyme-card'><strong>Aerobic Glycolysis</strong><br>• <span class='clinical-highlight'>Key feature:</span> ↑Lactate production despite O<sub>2</sub> availability<br>• <span class='clinical-highlight'>Enzymes upregulated:</span> HK-II, PKM2, LDHA<br>• <span class='clinical-highlight'>Purpose:</span> Biosynthetic precursors (nucleotides, lipids)</div><div class='clinical-box'><h3>Clinical Implications</h3><p><span class='clinical-highlight'>Diagnosis:</span> <sup>18</sup>F-FDG PET scans exploit ↑glucose uptake</p><p><span class='clinical-highlight'>Therapy:</span> Dichloroacetate (PDK inhibitor) trials</p></div>"
+      },
+      "sepsis_metabolism": {
+        "title": "Sepsis (Hypercatabolic State)",
+        "content": "<div class='lesson-section'><h3>Phase 1: Cytokine Storm</h3><ul class='significance-list'><li>↑Proteolysis (Ubiquitin-proteasome pathway)</li><li>↑Lipolysis (Hormone-sensitive lipase activation)</li><li>Insulin resistance (TNF-α mediated)</li></ul><h3>Phase 2: Immunoparalysis</h3><ul class='significance-list'><li>↓Oxidative phosphorylation</li><li>Mitochondrial dysfunction</li><li>Lactic acidosis (Type B)</li></ul></div>"
+      },
+      "obesity_adaptations": {
+        "title": "Morbid Obesity",
+        "content": "<div class='enzyme-card'><strong>Adipose Tissue Dysfunction</strong><br>• <span class='clinical-highlight'>Pathologic secretions:</span><br> - ↑Leptin (but resistant)<br> - ↓Adiponectin<br> - ↑IL-6/TNF-α<br>• <span class='clinical-highlight'>Result:</span> Systemic inflammation</div><div class='clinical-box'><h3>NAFLD Progression</h3><p><span class='clinical-highlight'>Steatosis → NASH:</span> Lipotoxicity from ↑FFA flux</p><p><span class='clinical-highlight'>Marker:</span> ↑AST/ALT ratio >1 (advanced fibrosis)</p></div>"
+      },
+      "starvation_response": {
+        "title": "Prolonged Starvation",
+        "content": "<div class='lesson-section'><h3>Metabolic Phase Transition</h3><table class='metabolic-phases'><tr><th>Phase</th><th>Duration</th><th>Primary Fuel</th></tr><tr><td>I (Glycogenolysis)</td><td>0-24h</td><td>Liver glycogen</td></tr><tr><td>II (Gluconeogenesis)</td><td>2-10d</td><td>Amino acids</td></tr><tr><td>III (Ketosis)</td><td>>10d</td><td>Ketones (brain), FFA (muscle)</td></tr></table></div>"
+      },
+      "clinical_relevance": {
+        "title": "Therapeutic Targets",
+        "content": "<div class='clinical-box'><h3>Cancer Metabolism Drugs</h3><p><span class='clinical-highlight'>Hexokinase inhibitor:</span> 2-Deoxyglucose</p><p><span class='clinical-highlight'>Glutamine antagonist:</span> DON (6-Diazo-5-oxo-L-norleucine)</p></div><div class='clinical-box'><h3>Sepsis Nutrition</h3><p><span class='clinical-highlight'>Key strategy:</span> Permissive hypocaloric feeding</p><p><span class='clinical-highlight'>Supplement:</span> Ω-3 fatty acids (anti-inflammatory)</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why do cancer cells avoid oxidative phosphorylation?</h3><p>Glycolysis provides rapid ATP and critical biosynthetic intermediates (ribose-5-P for nucleotides, NADPH for lipid synthesis) needed for rapid proliferation, despite being less energy-efficient.</p></div><div class='faq-item'><h3>How does sepsis cause both hyperglycemia and hypoglycemia?</h3><p>Early sepsis induces stress hyperglycemia (cortisol/catecholamines), while late-stage hepatic dysfunction impairs gluconeogenesis, causing hypoglycemia - a poor prognostic sign.</p></div><div class='faq-item'><h3>Why does ketosis preserve muscle mass in starvation?</h3><p>Ketones replace glucose as the brain's primary fuel, reducing gluconeogenic demand for amino acids from muscle proteolysis (sparing ~30g protein/day).</p></div>"
+      }
+    }
+  }

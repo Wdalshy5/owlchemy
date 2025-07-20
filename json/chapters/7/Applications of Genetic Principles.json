@@ -1,0 +1,27 @@
+{
+    "title": "Applications of Genetic Principles",
+    "objectives": [
+      "Describe modern genetic testing technologies",
+      "Explain gene therapy approaches",
+      "Evaluate ethical considerations in genetics",
+      "Apply genetic knowledge to clinical scenarios"
+    ],
+    "sections": {
+      "diagnostic_tech": {
+        "title": "Genetic Testing",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>PCR-based:</strong> Sanger sequencing, fragment analysis</li><li><strong>Microarrays:</strong> SNP chips, CGH</li><li><strong>NGS:</strong> Whole exome/genome sequencing</li></ul></div>"
+      },
+      "therapeutic_apps": {
+        "title": "Genetic Therapies",
+        "content": "<div class='enzyme-card'><strong>Gene Addition</strong><br>• Viral vectors (AAV for hemophilia B)<br>• Non-viral methods (lipid nanoparticles)</div><div class='enzyme-card'><strong>Gene Editing</strong><br>• CRISPR-Cas9 (β-thalassemia trials)<br>• Base/prime editing</div>"
+      },
+      "ethical_considerations": {
+        "title": "Bioethical Issues",
+        "content": "<div class='clinical-box'><h3>Genetic Discrimination</h3><p><span class='clinical-highlight'>GINA Act (2008):</span> Prohibits health insurance discrimination</p><p><span class='clinical-highlight'>Challenges:</span> Life insurance, employment</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why can't we use CRISPR to edit all disease-causing mutations?</h3><p>Technical limitations include delivery efficiency, off-target effects, and mosaicism. Ethical constraints apply for germline editing.</p></div>"
+      }
+    }
+  }

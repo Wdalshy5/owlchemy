@@ -73,14 +73,55 @@
           </div>
           <div id="lesson-content" class="bg-white p-3 md:p-4 rounded shadow text-xs md:text-sm text-gray-800">
             <!-- Loaded lesson will appear here -->
+            
           </div>
+          <button onclick="loadLessonMCQs('Basic Biochemistry Molecules', 'Carbohydrates Structure', '1')" 
+  class="mt-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">
+  Go to MCQs
+</button>
+
         </div>
       </div>
     </section>
   </main>
-
+  <section id="mcqs-section" class=" px-6 py-12 bg-white text-gray-800">
+    <div class="max-w-3xl mx-auto text-center">
+      <h2 class="text-3xl font-bold mb-6">🧠 Practice MCQs</h2>
+      <img src="imgs/thinking.png" alt="Owly cheering you on" class="w-32 mx-auto mb-6" />
+      
+      <!-- Dropdown selectors -->
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+        <select id="mcq-chapter-select" class="w-full px-4 py-2 border rounded-lg text-base">
+          <option disabled selected>Select Chapter</option>
+        </select>
+        <select id="mcq-lesson-select" class="w-full px-4 py-2 border rounded-lg text-base" disabled>
+          <option disabled selected>Select Lesson</option>
+        </select>
+        <select id="mcq-batch-select" class="w-full px-4 py-2 border rounded-lg text-base" disabled>
+          <option disabled selected>Select Batch</option>
+        </select>
+      </div>
+  
+      <!-- Question and Options -->
+      <div id="question-container" class="p-4 bg-gray-100 rounded shadow hidden text-left">
+        <div id="question-text" class="text-lg font-medium mb-3"></div>
+        <div id="options-container" class="space-y-2"></div>
+  
+        <!-- Navigation Buttons -->
+        <div class="flex justify-between items-center mt-4">
+          <button id="prev-question" class="px-4 py-2 bg-gray-200 rounded hover:bg-gray-300">Previous</button>
+          <span id="question-counter" class="text-sm text-gray-700"></span>
+          <button id="next-question" class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Next</button>
+        </div>
+      </div>
+  
+    </div>
+  </section>
+  
+  
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="js/main.js"></script>
   <script src="js/lesson.js"></script>
+  <script src="js/mcqs.js"></script>
 </body>
 </html>

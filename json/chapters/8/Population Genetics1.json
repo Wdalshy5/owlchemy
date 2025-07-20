@@ -1,0 +1,35 @@
+{
+    "title": "Population Genetics I: Hardy-Weinberg Equilibrium",
+    "objectives": [
+      "State the five assumptions of Hardy-Weinberg Equilibrium (HWE)",
+      "Apply the HWE equation to calculate allele and genotype frequencies",
+      "Identify factors that disrupt HWE in human populations",
+      "Interpret HWE deviations in disease association studies"
+    ],
+    "sections": {
+      "hwe_fundamentals": {
+        "title": "Core Principles",
+        "content": "<div class='lesson-section'><div class='equation-card'><strong>HWE Equation</strong><br>p<sup>2</sup> + 2pq + q<sup>2</sup> = 1<br>• p = dominant allele frequency<br>• q = recessive allele frequency<br>• p + q = 1</div><ul class='assumption-list'><li><span class='clinical-highlight'>No mutations</span></li><li><span class='clinical-highlight'>Random mating</span></li><li><span class='clinical-highlight'>No natural selection</span></li><li><span class='clinical-highlight'>Large population</span></li><li><span class='clinical-highlight'>No gene flow</span></li></ul></div>"
+      },
+      "clinical_applications": {
+        "title": "Medical Relevance",
+        "content": "<div class='clinical-box'><h3>Carrier Frequency Estimation</h3><p>For cystic fibrosis (q<sup>2</sup> = 1/2500):<br>• q = √(1/2500) = 0.02<br>• Carrier frequency (2pq) ≈ 2(0.98)(0.02) = 3.9%</p></div><div class='clinical-box'><h3>Founder Effects</h3><p><span class='clinical-highlight'>Example:</span> Ellis-van Creveld syndrome in Amish<br>• q increased due to small founding population<br>• Observed > expected homozygous affected</p></div>"
+      },
+      "hwe_deviations": {
+        "title": "Violations of HWE",
+        "content": "<div class='lesson-section'><table class='deviation-table'><tr><th>Violation</th><th>Effect</th><th>Clinical Example</th></tr><tr><td>Selection</td><td>↑/↓ specific genotypes</td><td>Sickle cell heterozygote advantage</td></tr><tr><td>Non-random mating</td><td>↑homozygotes</td><td>Consanguinity → recessive disorders</td></tr><tr><td>Genetic drift</td><td>Random allele changes</td><td>Tay-Sachs in Ashkenazi Jews</td></tr></table></div>"
+      },
+      "case_studies": {
+        "title": "Problem Solving",
+        "content": "<div class='practice-card'><strong>Scenario:</strong> 9% of a population has albinism (autosomal recessive)<br><strong>Question:</strong> What percentage are carriers?<br><strong>Solution:</strong><br>• q<sup>2</sup> = 0.09 → q = 0.3<br>• p = 1 - 0.3 = 0.7<br>• 2pq = 2(0.7)(0.3) = 42% carriers</div>"
+      },
+      "genetic_testing": {
+        "title": "HWE in NGS Quality Control",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Variant filtering:</strong> HWE p-value < 0.05 flags potential errors</li><li><strong>Population stratification:</strong> Different subpopulations cause false deviations</li><li><strong>Database references:</span> gnomAD uses HWE for variant annotation</li></ul></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why does HWE assume an infinitely large population?</h3><p>To eliminate genetic drift - in small populations, random fluctuations disproportionately affect allele frequencies (e.g., founder effects).</p></div><div class='faq-item'><h3>How can sickle cell trait be both protective and violate HWE?</h3><p>Balancing selection: heterozygote advantage (malaria resistance) maintains both alleles despite negative selection against homozygotes.</p></div><div class='faq-item'><h3>Why test HWE in GWAS studies?</h3><p>Deviations may indicate genotyping errors, population substructure, or true biological selection - critical for distinguishing real associations.</p></div>"
+      }
+    }
+  }

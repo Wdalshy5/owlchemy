@@ -1,0 +1,38 @@
+{
+  "chapters": {
+      "basic-genetic-concepts": {
+        "title": "Basic Genetic Concepts",
+        "lessons": {
+          "introduction-to-genetics-and-genes": {
+            "title": "Introduction to Genetics and Genes",
+            "batches": ["batch1"]
+          },
+          "structure-and-function-of-chromosomal-dna": {
+            "title": "Structure and Function of Chromosomal DNA",
+            "batches": ["batch1"]
+          },
+          "genetic-inheritance-patterns": {
+            "title": "Genetic Inheritance Patterns",
+            "batches": []
+          },
+          "dna-replication-and-repair": {
+            "title": "DNA Replication and Repair",
+            "batches": []
+          },
+          "gene-expression-and-regulation": {
+            "title": "Gene Expression and Regulation",
+            "batches": []
+          },
+          "genetic-mutations-and-variations": {
+            "title": "Genetic Mutations and Variations",
+            "batches": []
+          },
+          "applications-of-genetic-principles": {
+            "title": "Applications of Genetic Principles",
+            "batches": []
+          }
+        }
+      }
+    }
+  
+}

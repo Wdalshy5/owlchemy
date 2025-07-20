@@ -1,0 +1,35 @@
+{
+    "title": "Mendelian Inheritance (Autosomal & Sex-Linked)",
+    "objectives": [
+      "Apply Mendel's laws to pedigree analysis",
+      "Differentiate autosomal vs. sex-linked inheritance patterns",
+      "Calculate disease risk probabilities",
+      "Recognize exceptions to classical Mendelian inheritance"
+    ],
+    "sections": {
+      "autosomal_inheritance": {
+        "title": "Autosomal Patterns",
+        "content": "<div class='lesson-section'><div class='enzyme-card'><strong>Dominant Traits</strong><br>• Affected individuals in every generation<br>• 50% transmission risk<br>• Examples: Huntington disease, Marfan syndrome</div><div class='enzyme-card'><strong>Recessive Traits</strong><br>• May skip generations<br>• 25% risk to offspring of carriers<br>• Examples: Cystic fibrosis, Sickle cell anemia</div></div>"
+      },
+      "sex_linked_inheritance": {
+        "title": "X-Linked Patterns",
+        "content": "<div class='lesson-section'><table class='inheritance-table'><tr><th>Type</th><th>Transmission</th><th>Male:Female Ratio</th><th>Example</th></tr><tr><td>X-linked Recessive</td><td>No male→male transmission</td><td>Affected ♂ > ♀</td><td>Hemophilia A</td></tr><tr><td>X-linked Dominant</td><td>All daughters of affected ♂ inherit</td><td>♀ > ♂ (♂ often lethal)</td><td>Rett syndrome</td></tr></table></div>"
+      },
+      "pedigree_analysis": {
+        "title": "Pedigree Interpretation",
+        "content": "<div class='clinical-box'><h3>Autosomal Dominant Red Flags</h3><p><span class='clinical-highlight'>Vertical transmission</span><br>• Affected parent → 50% affected offspring<br>• Male-to-male transmission possible<br>• Example: Neurofibromatosis type 1</p></div><div class='clinical-box'><h3>X-linked Recessive Clues</h3><p><span class='clinical-highlight'>Obligate carrier females</span><br>• No affected ♀ without affected ♂ in lineage<br>• Example: Duchenne muscular dystrophy</p></div>"
+      },
+      "exceptions": {
+        "title": "Non-Classical Patterns",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Incomplete Penetrance:</strong> BRCA1 (85% cancer risk by age 70)</li><li><strong>Variable Expressivity:</strong> NF1 café-au-lait vs. plexiform neurofibromas</li><li><strong>Germline Mosaicism:</strong> Recurrence risk >50% for unaffected parents</li></ul></div>"
+      },
+      "case_studies": {
+        "title": "Clinical Applications",
+        "content": "<div class='clinical-box'><h3>Familial Adenomatous Polyposis</h3><p><span class='clinical-highlight'>Gene:</span> APC (5q22.2)<br><span class='clinical-highlight'>Inheritance:</span> Autosomal dominant<br><span class='clinical-highlight'>Management:</span> Colectomy by age 20-25</p></div><div class='clinical-box'><h3>Fragile X Syndrome</h3><p><span class='clinical-highlight'>Gene:</span> FMR1 (Xq27.3)<br><span class='clinical-highlight'>Mechanism:</span> CGG repeat expansion (>200)<br><span class='clinical-highlight'>Testing:</span> PCR + Southern blot</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why are X-linked dominant disorders often more severe in males?</h3><p>Males lack a second X chromosome to compensate (e.g., incontinentia pigmenti is lethal in utero for most males).</p></div><div class='faq-item'><h3>How can autosomal recessive conditions appear dominant in pedigrees?</h3><p>Pseudodominance occurs when a carrier mates with an affected individual (50% affected offspring), common in high-frequency conditions like sickle cell.</p></div><div class='faq-item'><h3>Why don't mitochondrial disorders follow X-linked inheritance?</h3><p>Mitochondrial DNA is maternally inherited (all children of affected mothers inherit), while X-linked shows specific male-female transmission patterns.</p></div>"
+      }
+    }
+  }

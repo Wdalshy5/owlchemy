@@ -1,0 +1,52 @@
+[
+    {
+      "question": "Which of these is an example of a ketose?",
+      "options": ["Glucose", "Galactose", "Fructose", "Mannose"],
+      "answer": "Fructose"
+    },
+    {
+      "question": "The cyclic form of glucose is called:",
+      "options": ["Pyranose", "Furanose", "Aldose", "Ketose"],
+      "answer": "Pyranose"
+    },
+    {
+      "question": "Which carbon atoms are involved in the formation of a furanose ring?",
+      "options": ["C1-C5", "C2-C6", "C2-C5", "C1-C4"],
+      "answer": "C2-C5"
+    },
+    {
+      "question": "The α and β forms of glucose differ in the orientation of:",
+      "options": ["C1 hydroxyl group", "C2 hydroxyl group", "C3 hydroxyl group", "C4 hydroxyl group"],
+      "answer": "C1 hydroxyl group"
+    },
+    {
+      "question": "Which disaccharide contains β(1→4) glycosidic linkage?",
+      "options": ["Sucrose", "Maltose", "Lactose", "Trehalose"],
+      "answer": "Lactose"
+    },
+    {
+      "question": "The sweetness of sugars is compared relative to:",
+      "options": ["Glucose", "Fructose", "Sucrose", "Lactose"],
+      "answer": "Sucrose"
+    },
+    {
+      "question": "Which test specifically identifies ketoses?",
+      "options": ["Benedict's test", "Barfoed's test", "Seliwanoff's test", "Iodine test"],
+      "answer": "Seliwanoff's test"
+    },
+    {
+      "question": "In Haworth projection, the -CH₂OH group points upward in:",
+      "options": ["D-sugars", "L-sugars", "Both D and L sugars", "Neither D nor L sugars"],
+      "answer": "D-sugars"
+    },
+    {
+      "question": "Which polysaccharide contains α(1→6) branch points?",
+      "options": ["Cellulose", "Amylose", "Amylopectin", "Chitin"],
+      "answer": "Amylopectin"
+    },
+    {
+      "question": "The reducing end of a polysaccharide has:",
+      "options": ["Free anomeric carbon", "Glycosidic linkage", "Phosphate group", "N-acetyl group"],
+      "answer": "Free anomeric carbon"
+    }
+  ]

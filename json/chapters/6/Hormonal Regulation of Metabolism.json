@@ -1,0 +1,35 @@
+{
+    "title": "Hormonal Regulation of Metabolism",
+    "objectives": [
+      "Identify key metabolic hormones and their primary target tissues",
+      "Explain insulin/glucagon signaling pathways and their opposing effects",
+      "Describe hormonal adaptations to fed vs. fasted states",
+      "Recognize endocrine disorders of metabolic regulation"
+    ],
+    "sections": {
+      "major_hormones": {
+        "title": "Key Metabolic Hormones",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Insulin</strong> (β-cells) - Fed state regulator</li><li><strong>Glucagon</strong> (α-cells) - Fasted state activator</li><li><strong>Cortisol</strong> - Stress-induced catabolism</li><li><strong>Leptin</strong> - Adipose-derived satiety signal</li><li><strong>Adiponectin</strong> - Insulin sensitizer</li></ul></div>"
+      },
+      "insulin_glucagon": {
+        "title": "Insulin vs. Glucagon Signaling",
+        "content": "<div class='enzyme-card'><strong>Insulin Pathway</strong><br>• Receptor: Tyrosine kinase<br>• Key action: ↑GLUT4 translocation<br>• Metabolic effects:<br>  - ↑Glycogen synthesis<br>  - ↑Lipogenesis<br>  - ↓Gluconeogenesis</div><div class='enzyme-card'><strong>Glucagon Pathway</strong><br>• Receptor: GPCR (Gs-coupled)<br>• Key action: ↑cAMP → PKA activation<br>• Metabolic effects:<br>  - ↑Glycogenolysis<br>  - ↑Gluconeogenesis<br>  - ↑Lipolysis</div>"
+      },
+      "fed_fasted": {
+        "title": "Fed vs. Fasted State Transitions",
+        "content": "<div class='lesson-section'><h3>Postprandial (Fed) State</h3><ul class='significance-list'><li>↑Insulin/↓Glucagon ratio</li><li>Glucose → Glycogen (liver/muscle)</li><li>Excess glucose → Fatty acids (liver → adipose)</li></ul><h3>Fasted State (>12h)</h3><ul class='significance-list'><li>↓Insulin/↑Glucagon ratio</li><li>Glycogen → Glucose (first 24h)</li><li>Proteolysis → Gluconeogenesis (>24h)</li><li>Lipolysis → Ketones (>48h)</li></ul></div>"
+      },
+      "stress_hormones": {
+        "title": "Stress Hormones & Counter-Regulation",
+        "content": "<div class='enzyme-card'><strong>Cortisol</strong><br>• Action: ↑Gluconeogenesis (PEPCK activation)<br>• Effect: Hyperglycemia<br>• Clinical: Dawn phenomenon</div><div class='enzyme-card'><strong>Epinephrine</strong><br>• Action: ↑Glycogenolysis (muscle/liver)<br>• Effect: Rapid glucose mobilization<br>• Clinical: Fight-or-flight response</div>"
+      },
+      "clinical_relevance": {
+        "title": "Endocrine Disorders",
+        "content": "<div class='clinical-box'><h3>Type 1 Diabetes Mellitus</h3><p><span class='clinical-highlight'>Cause:</span> Autoimmune β-cell destruction</p><p><span class='clinical-highlight'>Lab Findings:</span> ↑Glucose, ↑Ketones, ↓Insulin/C-peptide</p><p><span class='clinical-highlight'>Treatment:</span> Insulin replacement</p></div><div class='clinical-box'><h3>Metabolic Syndrome</h3><p><span class='clinical-highlight'>Features:</span> Insulin resistance + 3 of:<br> - Central obesity<br> - Hypertension<br> - Dyslipidemia<br> - Fasting hyperglycemia</p><p><span class='clinical-highlight'>Mechanism:</span> Leptin/adiponectin imbalance</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why does cortisol cause both fat redistribution and muscle wasting?</h3><p>Cortisol activates lipoprotein lipase in central adipocytes (truncal fat accumulation) while simultaneously triggering muscle proteolysis to provide gluconeogenic substrates (alanine/glutamine).</p></div><div class='faq-item'><h3>How does leptin resistance develop in obesity?</h3><p>Chronic hyperleptinemia downregulates hypothalamic leptin receptors and SOCS3 signaling, creating a threshold shift requiring higher leptin levels for satiety effects.</p></div><div class='faq-item'><h3>Why do β-blockers mask hypoglycemia symptoms?</h3><p>By antagonizing adrenergic receptors, they blunt epinephrine-mediated warning signs (tachycardia, tremors) while preserving neuroglycopenic symptoms (confusion, seizures).</p></div>"
+      }
+    }
+  }

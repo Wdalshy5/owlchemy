@@ -1,0 +1,27 @@
+{
+    "title": "Structure and Function of Chromosomal DNA",
+    "objectives": [
+      "Describe the organization of DNA into chromosomes",
+      "Explain chromatin structure and its functional significance",
+      "Identify key chromosomal landmarks",
+      "Relate chromosomal abnormalities to disease"
+    ],
+    "sections": {
+      "dna_organization": {
+        "title": "DNA Packaging",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Nucleosomes:</strong> DNA wrapped around histone octamers</li><li><strong>Chromatin:</strong> Euchromatin (active) vs Heterochromatin (inactive)</li><li><strong>Condensation:</strong> 30nm fiber → looped domains → metaphase chromosome</li></ul></div>"
+      },
+      "chromosomal_features": {
+        "title": "Chromosome Anatomy",
+        "content": "<div class='enzyme-card'><strong>Key Features</strong><br>• <span class='clinical-highlight'>Telomeres:</span> Protective end caps (TTAGGG repeats)<br>• <span class='clinical-highlight'>Centromeres:</span> Sister chromatid attachment site<br>• <span class='clinical-highlight'>Origins of replication:</span> Replication initiation points</div>"
+      },
+      "clinical_correlation": {
+        "title": "Chromosomal Disorders",
+        "content": "<div class='clinical-box'><h3>Down Syndrome (Trisomy 21)</h3><p><span class='clinical-highlight'>Mechanism:</span> Non-disjunction</p><p><span class='clinical-highlight'>Diagnosis:</span> Karyotype showing 47,XX/XY,+21</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why do telomeres shorten with age?</h3><p>Due to the end-replication problem where DNA polymerase cannot fully replicate linear chromosome ends (solved in stem cells by telomerase).</p></div>"
+      }
+    }
+  }

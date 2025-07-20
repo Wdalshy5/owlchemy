@@ -1,0 +1,35 @@
+{
+    "title": "Population Genetics II: Genetic Drift & Selection",
+    "objectives": [
+      "Differentiate genetic drift from natural selection",
+      "Calculate effects of population bottlenecks and founder effects",
+      "Analyze selection patterns through fitness coefficients",
+      "Apply concepts to human genetic disorders"
+    ],
+    "sections": {
+      "genetic_drift": {
+        "title": "Genetic Drift Mechanisms",
+        "content": "<div class='lesson-section'><div class='mechanism-card'><strong>Founder Effect</strong><br>• <span class='clinical-highlight'>Example:</span> Ellis-van Creveld in Amish<br>• <span class='clinical-highlight'>Mechanism:</span> Few founders → ↑recessive alleles<br>• <span class='clinical-highlight'>Impact:</span> 1:200 vs 1:60,000 general population</div><div class='mechanism-card'><strong>Population Bottleneck</strong><br>• <span class='clinical-highlight'>Example:</span> Cheetahs (0.1% genetic diversity)<br>• <span class='clinical-highlight'>Human Analog:</span> Pingelapese color blindness</div></div>"
+      },
+      "selection_types": {
+        "title": "Selection Patterns",
+        "content": "<div class='lesson-section'><table class='selection-table'><tr><th>Type</th><th>Fitness Pattern</th><th>Human Example</th></tr><tr><td>Directional</td><td>↑One extreme phenotype</td><td>Lactase persistence</td></tr><tr><td>Balancing</td><td>↑Heterozygotes</td><td>Sickle cell trait</td></tr><tr><td>Negative</td><td>↓Deleterious alleles</td><td>Tay-Sachs in non-Jewish</td></tr></table></div>"
+      },
+      "mathematical_models": {
+        "title": "Quantitative Analysis",
+        "content": "<div class='equation-card'><strong>Selection Coefficient (s)</strong><br>s = 1 - w<br>• w = relative fitness<br>• s<sub>TT</sub> = 1 for lethal recessive</div><div class='equation-card'><strong>Drift Magnitude</strong><br>N<sub>e</sub> = (4N<sub>m</sub>N<sub>f</sub>)/(N<sub>m</sub> + N<sub>f</sub>)<br>• Effective population size<br>• Human N<sub>e</sub> ≈ 10,000 historically</div>"
+      },
+      "clinical_correlations": {
+        "title": "Medical Applications",
+        "content": "<div class='clinical-box'><h3>Founder Mutation Screening</h3><p><span class='clinical-highlight'>BRCA1 c.68_69delAG</span><br>• 1.5% carrier rate in Ashkenazi Jews<br>• 10× higher than general population<br>• Targeted testing recommended</p></div><div class='clinical-box'><h3>Malaria Resistance Traits</h3><p><span class='clinical-highlight'>Balancing Selection:</span><br>• HbS (sickle cell)<br>• G6PD deficiency<br>• Duffy null blood group</p></div>"
+      },
+      "evolutionary_medicine": {
+        "title": "Disease Susceptibility",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Thrifty Gene Hypothesis:</strong> Diabetes risk from feast-famine adaptation</li><li><strong>Hypertension:</strong> Salt retention advantage in hot climates</li><li><strong>Autoimmunity:</strong> Ancient pathogen defense → modern self-reactivity</li></ul></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why do founder populations show higher recessive disease rates?</h3><p>Genetic drift disproportionately affects small populations - rare alleles can become common by chance (e.g., Finnish disease heritage).</p></div><div class='faq-item'><h3>How does balancing selection maintain two harmful alleles?</h3><p>Heterozygote advantage (e.g., sickle trait against malaria) outweighs homozygote disadvantage at population level.</p></div><div class='faq-item'><h3>Why are lethal dominant alleles rarer than recessive?</h3><p>Strong negative selection removes them each generation (s=1), while recessives 'hide' in heterozygotes (e.g., Huntington's vs Tay-Sachs).</p></div>"
+      }
+    }
+  }

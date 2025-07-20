@@ -1,0 +1,27 @@
+{
+    "title": "DNA Replication and Repair",
+    "objectives": [
+      "Describe the semi-conservative replication mechanism",
+      "Identify key enzymes in DNA synthesis",
+      "Explain major DNA repair pathways",
+      "Relate replication errors to genetic disorders"
+    ],
+    "sections": {
+      "replication_machinery": {
+        "title": "Replication Complex",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Helicase:</strong> Unwinds DNA (DnaB in E. coli)</li><li><strong>Primase:</strong> Synthesizes RNA primers</li><li><strong>DNA Polymerase III:</strong> Main replicase (5'→3' synthesis)</li><li><strong>Ligase:</strong> Joins Okazaki fragments</li></ul></div>"
+      },
+      "repair_pathways": {
+        "title": "Repair Systems",
+        "content": "<div class='enzyme-card'><strong>Base Excision Repair (BER)</strong><br>• Fixes single-base damage<br>• Key enzyme: DNA glycosylase<br>• Example: Uracil excision</div><div class='enzyme-card'><strong>Nucleotide Excision Repair (NER)</strong><br>• Repairs bulky lesions<br>• Key in xeroderma pigmentosum<br>• Removes thymine dimers</div>"
+      },
+      "clinical_correlation": {
+        "title": "Replication Disorders",
+        "content": "<div class='clinical-box'><h3>Hereditary Nonpolyposis Colorectal Cancer (HNPCC)</h3><p><span class='clinical-highlight'>Defect:</span> Mismatch repair (MLH1/MSH2 genes)</p><p><span class='clinical-highlight'>Marker:</span> Microsatellite instability</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why does DNA polymerase need a proofreading function?</h3><p>The 3'→5' exonuclease activity corrects misincorporated bases, reducing error rate from ~10<sup>-4</sup> to ~10<sup>-6</sup> per base pair.</p></div>"
+      }
+    }
+  }

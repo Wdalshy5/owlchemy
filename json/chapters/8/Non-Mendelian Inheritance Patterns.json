@@ -1,0 +1,35 @@
+{
+    "title": "Non-Mendelian Inheritance Patterns",
+    "objectives": [
+      "Identify five major non-Mendelian inheritance mechanisms",
+      "Explain genomic imprinting and uniparental disomy",
+      "Analyze mitochondrial inheritance patterns",
+      "Apply knowledge to genetic counseling scenarios"
+    ],
+    "sections": {
+      "genomic_imprinting": {
+        "title": "Imprinting Disorders",
+        "content": "<div class='lesson-section'><div class='enzyme-card'><strong>Prader-Willi Syndrome</strong><br>• <span class='clinical-highlight'>Mechanism:</span> Paternal 15q11-q13 deletion/maternal UPD<br>• <span class='clinical-highlight'>Features:</span> Hypotonia, hyperphagia, obesity<br>• <span class='clinical-highlight'>Testing:</span> DNA methylation analysis</div><div class='enzyme-card'><strong>Angelman Syndrome</strong><br>• <span class='clinical-highlight'>Mechanism:</span> Maternal 15q11-q13 deletion/paternal UPD<br>• <span class='clinical-highlight'>Features:</span> Developmental delay, ataxia, happy demeanor<br>• <span class='clinical-highlight'>Gene:</span> UBE3A</div></div>"
+      },
+      "mitochondrial": {
+        "title": "Mitochondrial Inheritance",
+        "content": "<div class='lesson-section'><ul class='significance-list'><li><strong>Maternal transmission only</strong> (sperm mitochondria degenerate)</li><li><strong>Heteroplasmy:</strong> Mixed normal/mutant mtDNA (threshold effect)</li><li><strong>Examples:</strong> MELAS (m.3243A>G), LHON (m.11778G>A)</li></ul></div>"
+      },
+      "uniparental_disomy": {
+        "title": "UPD Mechanisms",
+        "content": "<div class='clinical-box'><h3>UPD Types and Consequences</h3><p><span class='clinical-highlight'>Isodisomy:</span> Identical chromosomes → recessive disorders (e.g., CF from carrier parent)</p><p><span class='clinical-highlight'>Heterodisomy:</span> Both homologs from one parent → imprinting disorders</p><p><span class='clinical-highlight'>Testing:</span> SNP microarray analysis</p></div>"
+      },
+      "mosaicism": {
+        "title": "Somatic/Germline Mosaicism",
+        "content": "<div class='lesson-section'><table class='mosaic-table'><tr><th>Type</th><th>Detection Method</th><th>Clinical Impact</th></tr><tr><td>Gonadal</td><td>Sperm DNA analysis</td><td>Recurrence risk > population</td></tr><tr><td>Somatic</td><td>Next-gen sequencing</td><td>Segmental overgrowth (e.g., PROS)</td></tr></table></div>"
+      },
+      "triplet_repeats": {
+        "title": "Dynamic Mutations",
+        "content": "<div class='clinical-box'><h3>Fragile X Syndrome</h3><p><span class='clinical-highlight'>Gene:</span> FMR1 (Xq27.3)<br><span class='clinical-highlight'>Normal:</span> 5-44 CGG repeats<br><span class='clinical-highlight'>Premutation:</span> 55-200 (risk of FXPOI/FXTAS)<br><span class='clinical-highlight'>Full mutation:</span> >200 (methylation → silencing)</p></div>"
+      },
+      "faqs": {
+        "title": "FAQs",
+        "content": "<div class='faq-item'><h3>Why can imprinting disorders occur without DNA sequence changes?</h3><p>Epigenetic silencing marks (DNA methylation/histone modifications) can be aberrantly reset during gametogenesis without altering the nucleotide sequence.</p></div><div class='faq-item'><h3>How does heteroplasmy explain variable mitochondrial disease severity?</h3><p>Tissues with higher mutant mtDNA load (>60-80%) exceed the threshold for oxidative phosphorylation failure - explains why siblings may have different organ involvement.</p></div><div class='faq-item'><h3>Why does UPD of chromosome 7 cause Russell-Silver syndrome?</h3><p>Maternal UPD7 leads to loss of paternally expressed growth-promoting genes (e.g., GRB10 at 7p12.2).</p></div>"
+      }
+    }
+  }
