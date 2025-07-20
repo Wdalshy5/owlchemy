@@ -14,6 +14,15 @@
   <!-- Responsive Header -->
   <header class="bg-white shadow-md p-3 md:p-4 flex flex-col sm:flex-row justify-between items-center gap-3 sm:gap-0">
     <h1 class="text-xl md:text-2xl font-bold text-blue-600">🦉 OWLChemy</h1>
+    
+    <nav class="flex gap-2 sm:gap-4">
+      <button id="nav-lessons" class="px-2 py-1 sm:px-3 sm:py-1 md:px-4 md:py-2 rounded hover:bg-gray-100 font-medium text-blue-600 border-b-2 border-blue-600 text-sm sm:text-base">
+        Lessons
+      </button>
+      <button id="nav-mcqs" class="px-2 py-1 sm:px-3 sm:py-1 md:px-4 md:py-2 rounded hover:bg-gray-100 font-medium text-gray-600 text-sm sm:text-base">
+        MCQs
+      </button>
+    </nav>
   </header>
 
   <!-- Responsive Main Content -->
@@ -75,10 +84,6 @@
             <!-- Loaded lesson will appear here -->
             
           </div>
-          <button onclick="loadLessonMCQs('Basic Biochemistry Molecules', 'Carbohydrates Structure', '1')" 
-  class="mt-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">
-  Go to MCQs
-</button>
 
         </div>
       </div>
@@ -123,5 +128,53 @@
   <script src="js/main.js"></script>
   <script src="js/lesson.js"></script>
   <script src="js/mcqs.js"></script>
+  <script>
+  // Navigation between Lessons and MCQs
+$(function() {
+  // Cache elements
+  const $owlyContainer = $(".relative"); // Container with Owly and speech bubble
+  const $roadmapSection = $("#roadmap-section");
+  const $lessonSection = $("#lesson-section");
+  const $mcqsSection = $("#mcqs-section");
+  const $navLessons = $("#nav-lessons");
+  const $navMcqs = $("#nav-mcqs");
+
+  // Set initial state
+  $mcqsSection.addClass("hidden");
+  $owlyContainer.removeClass("hidden");
+  
+  // Lessons button click handler
+  $navLessons.on("click", function() {
+    // Update navigation styles
+    $navLessons.addClass("text-blue-600 border-b-2 border-blue-600").removeClass("text-gray-600");
+    $navMcqs.removeClass("text-blue-600 border-b-2 border-blue-600").addClass("text-gray-600");
+    
+    // Show/hide sections
+    $mcqsSection.addClass("hidden");
+    $roadmapSection.removeClass("hidden");
+    $lessonSection.removeClass("hidden");
+    $owlyContainer.removeClass("hidden");
+    
+    // Scroll to top for better UX
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+  
+  // MCQs button click handler
+  $navMcqs.on("click", function() {
+    // Update navigation styles
+    $navMcqs.addClass("text-blue-600 border-b-2 border-blue-600").removeClass("text-gray-600");
+    $navLessons.removeClass("text-blue-600 border-b-2 border-blue-600").addClass("text-gray-600");
+    
+    // Show/hide sections
+    $roadmapSection.addClass("hidden");
+    $lessonSection.addClass("hidden");
+    $mcqsSection.removeClass("hidden");
+    $owlyContainer.addClass("hidden");
+    
+    // Scroll to MCQs section
+    document.getElementById("mcqs-section").scrollIntoView({ behavior: 'smooth' });
+  });
+});
+  </script>
 </body>
 </html>
