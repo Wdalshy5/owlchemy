@@ -1,0 +1,312 @@
+[
+    {
+      "question": "What is the definition of a population in genetic terms?",
+      "options": [
+        "A group of individuals from different species",
+        "A group of interbreeding individuals of the same species",
+        "All organisms in an ecosystem",
+        "A collection of cells in an organism"
+      ],
+      "answer": "A group of interbreeding individuals of the same species"
+    },
+    {
+      "question": "Which equation describes Hardy-Weinberg equilibrium?",
+      "options": [
+        "p + q = 1",
+        "p² + 2pq + q² = 1",
+        "p + q = 0",
+        "p² - q² = 1"
+      ],
+      "answer": "p² + 2pq + q² = 1"
+    },
+    {
+      "question": "What does the 'p' variable represent in Hardy-Weinberg equations?",
+      "options": [
+        "Frequency of recessive allele",
+        "Frequency of dominant allele",
+        "Frequency of heterozygous genotype",
+        "Mutation rate"
+      ],
+      "answer": "Frequency of dominant allele"
+    },
+    {
+      "question": "Which assumption is NOT required for Hardy-Weinberg equilibrium?",
+      "options": [
+        "No natural selection",
+        "Random mating",
+        "Small population size",
+        "No mutation"
+      ],
+      "answer": "Small population size"
+    },
+    {
+      "question": "What is the term for movement of alleles between populations?",
+      "options": [
+        "Genetic drift",
+        "Gene flow",
+        "Founder effect",
+        "Bottleneck effect"
+      ],
+      "answer": "Gene flow"
+    },
+    {
+      "question": "Which evolutionary force is most significant in small populations?",
+      "options": [
+        "Natural selection",
+        "Mutation",
+        "Genetic drift",
+        "Gene flow"
+      ],
+      "answer": "Genetic drift"
+    },
+    {
+      "question": "What does the term 'allele frequency' refer to?",
+      "options": [
+        "Number of genes in a genome",
+        "Proportion of a particular allele in a population",
+        "Rate of mutation",
+        "Number of chromosomes"
+      ],
+      "answer": "Proportion of a particular allele in a population"
+    },
+    {
+      "question": "Which phenomenon occurs when a small group establishes a new population?",
+      "options": [
+        "Bottleneck effect",
+        "Founder effect",
+        "Gene flow",
+        "Natural selection"
+      ],
+      "answer": "Founder effect"
+    },
+    {
+      "question": "What is genetic load?",
+      "options": [
+        "The total number of genes in a population",
+        "The burden of deleterious mutations in a population",
+        "The rate of beneficial mutations",
+        "The amount of DNA in a cell"
+      ],
+      "answer": "The burden of deleterious mutations in a population"
+    },
+    {
+      "question": "Which term describes random fluctuation of allele frequencies?",
+      "options": [
+        "Natural selection",
+        "Genetic drift",
+        "Gene flow",
+        "Mutation pressure"
+      ],
+      "answer": "Genetic drift"
+    },
+    {
+      "question": "What is the term for reduced genetic diversity after a population decline?",
+      "options": [
+        "Founder effect",
+        "Bottleneck effect",
+        "Genetic load",
+        "Selection coefficient"
+      ],
+      "answer": "Bottleneck effect"
+    },
+    {
+      "question": "Which condition would maintain Hardy-Weinberg equilibrium?",
+      "options": [
+        "High mutation rate",
+        "Non-random mating",
+        "Large population size",
+        "Presence of natural selection"
+      ],
+      "answer": "Large population size"
+    },
+    {
+      "question": "What does '2pq' represent in Hardy-Weinberg equations?",
+      "options": [
+        "Frequency of homozygous dominant genotype",
+        "Frequency of heterozygous genotype",
+        "Frequency of recessive allele",
+        "Mutation rate"
+      ],
+      "answer": "Frequency of heterozygous genotype"
+    },
+    {
+      "question": "Which term describes differential reproductive success?",
+      "options": [
+        "Genetic drift",
+        "Natural selection",
+        "Gene flow",
+        "Mutation"
+      ],
+      "answer": "Natural selection"
+    },
+    {
+      "question": "What is the term for introduction of new alleles through errors in DNA replication?",
+      "options": [
+        "Gene flow",
+        "Genetic drift",
+        "Mutation",
+        "Natural selection"
+      ],
+      "answer": "Mutation"
+    },
+    {
+      "question": "Which population would be most affected by genetic drift?",
+      "options": [
+        "Population of 10,000",
+        "Population of 1,000",
+        "Population of 100",
+        "Population of 10"
+      ],
+      "answer": "Population of 10"
+    },
+    {
+      "question": "What is the term for mating between close relatives?",
+      "options": [
+        "Assortative mating",
+        "Disassortative mating",
+        "Inbreeding",
+        "Outbreeding"
+      ],
+      "answer": "Inbreeding"
+    },
+    {
+      "question": "Which phenomenon increases homozygosity in a population?",
+      "options": [
+        "Outbreeding",
+        "Gene flow",
+        "Inbreeding",
+        "Natural selection"
+      ],
+      "answer": "Inbreeding"
+    },
+    {
+      "question": "What is the term for selection favoring heterozygotes?",
+      "options": [
+        "Directional selection",
+        "Disruptive selection",
+        "Stabilizing selection",
+        "Balancing selection"
+      ],
+      "answer": "Balancing selection"
+    },
+    {
+      "question": "Which disease demonstrates heterozygote advantage?",
+      "options": [
+        "Cystic fibrosis",
+        "Sickle cell anemia",
+        "Huntington's disease",
+        "Tay-Sachs disease"
+      ],
+      "answer": "Sickle cell anemia"
+    },
+    {
+      "question": "What is the selection coefficient (s)?",
+      "options": [
+        "Measure of gene flow",
+        "Measure of mutation rate",
+        "Measure of fitness reduction",
+        "Measure of population size"
+      ],
+      "answer": "Measure of fitness reduction"
+    },
+    {
+      "question": "Which term describes mating based on phenotype similarity?",
+      "options": [
+        "Inbreeding",
+        "Assortative mating",
+        "Disassortative mating",
+        "Random mating"
+      ],
+      "answer": "Assortative mating"
+    },
+    {
+      "question": "What is the term for selection against both extremes of a trait?",
+      "options": [
+        "Directional selection",
+        "Disruptive selection",
+        "Stabilizing selection",
+        "Balancing selection"
+      ],
+      "answer": "Stabilizing selection"
+    },
+    {
+      "question": "Which evolutionary force introduces new genetic variation?",
+      "options": [
+        "Genetic drift",
+        "Natural selection",
+        "Mutation",
+        "Inbreeding"
+      ],
+      "answer": "Mutation"
+    },
+    {
+      "question": "What is the term for movement of individuals between populations?",
+      "options": [
+        "Mutation",
+        "Migration",
+        "Genetic drift",
+        "Selection"
+      ],
+      "answer": "Migration"
+    },
+    {
+      "question": "Which condition would violate Hardy-Weinberg assumptions?",
+      "options": [
+        "Large population size",
+        "No mutation",
+        "Non-random mating",
+        "No natural selection"
+      ],
+      "answer": "Non-random mating"
+    },
+    {
+      "question": "What is the term for selection favoring one extreme phenotype?",
+      "options": [
+        "Directional selection",
+        "Disruptive selection",
+        "Stabilizing selection",
+        "Balancing selection"
+      ],
+      "answer": "Directional selection"
+    },
+    {
+      "question": "Which term describes differential survival to reproductive age?",
+      "options": [
+        "Fertility",
+        "Fecundity",
+        "Viability",
+        "Fitness"
+      ],
+      "answer": "Viability"
+    },
+    {
+      "question": "What is the term for all alleles in a population?",
+      "options": [
+        "Genotype",
+        "Phenotype",
+        "Gene pool",
+        "Genome"
+      ],
+      "answer": "Gene pool"
+    },
+    {
+      "question": "Which evolutionary force reduces genetic differences between populations?",
+      "options": [
+        "Genetic drift",
+        "Gene flow",
+        "Mutation",
+        "Natural selection"
+      ],
+      "answer": "Gene flow"
+    },
+    {
+      "question": "What is the term for selection favoring two extreme phenotypes?",
+      "options": [
+        "Directional selection",
+        "Disruptive selection",
+        "Stabilizing selection",
+        "Balancing selection"
+      ],
+      "answer": "Disruptive selection"
+    }
+  ]

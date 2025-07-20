@@ -1,0 +1,46 @@
+[
+    /* TEMPLATE INSTRUCTIONS:
+       1. Each object represents one MCQ
+       2. Maintain exactly 4 options per question
+       3. Ensure answer matches one option exactly (case-sensitive)
+       4. Keep questions concise and unambiguous
+    */
+    
+    {
+      // REQUIRED: Question text (end with '?')
+      "question": "Question text goes here?",
+      
+      // REQUIRED: Array of exactly 4 answer options
+      "options": [
+        "Option 1",  // Distractor 1 (plausible but incorrect)
+        "Option 2",  // Distractor 2
+        "Option 3",  // Distractor 3
+        "Option 4"   // Correct answer (matches 'answer' field below)
+      ],
+      
+      // REQUIRED: Must match one option verbatim
+      "answer": "Option 4"
+    },
+  
+    /* COPY THIS BLOCK FOR ADDITIONAL QUESTIONS
+       Maintain consistent formatting:
+       - Double quotes for all strings
+       - No trailing commas
+       - Indent with 2 spaces
+    */
+    {
+      "question": "Another question here?",
+      "options": [
+        "Choice A",
+        "Choice B", 
+        "Choice C",
+        "Choice D"
+      ],
+      "answer": "Choice B"
+    }
+  
+    /* SAVE FILE AS:
+       /mcqs-chapters/[CHAPTER]/[TOPIC]/batch[#].json
+       Example: /mcqs-chapters/lipid-metabolism/fatty-acid-oxidation/batch1.json
+    */
+  ]

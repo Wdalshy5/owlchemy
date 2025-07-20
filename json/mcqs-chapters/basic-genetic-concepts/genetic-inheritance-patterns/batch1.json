@@ -1,0 +1,302 @@
+[
+    {
+      "question": "Which inheritance pattern shows male-to-male transmission?",
+      "options": [
+        "X-linked dominant",
+        "X-linked recessive", 
+        "Autosomal dominant",
+        "Mitochondrial"
+      ],
+      "answer": "Autosomal dominant"
+    },
+    {
+      "question": "For an X-linked recessive disorder, what is the risk a carrier mother will have an affected son?",
+      "options": [
+        "100%",
+        "75%",
+        "50%",
+        "25%"
+      ],
+      "answer": "50%"
+    },
+    {
+      "question": "Which condition demonstrates incomplete penetrance?",
+      "options": [
+        "Huntington disease",
+        "Polydactyly",
+        "Cystic fibrosis",
+        "Tay-Sachs disease"
+      ],
+      "answer": "Polydactyly"
+    },
+    {
+      "question": "A man with an X-linked dominant condition will pass it to:",
+      "options": [
+        "All sons",
+        "All daughters",
+        "50% of sons",
+        "None of his children"
+      ],
+      "answer": "All daughters"
+    },
+    {
+      "question": "Which ratio is typical for autosomal recessive inheritance?",
+      "options": [
+        "1:1 affected:unaffected",
+        "3:1 unaffected:affected", 
+        "All offspring affected",
+        "Only males affected"
+      ],
+      "answer": "3:1 unaffected:affected"
+    },
+    {
+      "question": "What inheritance pattern shows no male-to-male transmission?",
+      "options": [
+        "Autosomal dominant",
+        "X-linked dominant",
+        "Y-linked",
+        "Mitochondrial"
+      ],
+      "answer": "X-linked dominant"
+    },
+    {
+      "question": "For an autosomal recessive disorder, unaffected parents have a __ risk of affected child if both are carriers.",
+      "options": [
+        "100%",
+        "75%",
+        "50%",
+        "25%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "question": "Which condition demonstrates anticipation?",
+      "options": [
+        "Cystic fibrosis",
+        "Huntington disease",
+        "Phenylketonuria",
+        "Sickle cell anemia"
+      ],
+      "answer": "Huntington disease"
+    },
+    {
+      "question": "What is the recurrence risk for offspring of someone with an autosomal dominant condition?",
+      "options": [
+        "100%",
+        "75%",
+        "50%",
+        "25%"
+      ],
+      "answer": "50%"
+    },
+    {
+      "question": "Which inheritance pattern affects all children of an affected mother?",
+      "options": [
+        "X-linked dominant",
+        "Mitochondrial",
+        "Genomic imprinting",
+        "Y-linked"
+      ],
+      "answer": "Mitochondrial"
+    },
+    {
+      "question": "For an X-linked recessive trait, females are typically:",
+      "options": [
+        "Always affected",
+        "Never affected",
+        "Carriers",
+        "More severely affected than males"
+      ],
+      "answer": "Carriers"
+    },
+    {
+      "question": "Which condition is autosomal recessive?",
+      "options": [
+        "Marfan syndrome",
+        "Huntington disease",
+        "Cystic fibrosis",
+        "Duchenne muscular dystrophy"
+      ],
+      "answer": "Cystic fibrosis"
+    },
+    {
+      "question": "A hallmark of Y-linked inheritance is:",
+      "options": [
+        "Affects only females",
+        "Transmitted father to all sons",
+        "Skips generations",
+        "Requires two copies for expression"
+      ],
+      "answer": "Transmitted father to all sons"
+    },
+    {
+      "question": "Which inheritance pattern shows 'skipped generations'?",
+      "options": [
+        "Autosomal dominant",
+        "X-linked dominant",
+        "Autosomal recessive",
+        "Y-linked"
+      ],
+      "answer": "Autosomal recessive"
+    },
+    {
+      "question": "For an X-linked dominant condition, affected males transmit to:",
+      "options": [
+        "All sons",
+        "All daughters",
+        "50% of daughters",
+        "None of his children"
+      ],
+      "answer": "All daughters"
+    },
+    {
+      "question": "Which is true about autosomal dominant conditions?",
+      "options": [
+        "Often appear in every generation",
+        "Require two mutant alleles",
+        "More common than recessive disorders",
+        "Never show reduced penetrance"
+      ],
+      "answer": "Often appear in every generation"
+    },
+    {
+      "question": "A couple has a child with an autosomal recessive condition. What's their genotype?",
+      "options": [
+        "Both homozygous dominant",
+        "Both heterozygous",
+        "One homozygous, one heterozygous",
+        "One homozygous, one normal"
+      ],
+      "answer": "Both heterozygous"
+    },
+    {
+      "question": "Which inheritance pattern shows no female-to-male transmission?",
+      "options": [
+        "Autosomal dominant",
+        "X-linked recessive",
+        "Mitochondrial",
+        "Y-linked"
+      ],
+      "answer": "Y-linked"
+    },
+    {
+      "question": "For an X-linked recessive trait, an affected female must have:",
+      "options": [
+        "An affected father",
+        "An affected mother",
+        "Two affected parents",
+        "An affected son"
+      ],
+      "answer": "An affected father"
+    },
+    {
+      "question": "Which ratio represents carrier parents of an autosomal recessive trait?",
+      "options": [
+        "1 affected: 2 carriers: 1 normal",
+        "3 affected: 1 normal",
+        "All carriers",
+        "1 affected: 3 normal"
+      ],
+      "answer": "1 affected: 2 carriers: 1 normal"
+    },
+    {
+      "question": "In X-linked dominant inheritance, affected females transmit to:",
+      "options": [
+        "All sons",
+        "All daughters",
+        "50% of children regardless of sex",
+        "Only male children"
+      ],
+      "answer": "50% of children regardless of sex"
+    },
+    {
+      "question": "Which condition demonstrates X-linked dominant inheritance?",
+      "options": [
+        "Vitamin D-resistant rickets",
+        "Cystic fibrosis",
+        "Sickle cell anemia",
+        "Phenylketonuria"
+      ],
+      "answer": "Vitamin D-resistant rickets"
+    },
+    {
+      "question": "A key feature of autosomal recessive inheritance is:",
+      "options": [
+        "Affects every generation",
+        "Consanguinity increases risk",
+        "Males more affected than females",
+        "All children of affected parents are affected"
+      ],
+      "answer": "Consanguinity increases risk"
+    },
+    {
+      "question": "For an X-linked trait, males cannot be:",
+      "options": [
+        "Affected",
+        "Carriers",
+        "Homozygous",
+        "Hemizygous"
+      ],
+      "answer": "Carriers"
+    },
+    {
+      "question": "Which inheritance pattern shows all sons of affected mothers being affected?",
+      "options": [
+        "Autosomal dominant",
+        "X-linked recessive",
+        "Mitochondrial",
+        "Y-linked"
+      ],
+      "answer": "Mitochondrial"
+    },
+    {
+      "question": "In autosomal dominant inheritance with variable expressivity:",
+      "options": [
+        "All individuals show identical symptoms",
+        "Symptoms vary among affected individuals",
+        "Only males show symptoms",
+        "Symptoms skip generations"
+      ],
+      "answer": "Symptoms vary among affected individuals"
+    },
+    {
+      "question": "Which condition shows X-linked recessive inheritance?",
+      "options": [
+        "Hemophilia A",
+        "Huntington disease",
+        "Marfan syndrome",
+        "Neurofibromatosis"
+      ],
+      "answer": "Hemophilia A"
+    },
+    {
+      "question": "For an autosomal dominant condition with 50% penetrance, the apparent recurrence risk is:",
+      "options": [
+        "100%",
+        "75%",
+        "50%",
+        "25%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "question": "Which inheritance pattern affects males more severely than females?",
+      "options": [
+        "Autosomal dominant",
+        "X-linked recessive",
+        "Mitochondrial",
+        "Genomic imprinting"
+      ],
+      "answer": "X-linked recessive"
+    },
+    {
+      "question": "A key feature of mitochondrial inheritance is:",
+      "options": [
+        "Male-to-male transmission",
+        "All offspring of affected males inherit",
+        "Variable expression due to heteroplasmy",
+        "Requires two copies for expression"
+      ],
+      "answer": "Variable expression due to heteroplasmy"
+    }
+  ]

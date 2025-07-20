@@ -1,0 +1,302 @@
+[
+    {
+      "question": "What is the primary focus of genetic diseases?",
+      "options": [
+        "Diseases caused by environmental factors only",
+        "Diseases resulting from gene mutations",
+        "Diseases affecting only physical characteristics",
+        "Diseases that are always fatal"
+      ],
+      "answer": "Diseases resulting from gene mutations"
+    },
+    {
+      "question": "Which of the following is an example of a single-gene disorder?",
+      "options": [
+        "Diabetes mellitus",
+        "Cystic fibrosis",
+        "Hypertension",
+        "Asthma"
+      ],
+      "answer": "Cystic fibrosis"
+    },
+    {
+      "question": "What term describes the complete set of genes in an organism?",
+      "options": [
+        "Phenotype",
+        "Genome",
+        "Chromosome",
+        "Allele"
+      ],
+      "answer": "Genome"
+    },
+    {
+      "question": "Which genetic disease is caused by trisomy 21?",
+      "options": [
+        "Turner syndrome",
+        "Down syndrome",
+        "Klinefelter syndrome",
+        "Patau syndrome"
+      ],
+      "answer": "Down syndrome"
+    },
+    {
+      "question": "What type of mutation causes sickle cell anemia?",
+      "options": [
+        "Point mutation",
+        "Chromosomal deletion",
+        "Insertion mutation",
+        "Frameshift mutation"
+      ],
+      "answer": "Point mutation"
+    },
+    {
+      "question": "Which of these is an autosomal dominant disorder?",
+      "options": [
+        "Huntington's disease",
+        "Cystic fibrosis",
+        "Sickle cell anemia",
+        "Tay-Sachs disease"
+      ],
+      "answer": "Huntington's disease"
+    },
+    {
+      "question": "What is the probability of two carrier parents having a child with an autosomal recessive disorder?",
+      "options": [
+        "100%",
+        "75%",
+        "50%",
+        "25%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "question": "Which genetic disorder affects the X chromosome?",
+      "options": [
+        "Marfan syndrome",
+        "Hemophilia",
+        "Achondroplasia",
+        "Phenylketonuria"
+      ],
+      "answer": "Hemophilia"
+    },
+    {
+      "question": "What is the main characteristic of multifactorial inheritance?",
+      "options": [
+        "Caused by single gene mutation",
+        "Involves both genetic and environmental factors",
+        "Only affects males",
+        "Always skips generations"
+      ],
+      "answer": "Involves both genetic and environmental factors"
+    },
+    {
+      "question": "Which technique is used to detect chromosomal abnormalities?",
+      "options": [
+        "PCR",
+        "Karyotyping",
+        "Western blot",
+        "ELISA"
+      ],
+      "answer": "Karyotyping"
+    },
+    {
+      "question": "What is the genetic basis of Turner syndrome?",
+      "options": [
+        "XXY",
+        "XYY",
+        "XO",
+        "XXX"
+      ],
+      "answer": "XO"
+    },
+    {
+      "question": "Which disorder results from expansion of trinucleotide repeats?",
+      "options": [
+        "Fragile X syndrome",
+        "Phenylketonuria",
+        "Albinism",
+        "Galactosemia"
+      ],
+      "answer": "Fragile X syndrome"
+    },
+    {
+      "question": "What is the inheritance pattern of mitochondrial diseases?",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked",
+        "Maternal inheritance"
+      ],
+      "answer": "Maternal inheritance"
+    },
+    {
+      "question": "Which genetic test examines protein products of genes?",
+      "options": [
+        "DNA sequencing",
+        "Biochemical testing",
+        "Cytogenetic analysis",
+        "FISH"
+      ],
+      "answer": "Biochemical testing"
+    },
+    {
+      "question": "What is the main cause of genetic mutations?",
+      "options": [
+        "Errors in DNA replication",
+        "Vaccinations",
+        "Poor nutrition",
+        "Lack of exercise"
+      ],
+      "answer": "Errors in DNA replication"
+    },
+    {
+      "question": "Which condition is an example of genomic imprinting?",
+      "options": [
+        "Prader-Willi syndrome",
+        "Marfan syndrome",
+        "Neurofibromatosis",
+        "Albinism"
+      ],
+      "answer": "Prader-Willi syndrome"
+    },
+    {
+      "question": "What percentage of human DNA codes for proteins?",
+      "options": [
+        "About 1-2%",
+        "About 25%",
+        "About 50%",
+        "About 98%"
+      ],
+      "answer": "About 1-2%"
+    },
+    {
+      "question": "Which genetic disorder affects connective tissue?",
+      "options": [
+        "Hemochromatosis",
+        "Marfan syndrome",
+        "Tay-Sachs disease",
+        "Gaucher disease"
+      ],
+      "answer": "Marfan syndrome"
+    },
+    {
+      "question": "What is the term for different forms of the same gene?",
+      "options": [
+        "Chromatids",
+        "Alleles",
+        "Loci",
+        "Genotypes"
+      ],
+      "answer": "Alleles"
+    },
+    {
+      "question": "Which disease shows anticipation (worsening in successive generations)?",
+      "options": [
+        "Cystic fibrosis",
+        "Huntington's disease",
+        "Phenylketonuria",
+        "Sickle cell anemia"
+      ],
+      "answer": "Huntington's disease"
+    },
+    {
+      "question": "What is the main symptom of phenylketonuria (PKU)?",
+      "options": [
+        "Muscle weakness",
+        "Intellectual disability",
+        "Visual impairment",
+        "Hearing loss"
+      ],
+      "answer": "Intellectual disability"
+    },
+    {
+      "question": "Which genetic disorder affects hemoglobin?",
+      "options": [
+        "Tay-Sachs disease",
+        "Sickle cell anemia",
+        "Cystic fibrosis",
+        "Duchenne muscular dystrophy"
+      ],
+      "answer": "Sickle cell anemia"
+    },
+    {
+      "question": "What is the risk of recurrence for autosomal recessive disorders?",
+      "options": [
+        "100% in all offspring",
+        "25% with each pregnancy",
+        "50% with each pregnancy",
+        "Only in males"
+      ],
+      "answer": "25% with each pregnancy"
+    },
+    {
+      "question": "Which technology allows editing of genes?",
+      "options": [
+        "PCR",
+        "CRISPR-Cas9",
+        "ELISA",
+        "Western blot"
+      ],
+      "answer": "CRISPR-Cas9"
+    },
+    {
+      "question": "What is the genetic basis of Klinefelter syndrome?",
+      "options": [
+        "XXY",
+        "XYY",
+        "XO",
+        "XXX"
+      ],
+      "answer": "XXY"
+    },
+    {
+      "question": "Which disorder is caused by a defect in lysosomal enzymes?",
+      "options": [
+        "Gaucher disease",
+        "Marfan syndrome",
+        "Huntington's disease",
+        "Cystic fibrosis"
+      ],
+      "answer": "Gaucher disease"
+    },
+    {
+      "question": "What is the main characteristic of X-linked recessive disorders?",
+      "options": [
+        "Affect only females",
+        "Affect males more severely",
+        "Skip every other generation",
+        "Are always fatal"
+      ],
+      "answer": "Affect males more severely"
+    },
+    {
+      "question": "Which genetic test examines chromosome structure?",
+      "options": [
+        "DNA sequencing",
+        "Karyotyping",
+        "Protein electrophoresis",
+        "PCR"
+      ],
+      "answer": "Karyotyping"
+    },
+    {
+      "question": "What is the term for the observable characteristics of an organism?",
+      "options": [
+        "Genotype",
+        "Phenotype",
+        "Allele",
+        "Genome"
+      ],
+      "answer": "Phenotype"
+    },
+    {
+      "question": "Which disorder results from a defect in chloride channels?",
+      "options": [
+        "Cystic fibrosis",
+        "Tay-Sachs disease",
+        "Sickle cell anemia",
+        "Hemophilia"
+      ],
+      "answer": "Cystic fibrosis"
+    }
+  ]

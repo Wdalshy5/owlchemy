@@ -1,0 +1,303 @@
+[
+    {
+      "question": "What does F<sub>ST</sub> measure in population genetics?",
+      "options": [
+        "Mutation rate",
+        "Genetic differentiation between populations",
+        "Allele frequency within a population",
+        "Selection coefficient"
+      ],
+      "answer": "Genetic differentiation between populations"
+    },
+    {
+      "question": "Which evolutionary process creates new genetic variation?",
+      "options": [
+        "Genetic drift",
+        "Natural selection",
+        "Mutation",
+        "Gene flow"
+      ],
+      "answer": "Mutation"
+    },
+    {
+      "question": "What is the Wahlund effect?",
+      "options": [
+        "Excess heterozygosity due to population subdivision",
+        "Deficit of heterozygotes due to population subdivision",
+        "Effect of inbreeding on allele frequencies",
+        "Impact of genetic drift on small populations"
+      ],
+      "answer": "Deficit of heterozygotes due to population subdivision"
+    },
+    {
+      "question": "Which statistical test detects deviations from Hardy-Weinberg equilibrium?",
+      "options": [
+        "t-test",
+        "Chi-square test",
+        "ANOVA",
+        "Regression analysis"
+      ],
+      "answer": "Chi-square test"
+    },
+    {
+      "question": "What does a high F<sub>IS</sub> value indicate?",
+      "options": [
+        "High gene flow between populations",
+        "Excess heterozygosity within a population",
+        "Deficiency of heterozygotes within a population",
+        "Strong natural selection"
+      ],
+      "answer": "Deficiency of heterozygotes within a population"
+    },
+    {
+      "question": "Which term describes the reduction in fitness from inbreeding?",
+      "options": [
+        "Genetic load",
+        "Inbreeding depression",
+        "Selection coefficient",
+        "Founder effect"
+      ],
+      "answer": "Inbreeding depression"
+    },
+    {
+      "question": "What is the effective population size (N<sub>e</sub>)?",
+      "options": [
+        "Total number of individuals in a population",
+        "Number of breeding individuals in an ideal population",
+        "Number of heterozygous individuals",
+        "Number of migrants per generation"
+      ],
+      "answer": "Number of breeding individuals in an ideal population"
+    },
+    {
+      "question": "Which evolutionary force counteracts genetic drift?",
+      "options": [
+        "Mutation",
+        "Gene flow",
+        "Natural selection",
+        "Inbreeding"
+      ],
+      "answer": "Gene flow"
+    },
+    {
+      "question": "What does the infinite alleles model assume?",
+      "options": [
+        "Each mutation creates a unique allele",
+        "All populations are infinitely large",
+        "Mutation rate equals migration rate",
+        "Selection is always directional"
+      ],
+      "answer": "Each mutation creates a unique allele"
+    },
+    {
+      "question": "Which concept explains maintenance of sickle cell allele in malaria-endemic regions?",
+      "options": [
+        "Genetic drift",
+        "Heterozygote advantage",
+        "Founder effect",
+        "Mutation-selection balance"
+      ],
+      "answer": "Heterozygote advantage"
+    },
+    {
+      "question": "What is coalescent theory used to study?",
+      "options": [
+        "Future evolution of populations",
+        "Ancestral relationships of alleles",
+        "Gene expression patterns",
+        "Protein structure evolution"
+      ],
+      "answer": "Ancestral relationships of alleles"
+    },
+    {
+      "question": "Which term describes alleles identical by descent?",
+      "options": [
+        "Homologous",
+        "Homozygous",
+        "Identical by state",
+        "Identical by descent"
+      ],
+      "answer": "Identical by descent"
+    },
+    {
+      "question": "What does the mutation-drift balance describe?",
+      "options": [
+        "Equilibrium between mutation and selection",
+        "Balance between new mutations and genetic drift",
+        "Interaction between gene flow and drift",
+        "Balance between inbreeding and outbreeding"
+      ],
+      "answer": "Balance between new mutations and genetic drift"
+    },
+    {
+      "question": "Which population would have the highest genetic diversity?",
+      "options": [
+        "Small isolated population",
+        "Large population with high gene flow",
+        "Population recovering from bottleneck",
+        "Inbred population"
+      ],
+      "answer": "Large population with high gene flow"
+    },
+    {
+      "question": "What is the term for selection maintaining genetic variation?",
+      "options": [
+        "Directional selection",
+        "Balancing selection",
+        "Purifying selection",
+        "Disruptive selection"
+      ],
+      "answer": "Balancing selection"
+    },
+    {
+      "question": "Which concept explains persistence of deleterious alleles?",
+      "options": [
+        "Heterozygote advantage",
+        "Mutation-selection balance",
+        "Genetic hitchhiking",
+        "Background selection"
+      ],
+      "answer": "Mutation-selection balance"
+    },
+    {
+      "question": "What does the neutral theory of molecular evolution propose?",
+      "options": [
+        "Most mutations are advantageous",
+        "Most evolutionary changes are due to natural selection",
+        "Most molecular variation is selectively neutral",
+        "Mutation rates are constant across species"
+      ],
+      "answer": "Most molecular variation is selectively neutral"
+    },
+    {
+      "question": "Which term describes reduced diversity around a selected allele?",
+      "options": [
+        "Genetic hitchhiking",
+        "Background selection",
+        "Selective sweep",
+        "Both A and C"
+      ],
+      "answer": "Both A and C"
+    },
+    {
+      "question": "What is the term for non-random association of alleles?",
+      "options": [
+        "Linkage equilibrium",
+        "Linkage disequilibrium",
+        "Haplotype diversity",
+        "Allelic correlation"
+      ],
+      "answer": "Linkage disequilibrium"
+    },
+    {
+      "question": "Which evolutionary process reduces linked neutral variation?",
+      "options": [
+        "Background selection",
+        "Genetic hitchhiking",
+        "Selective sweep",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What does the McDonald-Kreitman test compare?",
+      "options": [
+        "Rates of synonymous vs. nonsynonymous mutations",
+        "Allele frequencies between populations",
+        "Heterozygosity levels",
+        "Mutation rates across species"
+      ],
+      "answer": "Rates of synonymous vs. nonsynonymous mutations"
+    },
+    {
+      "question": "Which term describes alleles that are functionally similar but not identical by descent?",
+      "options": [
+        "Homologous",
+        "Identical by descent",
+        "Identical by state",
+        "Orthologous"
+      ],
+      "answer": "Identical by state"
+    },
+    {
+      "question": "What is the term for selection removing deleterious mutations?",
+      "options": [
+        "Positive selection",
+        "Balancing selection",
+        "Purifying selection",
+        "Disruptive selection"
+      ],
+      "answer": "Purifying selection"
+    },
+    {
+      "question": "Which concept explains correlation between genetic and geographic distance?",
+      "options": [
+        "Isolation by distance",
+        "Founder effect",
+        "Genetic hitchhiking",
+        "Background selection"
+      ],
+      "answer": "Isolation by distance"
+    },
+    {
+      "question": "What does Tajima's D test detect?",
+      "options": [
+        "Population structure",
+        "Deviations from neutral evolution",
+        "Mutation rates",
+        "Gene flow levels"
+      ],
+      "answer": "Deviations from neutral evolution"
+    },
+    {
+      "question": "Which term describes alleles shared between species due to common ancestry?",
+      "options": [
+        "Orthologous",
+        "Paralogous",
+        "Homologous",
+        "Analogous"
+      ],
+      "answer": "Orthologous"
+    },
+    {
+      "question": "What is the term for gene duplication within a genome?",
+      "options": [
+        "Orthology",
+        "Paralogy",
+        "Homology",
+        "Analogy"
+      ],
+      "answer": "Paralogy"
+    },
+    {
+      "question": "Which process can maintain recessive deleterious alleles?",
+      "options": [
+        "Heterozygote advantage",
+        "Mutation-selection balance",
+        "Genetic drift in small populations",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What does the ratio π<sub>N</sub>/π<sub>S</sub> measure?",
+      "options": [
+        "Mutation rate",
+        "Selection pressure on coding regions",
+        "Population growth rate",
+        "Recombination rate"
+      ],
+      "answer": "Selection pressure on coding regions"
+    },
+    {
+      "question": "Which term describes the random loss of alleles during population crashes?",
+      "options": [
+        "Founder effect",
+        "Genetic bottleneck",
+        "Background selection",
+        "Selective sweep"
+      ],
+      "answer": "Genetic bottleneck"
+    }
+  ]
+  

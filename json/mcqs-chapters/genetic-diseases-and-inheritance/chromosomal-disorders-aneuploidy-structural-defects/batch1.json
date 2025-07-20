@@ -1,0 +1,302 @@
+[
+    {
+      "question": "What is the most common cause of Down syndrome?",
+      "options": [
+        "Trisomy 21",
+        "Robertsonian translocation",
+        "Mosaic trisomy 21",
+        "X chromosome monosomy"
+      ],
+      "answer": "Trisomy 21"
+    },
+    {
+      "question": "Which chromosomal abnormality causes Turner syndrome?",
+      "options": [
+        "47,XXY",
+        "45,X",
+        "47,XXX",
+        "47,XYY"
+      ],
+      "answer": "45,X"
+    },
+    {
+      "question": "What is the karyotype of Klinefelter syndrome?",
+      "options": [
+        "45,X",
+        "47,XXX",
+        "47,XXY",
+        "47,XYY"
+      ],
+      "answer": "47,XXY"
+    },
+    {
+      "question": "Which condition results from trisomy 18?",
+      "options": [
+        "Patau syndrome",
+        "Edwards syndrome",
+        "Down syndrome",
+        "Turner syndrome"
+      ],
+      "answer": "Edwards syndrome"
+    },
+    {
+      "question": "What is the most common chromosomal deletion syndrome?",
+      "options": [
+        "Cri du chat syndrome (5p-)",
+        "Wolf-Hirschhorn syndrome (4p-)",
+        "DiGeorge syndrome (22q11.2)",
+        "Williams syndrome (7q11.23)"
+      ],
+      "answer": "DiGeorge syndrome (22q11.2)"
+    },
+    {
+      "question": "Which chromosomal defect causes Prader-Willi syndrome?",
+      "options": [
+        "Maternal uniparental disomy 15",
+        "Paternal uniparental disomy 15",
+        "Deletion on chromosome 5",
+        "Trisomy 13"
+      ],
+      "answer": "Paternal uniparental disomy 15"
+    },
+    {
+      "question": "What is the main cytogenetic finding in chronic myeloid leukemia?",
+      "options": [
+        "t(8;14)",
+        "t(9;22) Philadelphia chromosome",
+        "t(15;17)",
+        "del(13q14)"
+      ],
+      "answer": "t(9;22) Philadelphia chromosome"
+    },
+    {
+      "question": "Which condition results from trisomy 13?",
+      "options": [
+        "Edwards syndrome",
+        "Patau syndrome",
+        "Down syndrome",
+        "Klinefelter syndrome"
+      ],
+      "answer": "Patau syndrome"
+    },
+    {
+      "question": "What is the mechanism of Cri du chat syndrome?",
+      "options": [
+        "Terminal deletion of 5p",
+        "Ring chromosome 5",
+        "Uniparental disomy 5",
+        "Trisomy 5"
+      ],
+      "answer": "Terminal deletion of 5p"
+    },
+    {
+      "question": "Which chromosomal abnormality causes Angelman syndrome?",
+      "options": [
+        "Maternal uniparental disomy 15",
+        "Paternal uniparental disomy 15",
+        "Deletion of 15q11-q13 (maternal)",
+        "Deletion of 15q11-q13 (paternal)"
+      ],
+      "answer": "Deletion of 15q11-q13 (maternal)"
+    },
+    {
+      "question": "What is the karyotype of Triple X syndrome?",
+      "options": [
+        "45,X",
+        "47,XXX",
+        "47,XXY",
+        "47,XYY"
+      ],
+      "answer": "47,XXX"
+    },
+    {
+      "question": "Which structural abnormality involves centromeric fusion of two acrocentric chromosomes?",
+      "options": [
+        "Reciprocal translocation",
+        "Robertsonian translocation",
+        "Paracentric inversion",
+        "Ring chromosome"
+      ],
+      "answer": "Robertsonian translocation"
+    },
+    {
+      "question": "What is the most common chromosomal cause of miscarriage?",
+      "options": [
+        "45,X",
+        "47,XXY",
+        "Trisomy 16",
+        "Triploidy"
+      ],
+      "answer": "Trisomy 16"
+    },
+    {
+      "question": "Which condition results from microdeletion at 22q11.2?",
+      "options": [
+        "Williams syndrome",
+        "DiGeorge syndrome",
+        "Prader-Willi syndrome",
+        "Angelman syndrome"
+      ],
+      "answer": "DiGeorge syndrome"
+    },
+    {
+      "question": "What is the karyotype of Jacob's syndrome?",
+      "options": [
+        "47,XXY",
+        "47,XYY",
+        "47,XXX",
+        "45,X"
+      ],
+      "answer": "47,XYY"
+    },
+    {
+      "question": "Which chromosomal abnormality is associated with AML M3?",
+      "options": [
+        "t(8;21)",
+        "t(15;17)",
+        "inv(16)",
+        "t(9;22)"
+      ],
+      "answer": "t(15;17)"
+    },
+    {
+      "question": "What is the mechanism of Wolf-Hirschhorn syndrome?",
+      "options": [
+        "Deletion of 4p",
+        "Deletion of 5p",
+        "Uniparental disomy 4",
+        "Trisomy 4"
+      ],
+      "answer": "Deletion of 4p"
+    },
+    {
+      "question": "Which condition results from uniparental disomy of chromosome 7?",
+      "options": [
+        "Russell-Silver syndrome",
+        "Beckwith-Wiedemann syndrome",
+        "Prader-Willi syndrome",
+        "Angelman syndrome"
+      ],
+      "answer": "Russell-Silver syndrome"
+    },
+    {
+      "question": "What is the most common chromosomal finding in acute lymphoblastic leukemia?",
+      "options": [
+        "t(12;21)",
+        "t(9;22)",
+        "t(8;14)",
+        "t(15;17)"
+      ],
+      "answer": "t(12;21)"
+    },
+    {
+      "question": "Which condition is caused by microdeletion at 7q11.23?",
+      "options": [
+        "Williams syndrome",
+        "DiGeorge syndrome",
+        "Prader-Willi syndrome",
+        "Angelman syndrome"
+      ],
+      "answer": "Williams syndrome"
+    },
+    {
+      "question": "What is the karyotype of Pallister-Killian syndrome?",
+      "options": [
+        "47,XX,+13",
+        "47,XY,+18",
+        "47,XX,+21",
+        "47,XX,+12p (mosaic)"
+      ],
+      "answer": "47,XX,+12p (mosaic)"
+    },
+    {
+      "question": "Which chromosomal abnormality causes Burkitt lymphoma?",
+      "options": [
+        "t(8;14)",
+        "t(9;22)",
+        "t(15;17)",
+        "t(11;14)"
+      ],
+      "answer": "t(8;14)"
+    },
+    {
+      "question": "What is the mechanism of isochromosome formation?",
+      "options": [
+        "Translocation between non-homologous chromosomes",
+        "Mirror image duplication of one chromosome arm",
+        "Deletion of chromosome ends",
+        "Inversion of chromosome segments"
+      ],
+      "answer": "Mirror image duplication of one chromosome arm"
+    },
+    {
+      "question": "Which condition results from microdeletion at 17p11.2?",
+      "options": [
+        "Smith-Magenis syndrome",
+        "Williams syndrome",
+        "DiGeorge syndrome",
+        "Angelman syndrome"
+      ],
+      "answer": "Smith-Magenis syndrome"
+    },
+    {
+      "question": "What is the most common chromosomal finding in chronic lymphocytic leukemia?",
+      "options": [
+        "del(13q14)",
+        "t(11;14)",
+        "t(14;18)",
+        "t(9;22)"
+      ],
+      "answer": "del(13q14)"
+    },
+    {
+      "question": "Which condition is caused by microdeletion at 11p15?",
+      "options": [
+        "Beckwith-Wiedemann syndrome",
+        "Russell-Silver syndrome",
+        "Prader-Willi syndrome",
+        "Angelman syndrome"
+      ],
+      "answer": "Beckwith-Wiedemann syndrome"
+    },
+    {
+      "question": "What is the karyotype of Turner syndrome mosaic?",
+      "options": [
+        "45,X/46,XX",
+        "45,X/47,XXX",
+        "45,X/46,XY",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which chromosomal abnormality causes Ewing sarcoma?",
+      "options": [
+        "t(11;22)",
+        "t(9;22)",
+        "t(8;21)",
+        "t(15;17)"
+      ],
+      "answer": "t(11;22)"
+    },
+    {
+      "question": "What is the mechanism of ring chromosome formation?",
+      "options": [
+        "Breakage and fusion of both chromosome ends",
+        "Duplication of chromosome segments",
+        "Translocation between homologous chromosomes",
+        "Inversion of chromosome segments"
+      ],
+      "answer": "Breakage and fusion of both chromosome ends"
+    },
+    {
+      "question": "Which condition results from microdeletion at 15q11-q13 (paternal)?",
+      "options": [
+        "Angelman syndrome",
+        "Prader-Willi syndrome",
+        "Both A and B",
+        "Neither A nor B"
+      ],
+      "answer": "Prader-Willi syndrome"
+    }
+  ]

@@ -1,0 +1,302 @@
+[
+    {
+      "question": "What is the fundamental unit of heredity?",
+      "options": [
+        "Chromosome",
+        "Gene",
+        "Protein",
+        "Nucleotide"
+      ],
+      "answer": "Gene"
+    },
+    {
+      "question": "Which type of mutation creates a premature stop codon?",
+      "options": [
+        "Missense mutation",
+        "Nonsense mutation",
+        "Silent mutation",
+        "Frameshift mutation"
+      ],
+      "answer": "Nonsense mutation"
+    },
+    {
+      "question": "What percentage of cancers have a genetic component?",
+      "options": [
+        "5-10%",
+        "25-30%",
+        "50-60%",
+        "90-95%"
+      ],
+      "answer": "90-95%"
+    },
+    {
+      "question": "Which chromosome abnormality causes Cri du Chat syndrome?",
+      "options": [
+        "Deletion on chromosome 5",
+        "Trisomy 13",
+        "XXY karyotype",
+        "Inversion on chromosome 9"
+      ],
+      "answer": "Deletion on chromosome 5"
+    },
+    {
+      "question": "What is the most common autosomal recessive disorder in Caucasians?",
+      "options": [
+        "Sickle cell anemia",
+        "Tay-Sachs disease",
+        "Cystic fibrosis",
+        "Phenylketonuria"
+      ],
+      "answer": "Cystic fibrosis"
+    },
+    {
+      "question": "Which genetic mechanism causes Angelman syndrome?",
+      "options": [
+        "Mitochondrial mutation",
+        "Maternal uniparental disomy",
+        "X-linked dominant inheritance",
+        "Trinucleotide repeat expansion"
+      ],
+      "answer": "Maternal uniparental disomy"
+    },
+    {
+      "question": "What type of DNA damage is caused by UV radiation?",
+      "options": [
+        "Double-strand breaks",
+        "Thymine dimers",
+        "Deamination",
+        "Translocations"
+      ],
+      "answer": "Thymine dimers"
+    },
+    {
+      "question": "Which DNA repair mechanism fixes thymine dimers?",
+      "options": [
+        "Base excision repair",
+        "Nucleotide excision repair",
+        "Mismatch repair",
+        "Homologous recombination"
+      ],
+      "answer": "Nucleotide excision repair"
+    },
+    {
+      "question": "What is the genetic basis of Huntington's disease?",
+      "options": [
+        "CAG repeat expansion in HTT gene",
+        "Deletion in chromosome 4",
+        "Point mutation in hemoglobin gene",
+        "Mitochondrial DNA deletion"
+      ],
+      "answer": "CAG repeat expansion in HTT gene"
+    },
+    {
+      "question": "Which condition results from imprinting on chromosome 15?",
+      "options": [
+        "Marfan syndrome",
+        "Prader-Willi syndrome",
+        "Fragile X syndrome",
+        "Turner syndrome"
+      ],
+      "answer": "Prader-Willi syndrome"
+    },
+    {
+      "question": "What is the main genetic cause of Duchenne muscular dystrophy?",
+      "options": [
+        "Deletion in dystrophin gene",
+        "Trinucleotide repeat in FMR1 gene",
+        "Point mutation in CFTR gene",
+        "Trisomy 21"
+      ],
+      "answer": "Deletion in dystrophin gene"
+    },
+    {
+      "question": "Which enzyme is deficient in Tay-Sachs disease?",
+      "options": [
+        "Hexosaminidase A",
+        "Phenylalanine hydroxylase",
+        "Glucocerebrosidase",
+        "Alpha-1-antitrypsin"
+      ],
+      "answer": "Hexosaminidase A"
+    },
+    {
+      "question": "What genetic phenomenon explains variable expressivity?",
+      "options": [
+        "Penetrance",
+        "Epistasis",
+        "Pleiotropy",
+        "Genetic heterogeneity"
+      ],
+      "answer": "Penetrance"
+    },
+    {
+      "question": "Which disease shows mitochondrial inheritance?",
+      "options": [
+        "Leber's hereditary optic neuropathy",
+        "Huntington's disease",
+        "Cystic fibrosis",
+        "Hemophilia A"
+      ],
+      "answer": "Leber's hereditary optic neuropathy"
+    },
+    {
+      "question": "What is the risk to offspring of a parent with an autosomal dominant condition?",
+      "options": [
+        "100%",
+        "75%",
+        "50%",
+        "25%"
+      ],
+      "answer": "50%"
+    },
+    {
+      "question": "Which genetic test detects specific DNA sequences?",
+      "options": [
+        "Karyotyping",
+        "FISH",
+        "PCR",
+        "Western blot"
+      ],
+      "answer": "PCR"
+    },
+    {
+      "question": "What causes the genetic disorder osteogenesis imperfecta?",
+      "options": [
+        "Defect in type I collagen",
+        "Lysosomal enzyme deficiency",
+        "Trinucleotide repeat expansion",
+        "Mitochondrial DNA mutation"
+      ],
+      "answer": "Defect in type I collagen"
+    },
+    {
+      "question": "Which condition results from a defect in the CFTR gene?",
+      "options": [
+        "Gaucher disease",
+        "Cystic fibrosis",
+        "Tay-Sachs disease",
+        "Sickle cell anemia"
+      ],
+      "answer": "Cystic fibrosis"
+    },
+    {
+      "question": "What is the genetic basis of familial hypercholesterolemia?",
+      "options": [
+        "LDL receptor mutation",
+        "Hemoglobin mutation",
+        "Collagen defect",
+        "Enzyme deficiency"
+      ],
+      "answer": "LDL receptor mutation"
+    },
+    {
+      "question": "Which disorder shows anticipation due to expanding repeats?",
+      "options": [
+        "Marfan syndrome",
+        "Myotonic dystrophy",
+        "Phenylketonuria",
+        "Albinism"
+      ],
+      "answer": "Myotonic dystrophy"
+    },
+    {
+      "question": "What is the main genetic defect in sickle cell disease?",
+      "options": [
+        "Glu → Val substitution in beta-globin",
+        "Deletion in chromosome 11",
+        "Trinucleotide repeat in HBB gene",
+        "Frameshift mutation in hemoglobin gene"
+      ],
+      "answer": "Glu → Val substitution in beta-globin"
+    },
+    {
+      "question": "Which condition is caused by a defect in DNA mismatch repair?",
+      "options": [
+        "Hereditary nonpolyposis colon cancer",
+        "Cystic fibrosis",
+        "Duchenne muscular dystrophy",
+        "Fragile X syndrome"
+      ],
+      "answer": "Hereditary nonpolyposis colon cancer"
+    },
+    {
+      "question": "What is the inheritance pattern of hemophilia A?",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked recessive",
+        "Mitochondrial"
+      ],
+      "answer": "X-linked recessive"
+    },
+    {
+      "question": "Which genetic disorder affects copper metabolism?",
+      "options": [
+        "Gaucher disease",
+        "Wilson disease",
+        "Tay-Sachs disease",
+        "Niemann-Pick disease"
+      ],
+      "answer": "Wilson disease"
+    },
+    {
+      "question": "What is the main genetic cause of albinism?",
+      "options": [
+        "Defect in melanin production enzymes",
+        "Lysosomal storage disorder",
+        "Mitochondrial DNA mutation",
+        "Trinucleotide repeat expansion"
+      ],
+      "answer": "Defect in melanin production enzymes"
+    },
+    {
+      "question": "Which condition results from a mutation in the FBN1 gene?",
+      "options": [
+        "Marfan syndrome",
+        "Ehlers-Danlos syndrome",
+        "Osteogenesis imperfecta",
+        "Achondroplasia"
+      ],
+      "answer": "Marfan syndrome"
+    },
+    {
+      "question": "What is the genetic basis of fragile X syndrome?",
+      "options": [
+        "CGG repeat expansion in FMR1 gene",
+        "Deletion in chromosome X",
+        "Point mutation in dystrophin gene",
+        "Mitochondrial DNA deletion"
+      ],
+      "answer": "CGG repeat expansion in FMR1 gene"
+    },
+    {
+      "question": "Which disorder is caused by a defect in the HEXA gene?",
+      "options": [
+        "Gaucher disease",
+        "Tay-Sachs disease",
+        "Niemann-Pick disease",
+        "Fabry disease"
+      ],
+      "answer": "Tay-Sachs disease"
+    },
+    {
+      "question": "What is the main genetic defect in thalassemia?",
+      "options": [
+        "Abnormal hemoglobin structure",
+        "Reduced globin chain production",
+        "Lysosomal enzyme deficiency",
+        "Collagen synthesis defect"
+      ],
+      "answer": "Reduced globin chain production"
+    },
+    {
+      "question": "Which genetic condition shows complete penetrance?",
+      "options": [
+        "Huntington's disease",
+        "Neurofibromatosis type 1",
+        "Marfan syndrome",
+        "Familial hypercholesterolemia"
+      ],
+      "answer": "Huntington's disease"
+    }
+  ]

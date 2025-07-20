@@ -1,0 +1,302 @@
+[
+    {
+      "question": "Which inheritance pattern demonstrates mitochondrial DNA transmission?",
+      "options": [
+        "Maternal inheritance",
+        "Paternal inheritance",
+        "X-linked dominant",
+        "Autosomal recessive"
+      ],
+      "answer": "Maternal inheritance"
+    },
+    {
+      "question": "What is the hallmark feature of genomic imprinting?",
+      "options": [
+        "Gene expression depends on parent of origin",
+        "All offspring are affected equally",
+        "Only mitochondrial genes are involved",
+        "It follows classic Mendelian ratios"
+      ],
+      "answer": "Gene expression depends on parent of origin"
+    },
+    {
+      "question": "Which condition results from maternal uniparental disomy of chromosome 15?",
+      "options": [
+        "Prader-Willi syndrome",
+        "Angelman syndrome",
+        "Beckwith-Wiedemann syndrome",
+        "Russell-Silver syndrome"
+      ],
+      "answer": "Angelman syndrome"
+    },
+    {
+      "question": "What phenomenon explains worsening severity in successive generations?",
+      "options": [
+        "Anticipation",
+        "Imprinting",
+        "Mosaicism",
+        "Penetrance"
+      ],
+      "answer": "Anticipation"
+    },
+    {
+      "question": "Which disorder demonstrates trinucleotide repeat expansion?",
+      "options": [
+        "Cystic fibrosis",
+        "Huntington's disease",
+        "Phenylketonuria",
+        "Tay-Sachs disease"
+      ],
+      "answer": "Huntington's disease"
+    },
+    {
+      "question": "What is the genetic basis of Fragile X syndrome?",
+      "options": [
+        "CGG repeat expansion in FMR1 gene",
+        "Mitochondrial DNA deletion",
+        "Chromosome 15 microdeletion",
+        "X-autosome translocation"
+      ],
+      "answer": "CGG repeat expansion in FMR1 gene"
+    },
+    {
+      "question": "Which inheritance pattern affects all children of an affected mother?",
+      "options": [
+        "X-linked dominant",
+        "Mitochondrial",
+        "Genomic imprinting",
+        "Y-linked"
+      ],
+      "answer": "Mitochondrial"
+    },
+    {
+      "question": "What is the key feature of mosaicism?",
+      "options": [
+        "Identical genetic makeup in all cells",
+        "Two or more genetically distinct cell lines",
+        "Exclusive mitochondrial mutations",
+        "Only affects germ cells"
+      ],
+      "answer": "Two or more genetically distinct cell lines"
+    },
+    {
+      "question": "Which condition demonstrates paternal imprinting?",
+      "options": [
+        "Angelman syndrome",
+        "Prader-Willi syndrome",
+        "Beckwith-Wiedemann syndrome",
+        "Russell-Silver syndrome"
+      ],
+      "answer": "Prader-Willi syndrome"
+    },
+    {
+      "question": "What mechanism causes anticipation in myotonic dystrophy?",
+      "options": [
+        "CTP repeat expansion",
+        "CTG repeat expansion",
+        "CAG repeat expansion",
+        "CCG repeat expansion"
+      ],
+      "answer": "CTG repeat expansion"
+    },
+    {
+      "question": "Which inheritance pattern shows male-to-male transmission?",
+      "options": [
+        "X-linked recessive",
+        "Y-linked",
+        "Mitochondrial",
+        "Genomic imprinting"
+      ],
+      "answer": "Y-linked"
+    },
+    {
+      "question": "What is the recurrence risk for mitochondrial disorders?",
+      "options": [
+        "100% for all offspring",
+        "50% for daughters only",
+        "Variable depending on mutation load",
+        "25% for all children"
+      ],
+      "answer": "Variable depending on mutation load"
+    },
+    {
+      "question": "Which condition results from germline mosaicism?",
+      "options": [
+        "Duchenne muscular dystrophy",
+        "Cystic fibrosis",
+        "Sickle cell anemia",
+        "Phenylketonuria"
+      ],
+      "answer": "Duchenne muscular dystrophy"
+    },
+    {
+      "question": "What is the key difference between uniparental disomy and imprinting?",
+      "options": [
+        "UPD involves two copies from one parent, imprinting involves epigenetic marks",
+        "UPD only affects mitochondria",
+        "Imprinting requires chromosome deletion",
+        "UPD follows Mendelian patterns"
+      ],
+      "answer": "UPD involves two copies from one parent, imprinting involves epigenetic marks"
+    },
+    {
+      "question": "Which disorder demonstrates somatic mosaicism?",
+      "options": [
+        "McCune-Albright syndrome",
+        "Huntington's disease",
+        "Cystic fibrosis",
+        "Tay-Sachs disease"
+      ],
+      "answer": "McCune-Albright syndrome"
+    },
+    {
+      "question": "What pattern is seen in X-inactivation?",
+      "options": [
+        "Random silencing of one X chromosome in females",
+        "Complete activation of both X chromosomes",
+        "Paternal X always inactivated",
+        "Maternal X always inactivated"
+      ],
+      "answer": "Random silencing of one X chromosome in females"
+    },
+    {
+      "question": "Which condition results from unstable repeat expansion?",
+      "options": [
+        "Friedreich ataxia",
+        "Marfan syndrome",
+        "Ehlers-Danlos syndrome",
+        "Osteogenesis imperfecta"
+      ],
+      "answer": "Friedreich ataxia"
+    },
+    {
+      "question": "What is the inheritance pattern of Leber hereditary optic neuropathy?",
+      "options": [
+        "Autosomal dominant",
+        "X-linked recessive",
+        "Mitochondrial",
+        "Genomic imprinting"
+      ],
+      "answer": "Mitochondrial"
+    },
+    {
+      "question": "Which phenomenon explains different phenotypes from same mutation?",
+      "options": [
+        "Variable expressivity",
+        "Genomic imprinting",
+        "Anticipation",
+        "Uniparental disomy"
+      ],
+      "answer": "Variable expressivity"
+    },
+    {
+      "question": "What is the genetic basis of Beckwith-Wiedemann syndrome?",
+      "options": [
+        "Imprinting defect on 11p15",
+        "Mitochondrial DNA deletion",
+        "CAG repeat expansion",
+        "X chromosome microduplication"
+      ],
+      "answer": "Imprinting defect on 11p15"
+    },
+    {
+      "question": "Which inheritance pattern shows no male-to-male transmission?",
+      "options": [
+        "Autosomal dominant",
+        "X-linked dominant",
+        "Y-linked",
+        "Mitochondrial"
+      ],
+      "answer": "X-linked dominant"
+    },
+    {
+      "question": "What mechanism causes Prader-Willi and Angelman syndromes?",
+      "options": [
+        "Same chromosomal deletion with different imprinting",
+        "Identical point mutations",
+        "Mitochondrial DNA defects",
+        "Trinucleotide repeat expansions"
+      ],
+      "answer": "Same chromosomal deletion with different imprinting"
+    },
+    {
+      "question": "Which condition demonstrates gonadal mosaicism?",
+      "options": [
+        "Osteogenesis imperfecta type II",
+        "Cystic fibrosis",
+        "Sickle cell anemia",
+        "Phenylketonuria"
+      ],
+      "answer": "Osteogenesis imperfecta type II"
+    },
+    {
+      "question": "What is the key feature of anticipation?",
+      "options": [
+        "Earlier onset in successive generations",
+        "Random X chromosome inactivation",
+        "Maternal-only inheritance",
+        "Complete penetrance in all cases"
+      ],
+      "answer": "Earlier onset in successive generations"
+    },
+    {
+      "question": "Which disorder shows paternal imprinting?",
+      "options": [
+        "Angelman syndrome",
+        "Prader-Willi syndrome",
+        "Beckwith-Wiedemann syndrome",
+        "Russell-Silver syndrome"
+      ],
+      "answer": "Angelman syndrome"
+    },
+    {
+      "question": "What is the recurrence risk for disorders with germline mosaicism?",
+      "options": [
+        "25%",
+        "50%",
+        "<1% to 50% depending on mutation load",
+        "100%"
+      ],
+      "answer": "<1% to 50% depending on mutation load"
+    },
+    {
+      "question": "Which condition demonstrates X-linked dominant with male lethality?",
+      "options": [
+        "Rett syndrome",
+        "Fragile X syndrome",
+        "Duchenne muscular dystrophy",
+        "Hemophilia A"
+      ],
+      "answer": "Rett syndrome"
+    },
+    {
+      "question": "What is the genetic basis of Russell-Silver syndrome?",
+      "options": [
+        "Maternal UPD of chromosome 7",
+        "Paternal UPD of chromosome 15",
+        "Mitochondrial DNA deletion",
+        "CGG repeat expansion"
+      ],
+      "answer": "Maternal UPD of chromosome 7"
+    },
+    {
+      "question": "Which inheritance pattern affects all children of affected females but none of affected males?",
+      "options": [
+        "X-linked recessive",
+        "Mitochondrial",
+        "Genomic imprinting",
+        "Y-linked"
+      ],
+      "answer": "Mitochondrial"
+    },
+    {
+      "question": "What phenomenon explains different disease severity in identical twins?",
+      "options": [
+        "Mosaicism",
+        "Variable expressivity",
+        "Incomplete penetrance",
+        "Anticipation"
+      ],
+      "answer": "Variable expressivity"
+    }
+  ]
