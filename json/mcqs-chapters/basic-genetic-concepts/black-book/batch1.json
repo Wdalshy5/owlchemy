@@ -1,0 +1,582 @@
+[
+    {
+      "question": "The genetic code is:",
+      "options": [
+        "Ambiguous",
+        "Overlapping",
+        "Degenerate",
+        "None specific"
+      ],
+      "answer": "Degenerate"
+    },
+    {
+      "question": "In contrast to DNA polymerase, RNA polymerase:",
+      "options": [
+        "Fills the gap between Okazaki fragments",
+        "Works only in the 5' to 3' direction",
+        "Does not require a primer for initiation",
+        "Synthesizes RNA primer to initiate DNA synthesis"
+      ],
+      "answer": "Does not require a primer for initiation"
+    },
+    {
+      "question": "A promoter site on DNA:",
+      "options": [
+        "Transcribes repressor",
+        "Initiates transcription",
+        "Codes for RNA polymerase",
+        "Regulates termination"
+      ],
+      "answer": "Initiates transcription"
+    },
+    {
+      "question": "The portion of DNA which is transcribed but not translated is called:",
+      "options": [
+        "Insert",
+        "Intron",
+        "Vector",
+        "Exon"
+      ],
+      "answer": "Intron"
+    },
+    {
+      "question": "Which of the following sequences is complementary to TGGCAGCCT:",
+      "options": [
+        "TCCGACGGT",
+        "ACCGTCGGA",
+        "ACCGUCGGA",
+        "AGGCTGCCA"
+      ],
+      "answer": "ACCGTCGGA"
+    },
+    {
+      "question": "tRNA reacts specifically with:",
+      "options": [
+        "Specific aminoacyl-adenylates",
+        "ATP",
+        "Free amino acids",
+        "The golgi apparatus"
+      ],
+      "answer": "Specific aminoacyl-adenylates"
+    },
+    {
+      "question": "The polymerase chain reaction (PCR) requires:",
+      "options": [
+        "A double stranded DNA at least partially of known sequence",
+        "A synthetic non-complementary RNA",
+        "Dideoxynucleotide triphosphates",
+        "Reverse transcriptase"
+      ],
+      "answer": "A double stranded DNA at least partially of known sequence"
+    },
+    {
+      "question": "A cDNA library differs from a genomic DNA library:",
+      "options": [
+        "In excluding DNA that encodes mitochondrial proteins",
+        "In excluding DNA that encodes ribosomal proteins",
+        "Only by having introns excised from gene",
+        "In reflecting only the activities of the tissue from which it is derived"
+      ],
+      "answer": "In reflecting only the activities of the tissue from which it is derived"
+    },
+    {
+      "question": "Restriction endonucleases:",
+      "options": [
+        "Digest DNA duplex molecules from the 5' ends",
+        "Attack only single stranded DNA",
+        "Have base sequence specificity",
+        "Randomly digest double stranded DNA molecules"
+      ],
+      "answer": "Have base sequence specificity"
+    },
+    {
+      "question": "All of the following statements concerning replication of DNA in prokaryotes are true except:",
+      "options": [
+        "Synthesis of new strands occurs in a 5' to 3' direction",
+        "Template strand is read in a 3' to 5' direction",
+        "Lagging strand synthesis is discontinuous",
+        "It is a conservative process"
+      ],
+      "answer": "It is a conservative process"
+    },
+    {
+      "question": "Restriction endonucleases type II:",
+      "options": [
+        "Are DNA dependent polymerases",
+        "Are obtained from viruses",
+        "Cut double-stranded DNA from any source",
+        "Catalyze labeling of the source"
+      ],
+      "answer": "Cut double-stranded DNA from any source"
+    },
+    {
+      "question": "To construct cDNA library:",
+      "options": [
+        "Reverse transcriptase is needed",
+        "mRNA is the starting material",
+        "Synthetic linkers with restriction sites are needed",
+        "All of the above is correct"
+      ],
+      "answer": "All of the above is correct"
+    },
+    {
+      "question": "The sigma subunit of prokaryotic RNA polymerase:",
+      "options": [
+        "Is required to hold the subunits of the core enzyme together",
+        "Remains with the RNA polymerase until the termination of transcription",
+        "Is required for proper recognition of promoter",
+        "Contains the active site for RNA synthesis"
+      ],
+      "answer": "Is required for proper recognition of promoter"
+    },
+    {
+      "question": "An anticodon is:",
+      "options": [
+        "The part of DNA molecule that codes termination",
+        "A 3-nucleotide sequence of messenger RNA molecule",
+        "A specific nucleotide sequence of a tRNA molecule",
+        "A nucleotide triplet of a ribosomal RNA molecule"
+      ],
+      "answer": "A specific nucleotide sequence of a tRNA molecule"
+    },
+    {
+      "question": "The polymerase chain reaction (PCR) requires:",
+      "options": [
+        "A double stranded DNA of totally unknown sequence",
+        "A pair of synthetic RNA primers",
+        "Dideoxynucleotide triphosphates",
+        "Reverse transcriptase"
+      ],
+      "answer": "Dideoxynucleotide triphosphates"
+    },
+    {
+      "question": "In lagging DNA strand:",
+      "options": [
+        "There are several RNA primers",
+        "DNA synthesis is discontinuous",
+        "Polymerization proceeds in 5'→3' direction",
+        "All of the above is correct"
+      ],
+      "answer": "All of the above is correct"
+    },
+    {
+      "question": "Which of the following statements about DNA ligase is correct?",
+      "options": [
+        "DNA ligase seals the gaps between RNA primers and Okazaki fragments",
+        "DNA ligase makes single stranded nicks which relieve the supercoiling",
+        "The energy source for DNA ligase can be either NADPH or GTP depending on the species",
+        "DNA ligase joins the free 3' hydroxyl on the Okazaki fragment to the 5' carbon on the growing strand"
+      ],
+      "answer": "DNA ligase joins the free 3' hydroxyl on the Okazaki fragment to the 5' carbon on the growing strand"
+    },
+    {
+      "question": "DNA synthesis and RNA synthesis differ in:",
+      "options": [
+        "Production of a complementary polynucleotide from a template",
+        "Release of pyrophosphate as a reaction product",
+        "Synthesis proceeds in the 5' to 3' direction",
+        "Proofreading to eliminate errors"
+      ],
+      "answer": "Proofreading to eliminate errors"
+    },
+    {
+      "question": "Restriction sites of restriction endonucleases:",
+      "options": [
+        "Are on double stranded DNA",
+        "Can be 4-7 bp long",
+        "Provide blunt and sticky ends",
+        "All of the above is correct"
+      ],
+      "answer": "All of the above is correct"
+    },
+    {
+      "question": "The Polymerase Chain Reaction:",
+      "options": [
+        "Requires specific primers to amplify a DNA sequence",
+        "Involves cyclic thermal denaturation and reannealing of DNA",
+        "Helps diagnosing sub-clinical infections",
+        "All of the above is correct"
+      ],
+      "answer": "All of the above is correct"
+    },
+    {
+      "question": "Which of the following is TRUE for cDNA?",
+      "options": [
+        "DNA, a primer, ATP, dideoxynucleotides, DNA polymerase",
+        "DNA, end labeled primer, dNTP's, dideoxynucleotides, DNA polymerase",
+        "RNA, two primers, NTP's, dideoxynucleotides, RNA polymerase II",
+        "RNA, two primers, NTP's, AZT, Taq polymerase"
+      ],
+      "answer": "DNA, end labeled primer, dNTP's, dideoxynucleotides, DNA polymerase"
+    },
+    {
+      "question": "The following is employed in DNA sequencing:",
+      "options": [
+        "Plasmids",
+        "Bacteriophage lambda",
+        "Dideoxynucleotide triphosphate",
+        "Reverse transcriptase"
+      ],
+      "answer": "Dideoxynucleotide triphosphate"
+    },
+    {
+      "question": "Initiation of protein biosynthesis:",
+      "options": [
+        "Involves elongation factor 2",
+        "Starts by association of the two ribosomal units",
+        "Requires binding of the ternary complex to 40S subunit",
+        "Does not involve association of the two ribosomal subunits"
+      ],
+      "answer": "Requires binding of the ternary complex to 40S subunit"
+    },
+    {
+      "question": "Amino-acyl-tRNA synthetase:",
+      "options": [
+        "Recognizes codons on mRNA",
+        "Recognizes the anti-codon on the tRNA",
+        "Catalyses the binding of amino acid to its respective tRNA",
+        "Both C and D are correct"
+      ],
+      "answer": "Catalyses the binding of amino acid to its respective tRNA"
+    },
+    {
+      "question": "All of the following statements concerning replication of DNA in prokaryotes are true except:",
+      "options": [
+        "Synthesis of new strands occurs in a 5' to 3' direction",
+        "Template strand is read in a 3' to 5' direction",
+        "Lagging strand synthesis is discontinuous",
+        "It is a conservative process"
+      ],
+      "answer": "It is a conservative process"
+    },
+    {
+      "question": "Which of the following is needed for a polymerase chain reaction?",
+      "options": [
+        "A thermostable DNA polymerase",
+        "Helicase",
+        "Primase",
+        "One of the target DNA strands"
+      ],
+      "answer": "A thermostable DNA polymerase"
+    },
+    {
+      "question": "The following is true about DNA-dependent RNA polymerase:",
+      "options": [
+        "Pol I is responsible for synthesis of rRNA and it is less sensitive to alphaamanitin",
+        "Pol II is responsible for synthesis of mRNA",
+        "Pol III is responsible for synthesis of tRNA",
+        "All of the above is correct"
+      ],
+      "answer": "All of the above is correct"
+    },
+    {
+      "question": "In eukaryotes, hnRNA's undergo elaborate post-transcriptional processing as follows:",
+      "options": [
+        "tRNA is charged with its respective amino acids",
+        "mRNA is capped at the 5' end",
+        "rRNA is polyadenylated at the 3' end",
+        "Intron sequences are spliced by snRNA's"
+      ],
+      "answer": "Intron sequences are spliced by snRNA's"
+    },
+    {
+      "question": "Reverse transcriptase exhibits the following functions:",
+      "options": [
+        "RNA directed DNA synthesis",
+        "DNA dependent RNA synthesis",
+        "DNA dependent DNA synthesis",
+        "Proofreading of cDNA"
+      ],
+      "answer": "RNA directed DNA synthesis"
+    },
+    {
+      "question": "With regard to the lac operon, an inducer substance binds to:",
+      "options": [
+        "The operator, causing an allosteric shift which initiates transcription",
+        "A repressor protein, which then dissociates from the operator",
+        "Lactose which binds the DNA and completes transcription of the structural genes",
+        "A repressor protein, causing it to bind tightly to the operator"
+      ],
+      "answer": "A repressor protein, which then dissociates from the operator"
+    },
+    {
+      "question": "Transcriptional Activator Proteins:",
+      "options": [
+        "Transcribe a messenger off a DNA template",
+        "Bind to ribosomes to activate the production of specific proteins",
+        "Are produced during an infection of bacteria by a phage",
+        "Bind regions near a eukaryotic gene and allows an RNA polymerase to transcribe a gene"
+      ],
+      "answer": "Bind regions near a eukaryotic gene and allows an RNA polymerase to transcribe a gene"
+    },
+    {
+      "question": "The Wobble Hypothesis says:",
+      "options": [
+        "There is loose pairing between the 5' end of a single codon and the 3' end of more than one anticodon",
+        "There is loose pairing between the 5' end of a single anticodon and the 3' end of more than one codon",
+        "There is a loose pairing between the 3' end of a single anticodon and the 5' end of more than one codon",
+        "There is loose pairing between the 3' end of a single codon and the 5' end of more than one anticodon"
+      ],
+      "answer": "There is loose pairing between the 3' end of a single codon and the 5' end of more than one anticodon"
+    },
+    {
+      "question": "Which of the following sets of components are required for enzymatic DNA sequencing?",
+      "options": [
+        "DNA, a primer, ATP dideoxynucleotides, DNA polymerase",
+        "DNA, end-labelled primer, dNTP's, dideoxynucleotides, DNA polymerase",
+        "RNA, two primers, NTP's, dideoxynucleotides, RNA polymerase II",
+        "RNA, two primers, NTP's, AZT, Taq Polymerase"
+      ],
+      "answer": "DNA, end-labelled primer, dNTP's, dideoxynucleotides, DNA polymerase"
+    },
+    {
+      "question": "A mutation in structural gene that changes the UGA termination codon to UGG codon (trp). What effect would this mutation most likely cause?",
+      "options": [
+        "The RNA will not be translated",
+        "The RNA transcribed from the gene will be much longer than normal",
+        "The polypeptide produced will be shorter than expected",
+        "The polypeptide produced will have extra amino acids"
+      ],
+      "answer": "The polypeptide produced will have extra amino acids"
+    },
+    {
+      "question": "What is the maximum number of amino acids in a peptide coded by the polyribonucleotide 5' CCAUGUUUGGGUGAGGGCC3' in an in-vivo system starting from the first base?",
+      "options": [
+        "Six",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": "Four"
+    },
+    {
+      "question": "All of the following statements about ribosomes are correct except:",
+      "options": [
+        "All ribosomes have two subunits",
+        "Eukaryotic cells have 80S ribosomes and protein synthesis on these ribosomes can be inhibited by cycloheximide",
+        "Prokaryotic cells have 70S ribosomes and protein synthesis on these ribosomes can be inhibited by chloramphenicol",
+        "Mitochondria have 80S ribosomes and protein synthesis on these ribosomes can be inhibited by cycloheximide"
+      ],
+      "answer": "Mitochondria have 80S ribosomes and protein synthesis on these ribosomes can be inhibited by cycloheximide"
+    },
+    {
+      "question": "Which of the following is mimicked by the antibiotic puromycin?",
+      "options": [
+        "Peptidyl-tRNA",
+        "Aminoacyl-tRNA",
+        "Peptidyl transferase",
+        "Translation release factors"
+      ],
+      "answer": "Aminoacyl-tRNA"
+    },
+    {
+      "question": "Deamination of cytosine in mRNA produces:",
+      "options": [
+        "An insertion mutation",
+        "A deletion mutation",
+        "A point mutation",
+        "Thymine"
+      ],
+      "answer": "A point mutation"
+    },
+    {
+      "question": "In a gene (without introns) of a protein containing 300 amino acids (number 12 is serine), which of the following mutations would be the LEAST likely to result in a faulty protein?",
+      "options": [
+        "A single base change in codon 12 complementary to nucleotide 36 in mRNA",
+        "A nonsense mutation in the codon for amino acid 37",
+        "Deletion of three bases of the codon for amino acid 19",
+        "A single base change such that amino acid 12 is now leucine rather than isoleucine"
+      ],
+      "answer": "A single base change such that amino acid 12 is now leucine rather than isoleucine"
+    },
+    {
+      "question": "In comparing a plasmid vector with a lambda phage vector:",
+      "options": [
+        "Both endow the host with antibiotic resistance",
+        "Both carry DNA fragments from 3 to 5 kilobases in length",
+        "Both can reproduce themselves within the host",
+        "Both contain a selectable marker"
+      ],
+      "answer": "Both can reproduce themselves within the host"
+    },
+    {
+      "question": "The following method is used only to detect RNA and can be used to measure the difference in levels of specific mRNA in different tissues:",
+      "options": [
+        "Northern blot analysis",
+        "Polymerase chain reaction",
+        "Restriction fragment length polymorphism linkage analysis",
+        "DNA fingerprint analysis"
+      ],
+      "answer": "Northern blot analysis"
+    },
+    {
+      "question": "Transcription of genes that code for proteins is accomplished by:",
+      "options": [
+        "RNA polymerase III in eukaryotes",
+        "Reverse transcriptase",
+        "RNA polymerase I in eukaryotes",
+        "RNA polymerase II in eukaryotes"
+      ],
+      "answer": "RNA polymerase II in eukaryotes"
+    },
+    {
+      "question": "The requirements of RNA polymerase for synthesis of RNA include:",
+      "options": [
+        "RNA primer",
+        "DNA template",
+        "All four deoxyribonucleoside triphosphates",
+        "Both A and B"
+      ],
+      "answer": "DNA template"
+    },
+    {
+      "question": "In PCR:",
+      "options": [
+        "The technique is used for DNA cloning",
+        "RNA polymerase is needed",
+        "Primers should be in excess",
+        "All steps are performed at room temperature"
+      ],
+      "answer": "Primers should be in excess"
+    },
+    {
+      "question": "Which of the following molecules is NOT a component of the 43S preinitiation complex?",
+      "options": [
+        "GTP",
+        "Eukaryotic initiation factor 2 (IF-2)",
+        "mRNA",
+        "Methionyl-tRNA"
+      ],
+      "answer": "mRNA"
+    },
+    {
+      "question": "Which of the following uses ATP directly?",
+      "options": [
+        "Formation of the 40S initiation complex",
+        "Binding of the amino acyl transfer RNA to the ribosome",
+        "Synthesis of amino acyl-tRNA",
+        "Activation of the amino group for peptide bond synthesis"
+      ],
+      "answer": "Synthesis of amino acyl-tRNA"
+    },
+    {
+      "question": "A mRNA coding for eukaryotic polypeptide chain is attached to seven ribosomes, which of the following is TRUE for this polyribosome complex?",
+      "options": [
+        "The ribosome nearest to the 5' end of the mRNA is carrying a longer polypeptide chain than is the ribosome nearest to the 3' end",
+        "The ribosome nearest to the 3' end of the mRNA is carrying a longer polypeptide chain than is the ribosome nearest to the 5' end",
+        "The 60S subunit of one ribosome and the 40S subunit of another ribosome may be exchanged during the synthesis process",
+        "All seven ribosomes are cooperating in the synthesis of one copy of the same polypeptide chain"
+      ],
+      "answer": "The ribosome nearest to the 5' end of the mRNA is carrying a longer polypeptide chain than is the ribosome nearest to the 3' end"
+    },
+    {
+      "question": "In general, eukaryotic RNA processing can be best described by the following:",
+      "options": [
+        "All RNA transcripts are finally processed in the nucleus",
+        "It results in the addition of nucleotides to the primary transcript of ribosomal RNA",
+        "It results in the addition of formyl groups to methionine",
+        "It includes the modification of nucleotides in transfer RNA"
+      ],
+      "answer": "It includes the modification of nucleotides in transfer RNA"
+    },
+    {
+      "question": "Topoisomerase enzymes are important in the replication of DNA because they:",
+      "options": [
+        "Covalently join Okazaki fragments",
+        "Relax supercoiled DNA created by helicase action",
+        "Degrade nucleosomal histones",
+        "Proofread newly synthesized DNA"
+      ],
+      "answer": "Relax supercoiled DNA created by helicase action"
+    },
+    {
+      "question": "Which of the following is not true for both DNA polymerase and RNA polymerase?",
+      "options": [
+        "Both require a template",
+        "Both reactions produce pyrophosphates as a product",
+        "Both add 5' nucleotides to 3' hydroxyl groups",
+        "Both require a primer"
+      ],
+      "answer": "Both require a primer"
+    },
+    {
+      "question": "Codons on mRNA may be accurately described by all of the following except:",
+      "options": [
+        "They are read in a non-overlapping fashion",
+        "They can form hydrogen bonds with tRNA",
+        "An amino acid can have more than one codon",
+        "6 successive bases along the mRNA can code for 4 amino acids"
+      ],
+      "answer": "6 successive bases along the mRNA can code for 4 amino acids"
+    },
+    {
+      "question": "The RNA primer in replication differs from other RNA molecules in that it:",
+      "options": [
+        "Contains T instead of U",
+        "Is formed by DNA polymerase I",
+        "Found in a form of DNA-RNA double-stranded hybrid",
+        "Contains a triphosphate group at the 5' end immediately after synthesis"
+      ],
+      "answer": "Found in a form of DNA-RNA double-stranded hybrid"
+    },
+    {
+      "question": "The role of peptidyl transferase in protein biosynthesis is to:",
+      "options": [
+        "Promote the movement of peptidyl-tRNA from the A site to the P site on the ribosome",
+        "Promote the movement of aminoacyl-tRNA from the P site to the A site on the ribosome",
+        "Catalyze the ejection of free tRNA from the P site on the ribosome",
+        "Catalyze the formation of peptide bonds"
+      ],
+      "answer": "Catalyze the formation of peptide bonds"
+    },
+    {
+      "question": "How does chloramphenicol work to inhibit protein synthesis?",
+      "options": [
+        "It binds to 23S rRNA",
+        "It causes mutations in mRNA making it unusable",
+        "It intercalates into the DNA blocking RNA polymerase",
+        "It inhibits the peptidyl-transferase activity of 28S (a component of 60S subunit)"
+      ],
+      "answer": "It binds to 23S rRNA"
+    },
+    {
+      "question": "Restriction endonucleases:",
+      "options": [
+        "Digest DNA molecules from the 5'-OH ends",
+        "Mainly attack double-stranded DNA but can attack single stranded DNA",
+        "Have base sequence specificity",
+        "Randomly digest double stranded DNA molecules at a rich sequence (palindrome)"
+      ],
+      "answer": "Have base sequence specificity"
+    },
+    {
+      "question": "The following is not true about polymerase chain reaction:",
+      "options": [
+        "Requires specific primers to amplify a DNA sequence",
+        "Involves cyclic thermal denaturation and reannealing of DNA",
+        "Helps diagnosing sub-clinical infections",
+        "Exploits Taq polymerase for in vivo replication"
+      ],
+      "answer": "Exploits Taq polymerase for in vivo replication"
+    },
+    {
+      "question": "The polymerase chain reaction (PCR)",
+      "options": [
+        "Uses flanking primers",
+        "Uses restriction enzymes",
+        "Uses varying temperatures",
+        "All of the above"
+      ],
+      "answer": "Uses varying temperatures"
+    },
+    {
+      "question": "For a genetic disease, point mutations are usually first found by:",
+      "options": [
+        "ASO hybridization",
+        "DNA sequence analysis",
+        "Microarray",
+        "Southern Blot"
+      ],
+      "answer": "DNA sequence analysis"
+    }
+]
