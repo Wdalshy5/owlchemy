@@ -245,6 +245,14 @@
         "chromosomal-disorders-aneuploidy-structural-defects": {
           "title": "Chromosomal Disorders (Aneuploidy, Structural Defects)",
           "batches": ["batch1"]
+        },
+        "black-book": {
+          "title": "Black Book genetics MCQs",
+          "batches": ["batch1"]
+        },
+        "genetic-mixed-mcqs": {
+          "title": "150 Genetic Mixed MCQs",
+          "batches": ["batch1", "batch2", "batch3"]
         }
       }
     }
