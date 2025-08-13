@@ -1,0 +1,512 @@
+[
+    {
+        "question": "The degeneracy of genetic code resides mostly in:",
+        "options": [
+            "First nucleotide of triplet codon",
+            "Second nucleotide of triplet codon",
+            "Last nucleotide of triplet codon",
+            "Any nucleotide of triplet codon"
+        ],
+        "answer": "Last nucleotide of triplet codon"
+    },
+    {
+        "question": "Photolysis (photolyase) help in:",
+        "options": [
+            "DNA repair",
+            "DNA replication",
+            "Protein synthesis",
+            "Transcription"
+        ],
+        "answer": "DNA repair"
+    },
+    {
+        "question": "Excessive ultraviolet radiation is harmful to life. The damage caused to the biological systems is due to:",
+        "options": [
+            "Inhibition of DNA synthesis",
+            "Formation of thymidine dimmers",
+            "Ionization",
+            "DNA fragmentation"
+        ],
+        "answer": "Formation of thymidine dimmers"
+    },
+    {
+        "question": "During RNA editing the coding information can be changed at the level of:",
+        "options": [
+            "m-RNA",
+            "r-RNA",
+            "t-RNA",
+            "hn-RNA"
+        ],
+        "answer": "m-RNA"
+    },
+    {
+        "question": "Okazaki fragments are used to elongate:",
+        "options": [
+            "The leading strand towards the replication fork",
+            "The lagging strand towards the replication fork",
+            "The leading strand away from the replication fork",
+            "The lagging strand away from the replication fork"
+        ],
+        "answer": "The lagging strand away from the replication fork"
+    },
+    {
+        "question": "DNA proofreading are caused by:",
+        "options": [
+            "DNA polymerase I",
+            "DNA polymerase II",
+            "DNA polymerase III",
+            "Gyrase"
+        ],
+        "answer": "DNA polymerase III"
+    },
+    {
+        "question": "DNA double helix is bound by:",
+        "options": [
+            "Covalent bond",
+            "Disulphide linkage",
+            "Van der Waals forces",
+            "Hydrogen bond"
+        ],
+        "answer": "Hydrogen bond"
+    },
+    {
+        "question": "DNA synthesis requires several enzymes. The enzyme responsible for adding free nucleotides to the growing chain of DNA would be:",
+        "options": [
+            "Ligase",
+            "Gyrase",
+            "Helicase",
+            "DNA polymerase III"
+        ],
+        "answer": "DNA polymerase III"
+    },
+    {
+        "question": "DNA is selected for genetic information as compared to RNA, because:",
+        "options": [
+            "DNA more stable than RNA",
+            "Is double stranded compared to RNA",
+            "Has two complementary strands",
+            "Is semi-replicating"
+        ],
+        "answer": "DNA more stable than RNA"
+    },
+    {
+        "question": "Genetic code is characterized by:",
+        "options": [
+            "Degenerate and unambiguous",
+            "Degenerate and ambiguous",
+            "Regenerate and unambiguous",
+            "Regenerate and universal"
+        ],
+        "answer": "Degenerate and unambiguous"
+    },
+    {
+        "question": "Elongation of peptidase enzyme requires enzyme:",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "β-galatosidase",
+            "Translocase"
+        ],
+        "answer": "Translocase"
+    },
+    {
+        "question": "After formation of replication fork:",
+        "options": [
+            "Both new strands are synthesized discontinuously",
+            "One strand is synthesized continuously and the other discontinuously",
+            "Both the new strands are synthesized continuously",
+            "RNA primer is required only after the synthesis of one new strand"
+        ],
+        "answer": "One strand is synthesized continuously and the other discontinuously"
+    },
+    {
+        "question": "Genetic codon is said to be unambiguous because:",
+        "options": [
+            "It is universal in all living organisms",
+            "The same (4) bases form codons in all living organisms",
+            "A codon codes for only one amino acid",
+            "Each amino acid is encoded by a single codon"
+        ],
+        "answer": "A codon codes for only one amino acid"
+    },
+    {
+        "question": "Exons are:",
+        "options": [
+            "Noncoding intervening sequence of DNA",
+            "Continuous coding region of DNA",
+            "Continuous coding region of RNA",
+            "Noncoding intervening sequence of RNA"
+        ],
+        "answer": "Continuous coding region of DNA"
+    },
+    {
+        "question": "Primer gene is a unit involved in one of the following processes:",
+        "options": [
+            "Transcription",
+            "Translation",
+            "Replication",
+            "Recombinant DNA technology"
+        ],
+        "answer": "Replication"
+    },
+    {
+        "question": "Hogness box is present in:",
+        "options": [
+            "Introns and exons",
+            "Exons",
+            "Eukaryotic promoters",
+            "Introns"
+        ],
+        "answer": "Eukaryotic promoters"
+    },
+    {
+        "question": "Prinbow box is present in:",
+        "options": [
+            "Prokaryotic promoters",
+            "Eukaryotic promoters",
+            "Introns",
+            "Exons"
+        ],
+        "answer": "Prokaryotic promoters"
+    },
+    {
+        "question": "Mismatch repair of DNA:",
+        "options": [
+            "Occurs only after transcription",
+            "Occurs after the addition of every nucleotide during replication",
+            "Occurs after replication",
+            "Involves removal of methylated adenine bases"
+        ],
+        "answer": "Occurs after replication"
+    },
+    {
+        "question": "RNA primer is replaced by deoxyribonucleotides after the:",
+        "options": [
+            "Addition of the first deoxyribonucleotides to the primer",
+            "Formation of each okazaki fragment",
+            "Formation of several okazaki fragments",
+            "Complete replication of both the strands"
+        ],
+        "answer": "Formation of each okazaki fragment"
+    },
+    {
+        "question": "Which of the following RNA contains thymidine?",
+        "options": [
+            "Transfer RNA",
+            "Ribosomal RNA",
+            "Messenger RNA",
+            "hn-RNA"
+        ],
+        "answer": "Transfer RNA"
+    },
+    {
+        "question": "Nucleosome refers to:",
+        "options": [
+            "DNA + histones",
+            "Histones only",
+            "DNA only",
+            "DNA + arginine amino acid"
+        ],
+        "answer": "DNA + histones"
+    },
+    {
+        "question": "The primer involved in DNA replication is:",
+        "options": [
+            "Short segment of DNA",
+            "Short segment of RNA",
+            "Telomere",
+            "Okazaki fragment"
+        ],
+        "answer": "Short segment of RNA"
+    },
+    {
+        "question": "Major component of nuclear DNA:",
+        "options": [
+            "Histone",
+            "Repressor",
+            "Deoxyribonucleotide",
+            "Inducer"
+        ],
+        "answer": "Deoxyribonucleotide"
+    },
+    {
+        "question": "True statement about DNA structure:",
+        "options": [
+            "All nucleotides are involved in linkage",
+            "All nucleosides are involved in linkage",
+            "Antiparrellel",
+            "Parallel"
+        ],
+        "answer": "Antiparrellel"
+    },
+    {
+        "question": "True about reverse transcriptase:",
+        "options": [
+            "Forms DNA from RNA",
+            "Forms RNA from DNA",
+            "Important for HIV replication",
+            "DNA dependent RNA polymerase"
+        ],
+        "answer": "Forms DNA from RNA"
+    },
+    {
+        "question": "RNAs are less stable than DNA because:",
+        "options": [
+            "Presence of 2' hydroxyl group of RNA functions as nucleophile",
+            "Single strandedness",
+            "Both (1) and (2)",
+            "Double stranded DNA"
+        ],
+        "answer": "Both (1) and (2)"
+    },
+    {
+        "question": "Components of chromosomes are:",
+        "options": [
+            "DNA",
+            "t-RNA",
+            "Histones",
+            "DNA and histones"
+        ],
+        "answer": "DNA and histones"
+    },
+    {
+        "question": "Introns are:",
+        "options": [
+            "Noncoding intervening sequence of DNA",
+            "Continuous coding region of DNA",
+            "Continuous coding region of RNA",
+            "Noncoding intervening sequence of RNA"
+        ],
+        "answer": "Noncoding intervening sequence of DNA"
+    },
+    {
+        "question": "Poly A tailing and 3’ capping is present in:",
+        "options": [
+            "m-RNA",
+            "t-RNA",
+            "r-RNA",
+            "hn-RNA"
+        ],
+        "answer": "m-RNA"
+    },
+    {
+        "question": "Nucleotides are linked to one another in m-RNA by:",
+        "options": [
+            "Phosphodiester bonds",
+            "DNA ligase",
+            "Glycosylated bonds",
+            "Covalent bonds"
+        ],
+        "answer": "Phosphodiester bonds"
+    },
+    {
+        "question": "The amino acid sequence of a polypeptide is determined by nucleotide sequence of:",
+        "options": [
+            "Ribosomal RNA",
+            "Messenger RNA",
+            "Transfer RNA",
+            "m- RNA"
+        ],
+        "answer": "Messenger RNA"
+    },
+    {
+        "question": "RNA fragment acts as a catalyst is known:",
+        "options": [
+            "RNAase",
+            "RNA polymerase",
+            "Ribozyme",
+            "Ribosome"
+        ],
+        "answer": "Ribozyme"
+    },
+    {
+        "question": "The initiation site for transcription is recognized by:",
+        "options": [
+            "α-subunit of DNA dependent RNA polymerase",
+            "β-subunit of DNA dependent RNA polymerase",
+            "Sigma (σ)",
+            "Rho factor"
+        ],
+        "answer": "Sigma (σ)"
+    },
+    {
+        "question": "The protein rich in basic amino acids which function in the packaging of DNA in chromosome is:",
+        "options": [
+            "Collagen",
+            "Histone",
+            "Hyaluronic acid binding protein",
+            "Fibrinogen"
+        ],
+        "answer": "Histone"
+    },
+    {
+        "question": "True about telomerase or telomere:",
+        "options": [
+            "Present at the middle of the chromosome",
+            "DNA dependant RNA polymerase",
+            "DNA polymerase",
+            "Increased telomerase activity favors cancer cells"
+        ],
+        "answer": "Increased telomerase activity favors cancer cells"
+    },
+    {
+        "question": "Telomerase is:",
+        "options": [
+            "RNA dependent DNA polymerase",
+            "DNA dependent RNA polymerase",
+            "RNA dependent RNA polymerase",
+            "DNA dependent DNA polymerase"
+        ],
+        "answer": "RNA dependent DNA polymerase"
+    },
+    {
+        "question": "The repeat sequence in telomeres:",
+        "options": [
+            "5' TTAGGG 3'",
+            "5' ATTCCG 3'",
+            "5' AAATTT 3'",
+            "5' TTAAT C3'"
+        ],
+        "answer": "5' TTAGGG 3'"
+    },
+    {
+        "question": "The termination site for transcription is recognized by:",
+        "options": [
+            "α-subunit of DNA dependent RNA polymerase",
+            "β- subunit of DNA dependent RNA polymerase",
+            "Sigma (σ)",
+            "Rho factor"
+        ],
+        "answer": "Rho factor"
+    },
+    {
+        "question": "Type of RNA performs peptidyl transferase activity:",
+        "options": [
+            "r-RNA",
+            "t-RNA",
+            "m-RNA",
+            "sn-RNA"
+        ],
+        "answer": "r-RNA"
+    },
+    {
+        "question": "One of the following is true about B, A and Z DNA:",
+        "options": [
+            "Have the same handedness",
+            "Have the same pairing rule",
+            "Have the same pitch",
+            "Have the same form"
+        ],
+        "answer": "Have the same pairing rule"
+    },
+    {
+        "question": "The physiologic form of DNA is:",
+        "options": [
+            "A form",
+            "B form",
+            "D form",
+            "Z form"
+        ],
+        "answer": "B form"
+    },
+    {
+        "question": "Number of codons codes for amino acids:",
+        "options": [
+            "64",
+            "61",
+            "63",
+            "60"
+        ],
+        "answer": "61"
+    },
+    {
+        "question": "The enzyme responsible for maintenance of terminal of chromosomes:",
+        "options": [
+            "DNA polymerase (reverse transcriptase)",
+            "RNA polymerase",
+            "Terminal deoxynucleotidyl transferase",
+            "Telomerase"
+        ],
+        "answer": "Telomerase"
+    },
+    {
+        "question": "The base sequence of DNA always written from:",
+        "options": [
+            "5' end to 3' end",
+            "3' end to 5' end",
+            "Both of (1) and (2)",
+            "None of them"
+        ],
+        "answer": "5' end to 3' end"
+    },
+    {
+        "question": "Nucleic acids are absorbed at 260 nm due to presence of:",
+        "options": [
+            "Purines and pyrimidines",
+            "N-glycosidic bonds",
+            "Phosphodiester bonds",
+            "Oxygen"
+        ],
+        "answer": "Purines and pyrimidines"
+    },
+    {
+        "question": "Formation of RNA primer:",
+        "options": [
+            "Precedes replication",
+            "Follows replication",
+            "Precedes transcription",
+            "Follows transcription"
+        ],
+        "answer": "Precedes replication"
+    },
+    {
+        "question": "Unusual bases are present in:",
+        "options": [
+            "m-RNA",
+            "hn-RNA",
+            "t-RNA",
+            "r-RNA"
+        ],
+        "answer": "t-RNA"
+    },
+    {
+        "question": "One of the following is false about RNA polymerase:",
+        "options": [
+            "Does not require primer",
+            "Requires primer",
+            "No exonucleases activity",
+            "No endonucleases activity"
+        ],
+        "answer": "Requires primer"
+    },
+    {
+        "question": "Okazaki pieces are made up of:",
+        "options": [
+            "RNA",
+            "DNA",
+            "RNA and DNA",
+            "RNA and proteins"
+        ],
+        "answer": "RNA and DNA"
+    },
+    {
+        "question": "Polyadenylation of eukaryotic m-RNA occurs:",
+        "options": [
+            "Cytoplasm",
+            "Nucleus",
+            "Nucleolus",
+            "During transport from nucleolus"
+        ],
+        "answer": "Nucleus"
+    },
+    {
+        "question": "post – transcriptional modification of hn-RNA involves all of the following except:",
+        "options": [
+            "Addition of 7-methylguanosinetriphosphate cap",
+            "Addition of polyadenylate tail",
+            "Insertion of nucleotides",
+            "Deletion of nucleotides"
+        ],
+        "answer": "Insertion of nucleotides"
+    }
+]

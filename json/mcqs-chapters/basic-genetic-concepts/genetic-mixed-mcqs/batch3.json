@@ -1,0 +1,512 @@
+[
+    {
+      "question": "During DNA replication, DNA ligase is most active on the lagging strand why?",
+      "options": [
+        "The lagging strand contain more short DNA segments than the leading strand, these short segment are joined together by DNA ligase.",
+        "The lagging strand is synthesized more slowly, and DNA ligase speeds up the DNA polymerase.",
+        "The lagging strand synthesizes DNA in the 3' → 5' direction.",
+        "The lagging strand requires DNA ligase to couple the RNA primer to the okazaki fragments."
+      ],
+      "answer": "The lagging strand contain more short DNA segments than the leading strand, these short segment are joined together by DNA ligase."
+    },
+    {
+      "question": "Helicase enzyme cause:",
+      "options": [
+        "Rewinding of DNA with ATP.",
+        "Rewinding of DNA without ATP.",
+        "Unwinding of DNA with ATP.",
+        "Unwinding of DNA without ATP."
+      ],
+      "answer": "Unwinding of DNA with ATP."
+    },
+    {
+      "question": "(3' → 5') exonuclease activity of DNA polymerase I:",
+      "options": [
+        "Removes ribonucleotides.",
+        "Adds deoxyribonucleotides.",
+        "Corrects errors in replication.",
+        "Hydrolyses DNA into mononucleotides."
+      ],
+      "answer": "Corrects errors in replication."
+    },
+    {
+      "question": "DNA polymerase I possesses:",
+      "options": [
+        "Polymerase activity.",
+        "3' → 5' exonuclease activity.",
+        "5' → 3' exonuclease activity.",
+        "All of the above."
+      ],
+      "answer": "All of the above."
+    },
+    {
+      "question": "DNA polymerase III holoenzyme possesses:",
+      "options": [
+        "Polymerase activity.",
+        "3' → 5' exonuclease activity.",
+        "5' → 3' exonuclease and polymerase activities.",
+        "3' → 5' exonuclease and polymerase activities."
+      ],
+      "answer": "3' → 5' exonuclease and polymerase activities."
+    },
+    {
+      "question": "DNA topoisomerase I catalyses:",
+      "options": [
+        "Relaxation of negatively supercoiled DNA.",
+        "Relaxation of positively supercoiled DNA.",
+        "Conversion of negatively supercoiled into positively supercoiled DNA.",
+        "Conversion of double helix into supercoiled DNA."
+      ],
+      "answer": "Relaxation of negatively supercoiled DNA."
+    },
+    {
+      "question": "Which of the following is not a component of replication:",
+      "options": [
+        "DNA polymerase III.",
+        "RNA polymerase I.",
+        "DNA helicase.",
+        "DNA gyrase."
+      ],
+      "answer": "RNA polymerase I."
+    },
+    {
+      "question": "Ribosomes show which of the following enzyme activities:",
+      "options": [
+        "GTPase.",
+        "tRNA aminoacyl synthetase.",
+        "Peptidyl transferase.",
+        "Peptidase."
+      ],
+      "answer": "Peptidyl transferase."
+    },
+    {
+      "question": "Post-transcriptional modification does not occur in:",
+      "options": [
+        "Eukaryotic t-RNA.",
+        "Prokaryotic t-RNA.",
+        "Eukaryotic hn-RNA.",
+        "Prokaryotic m-RNA."
+      ],
+      "answer": "Prokaryotic m-RNA."
+    },
+    {
+      "question": "The first event on post – transcriptional modification of RNA is:",
+      "options": [
+        "Addition of methyl GTP cap.",
+        "Addition of poly-A tail.",
+        "Removal of introns and splicing.",
+        "Removal of okazaki fragment."
+      ],
+      "answer": "Addition of methyl GTP cap."
+    },
+    {
+      "question": "The function of SSB protein in replication is to:",
+      "options": [
+        "Identify the origin of replication (ORI).",
+        "Relax the supercoils.",
+        "Unwind DNA.",
+        "Maintain DNA in wound state after strand separation."
+      ],
+      "answer": "Maintain DNA in wound state after strand separation."
+    },
+    {
+      "question": "Deoxyribonucleotides are added to RNA primer by:",
+      "options": [
+        "DNA polymerase I.",
+        "DNA polymerase II.",
+        "DNA polymerase III holoenzyme.",
+        "All of the above."
+      ],
+      "answer": "DNA polymerase III holoenzyme."
+    },
+    {
+      "question": "Ribonucleotides of RNA primer are replaced by deoxyribonucleotides by the enzyme:",
+      "options": [
+        "DNA polymerase I.",
+        "DNA polymerase II.",
+        "DNA polymerase III.",
+        "DNA – exonuclease."
+      ],
+      "answer": "DNA polymerase I."
+    },
+    {
+      "question": "Melting temperature of DNA is increased by its:",
+      "options": [
+        "A and T content.",
+        "G and C content.",
+        "Sugar content.",
+        "Phosphate content."
+      ],
+      "answer": "G and C content."
+    },
+    {
+      "question": "Relative proportions of G and C versus A and T in DNA can be determined by its.",
+      "options": [
+        "Melting temperature.",
+        "Buoyant density.",
+        "Melting temperature and buoyant density.",
+        "None of the above."
+      ],
+      "answer": "Melting temperature and buoyant density."
+    },
+    {
+      "question": "Many chromosome mutations result when chromosomes fail to separate properly during:",
+      "options": [
+        "mitosis.",
+        "meiosis.",
+        "crossing over.",
+        "linkage."
+      ],
+      "answer": "meiosis."
+    },
+    {
+      "question": "The failure of homologous chromosomes to separate properly is called:",
+      "options": [
+        "translocation.",
+        "disjunction.",
+        "nondisjunction.",
+        "deletion."
+      ],
+      "answer": "nondisjunction."
+    },
+    {
+      "question": "During replication of DNA, the lagging strand is replicated with short stretches of Okazaki fragments. That is why this aspect of DNA synthesis is considered to be:",
+      "options": [
+        "discontinuous.",
+        "Continuous.",
+        "primed.",
+        "never stopping."
+      ],
+      "answer": "discontinuous."
+    },
+    {
+      "question": "DNA is a double helix because it contains two:",
+      "options": [
+        "antiparallel phosphate groups.",
+        "Sugars.",
+        "polynucleotide chains.",
+        "pairs of complementary nitrogen bases."
+      ],
+      "answer": "polynucleotide chains."
+    },
+    {
+      "question": "In a DNA double helix, each loop of the helix",
+      "options": [
+        "is wound around histone proteins.",
+        "consists of 10 nucleotides.",
+        "always contains equal amounts of G and T.",
+        "contains the sugar-phosphate backbones in the interior of the helix."
+      ],
+      "answer": "consists of 10 nucleotides."
+    },
+    {
+      "question": "DNA replication involves all of the following steps except:",
+      "options": [
+        "separation.",
+        "joining.",
+        "production of single-stranded DNA molecules.",
+        "formation of a primer."
+      ],
+      "answer": "formation of a primer."
+    },
+    {
+      "question": "What step in DNA replication precedes the pairing of complementary bases?",
+      "options": [
+        "polymerization of DNA.",
+        "separation of the two strands.",
+        "joining of the two strands.",
+        "mitotic division."
+      ],
+      "answer": "separation of the two strands."
+    },
+    {
+      "question": "Special cells found in the gonads that give rise to gametes upon division are called",
+      "options": [
+        "germ cells.",
+        "somatic cells.",
+        "stem cells.",
+        "basal cells."
+      ],
+      "answer": "germ cells."
+    },
+    {
+      "question": "Promoter signal:",
+      "options": [
+        "AUG.",
+        "UAG.",
+        "GUA.",
+        "Promoter element."
+      ],
+      "answer": "Promoter element."
+    },
+    {
+      "question": "Splicing during transcription is done by:",
+      "options": [
+        "sn—RNA.",
+        "r-RNA.",
+        "t-RNA.",
+        "m-RNA."
+      ],
+      "answer": "sn—RNA."
+    },
+    {
+      "question": "Okazaki fragment is:",
+      "options": [
+        "DNA fragment.",
+        "RNA fragment.",
+        "DNA fragment with RNA head.",
+        "RNA fragment with DNA head."
+      ],
+      "answer": "DNA fragment with RNA head."
+    },
+    {
+      "question": "Following enzymes are needed for DNA synthesis, excluding:",
+      "options": [
+        "DNA polymerase.",
+        "RNA primase.",
+        "Restriction endonuclease.",
+        "DNA ligase."
+      ],
+      "answer": "Restriction endonuclease."
+    },
+    {
+      "question": "Okazaki pieces are involved in:",
+      "options": [
+        "DNA replication.",
+        "Translation.",
+        "Transcription.",
+        "Recombinant DNA."
+      ],
+      "answer": "DNA replication."
+    },
+    {
+      "question": "Correct sequence of enzymes required for DNA formation is:",
+      "options": [
+        "DNA polymerase → protein unwinding enzyme → DNA ligase → DNA isomerase → polymerase I.",
+        "Protein unwinding enzyme → polymerase I → DNA ligase → DNA isomerase → DNA polymerase.",
+        "RNA polymerase → DNA polymerase III → DNA polymerase I → DNA ligase.",
+        "RNA polymerase → DNA polymerase III → DNA ligase → exonuclease → DNA polymerase I."
+      ],
+      "answer": "RNA polymerase → DNA polymerase III → DNA polymerase I → DNA ligase."
+    },
+    {
+      "question": "The exons are involved in one of the following processes:",
+      "options": [
+        "Recombinant DNA technology.",
+        "Transcription.",
+        "Translation.",
+        "Replication."
+      ],
+      "answer": "Translation."
+    },
+    {
+      "question": "RNA are converted to DNA by enzyme:",
+      "options": [
+        "RNA polymerase.",
+        "DNA polymerase.",
+        "DNA dependent RNA polymerase.",
+        "Reverse transcriptase."
+      ],
+      "answer": "Reverse transcriptase."
+    },
+    {
+      "question": "The first codon which codes for methionine is:",
+      "options": [
+        "UAA.",
+        "UAG.",
+        "AUG.",
+        "AGU."
+      ],
+      "answer": "AUG."
+    },
+    {
+      "question": "Amber codon is:",
+      "options": [
+        "Initiator codon.",
+        "Terminator codon.",
+        "UAG.",
+        "UAA."
+      ],
+      "answer": "UAG."
+    },
+    {
+      "question": "Ochre codon is:",
+      "options": [
+        "Initiation codon.",
+        "Termination codon.",
+        "UAA.",
+        "UAG."
+      ],
+      "answer": "UAA."
+    },
+    {
+      "question": "A glycosylase is required in:",
+      "options": [
+        "Mismatch repair of DNA.",
+        "Base excision repair of DNA.",
+        "Nucleotide excision repair of DNA.",
+        "Chromosomal mutation repair of DNA."
+      ],
+      "answer": "Base excision repair of DNA."
+    },
+    {
+      "question": "DNA ligase is required in:",
+      "options": [
+        "Mismatch repair of DNA.",
+        "Base excision repair of DNA.",
+        "Nucleotide excision repair of DNA repair.",
+        "All of the above."
+      ],
+      "answer": "All of the above."
+    },
+    {
+      "question": "A triplet codon is indicating a stop codon in mitochondria:",
+      "options": [
+        "UAG.",
+        "UAA.",
+        "AGA.",
+        "UGA."
+      ],
+      "answer": "AGA."
+    },
+    {
+      "question": "A segment of a gene that is not represented in the mature m-RNA is known as:",
+      "options": [
+        "Intron.",
+        "Exon.",
+        "TATA box.",
+        "Hogness box."
+      ],
+      "answer": "Intron."
+    },
+    {
+      "question": "The unwound strands of DNA are held apart by:",
+      "options": [
+        "Single strand binding protein.",
+        "Double strand binding protein.",
+        "Replication protein.",
+        "Topoisomerase."
+      ],
+      "answer": "Single strand binding protein."
+    },
+    {
+      "question": "The amino acids present in histones:",
+      "options": [
+        "Arginine and lysine.",
+        "Methionine and tryptophan.",
+        "Leucine and glycine.",
+        "Valine and glycine."
+      ],
+      "answer": "Arginine and lysine."
+    },
+    {
+      "question": "Any given nucleotide in a nucleic acid contains:",
+      "options": [
+        "two bases and a sugar.",
+        "one sugar, two bases and one phosphate.",
+        "two sugars and one phosphate.",
+        "one sugar, one base and one phosphate."
+      ],
+      "answer": "one sugar, one base and one phosphate."
+    },
+    {
+      "question": "The region of a DNA strand carrying the information needed for synthesis of specific protein is called a",
+      "options": [
+        "codon.",
+        "chromosome.",
+        "gene.",
+        "complementary base pair."
+      ],
+      "answer": "gene."
+    },
+    {
+      "question": "The genetic code is a listing which gives relationships between codons and:",
+      "options": [
+        "anticodons.",
+        "amino acids.",
+        "exons.",
+        "genes."
+      ],
+      "answer": "amino acids."
+    },
+    {
+      "question": "Which of the following statements concerning codons is incorrect?",
+      "options": [
+        "They are found within mRNA molecules.",
+        "They are sequences of three nucleotides.",
+        "There are 64 of them.",
+        "They are short segments of a gene."
+      ],
+      "answer": "They are short segments of a gene."
+    },
+    {
+      "question": "Which of the following is not necessary for protein synthesis at the time and place where synthesis occurs?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "ribosomes",
+        "DNA."
+      ],
+      "answer": "DNA."
+    },
+    {
+      "question": "Which one of the following types of RNA molecules contains exons and introns?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "hnRNA",
+        "snRNA"
+      ],
+      "answer": "hnRNA"
+    },
+    {
+      "question": "Protein mutation, means:",
+      "options": [
+        "Abnormal amino acid sequence.",
+        "Loss of the nucleotide sequence.",
+        "Altered function of the protein.",
+        "Gain of the nucleotide."
+      ],
+      "answer": "Abnormal amino acid sequence."
+    },
+    {
+      "question": "DNA single base alteration is /are:",
+      "options": [
+        "Deamination of adenine into hypoxanthine.",
+        "Depurination.",
+        "Breakage of phosphodiester bonds.",
+        "Formation of thymine dimer by the U.V. light."
+      ],
+      "answer": "Deamination of adenine into hypoxanthine."
+    },
+    {
+      "question": "Causes of malignancies, are:",
+      "options": [
+        "Paracentric inversion.",
+        "Deamination of cytosine into uracil.",
+        "Robertsonian translocation.",
+        "Production of additional copies of DNA sequence."
+      ],
+      "answer": "Robertsonian translocation."
+    },
+    {
+      "question": "Non- disjunction is/ are:",
+      "options": [
+        "Failure of chromosomes to separate during mitosis.",
+        "Failure of chromosomes to separate during meiosis.",
+        "Common cause of Aneuploidy.",
+        "Occurring with monospermy."
+      ],
+      "answer": "Failure of chromosomes to separate during meiosis."
+    },
+    {
+      "question": "Down syndromes 21, 18, 13 are characterized by:",
+      "options": [
+        "Aneuploidy of autosomes.",
+        "Non reciprocal translocation.",
+        "Centric translocation.",
+        "Trisomy of sex chromosomes."
+      ],
+      "answer": "Aneuploidy of autosomes."
+    }
+]

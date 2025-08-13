@@ -1,0 +1,492 @@
+[
+    {
+        "question": "The double helix model of DNA was proposed by:",
+        "options": [
+            "Watson and Crick",
+            "Griffith",
+            "Avery",
+            "Franklin"
+        ],
+        "answer": "Watson and Crick"
+    },
+    {
+        "question": "Radiation may cause cancer due to:",
+        "options": [
+            "Synthesis of DNA",
+            "Repair of DNA",
+            "Damage of DNA",
+            "Synthesis of RNA"
+        ],
+        "answer": "Damage of DNA"
+    },
+    {
+        "question": "One of the following antibiotics does not act on the elongation step of protein synthesis:",
+        "options": [
+            "Streptomycin",
+            "Puromycin",
+            "Clindamycin",
+            "Erythromycin"
+        ],
+        "answer": "Puromycin"
+    },
+    {
+        "question": "One of the following antibiotics freeze the initiation of the protein synthesis:",
+        "options": [
+            "Streptomycin",
+            "Puromycin",
+            "Clindamycin",
+            "Erythromycin"
+        ],
+        "answer": "Streptomycin"
+    },
+    {
+        "question": "Following antibiotic inhibits prokaryotic peptidyl transferase:",
+        "options": [
+            "Chloramphenicol",
+            "Cycloheximide",
+            "Clindamycin",
+            "Puromycin"
+        ],
+        "answer": "Chloramphenicol"
+    },
+    {
+        "question": "Transcription is inhibited by:",
+        "options": [
+            "Actinomycin D",
+            "Amanitin",
+            "Chloramphenicol",
+            "Puromycin"
+        ],
+        "answer": "Actinomycin D"
+    },
+    {
+        "question": "In base excision repair ...... enzyme removes unusual bases.",
+        "options": [
+            "DNA glycolases",
+            "DNA photolyase",
+            "DNA ligase",
+            "AP endonuclease"
+        ],
+        "answer": "DNA glycolases"
+    },
+    {
+        "question": "Acrocentric chromosome:",
+        "options": [
+            "Is a chromosome with centromere lies very close to both ends",
+            "Is a chromosome with very long arm and very short arm",
+            "Is rod shaped",
+            "Are chromosomes 13, 14, 15, 21, 22, and Y"
+        ],
+        "answer": "Is a chromosome with very long arm and very short arm"
+    },
+    {
+        "question": "Y – chromosome (male chromosome):",
+        "options": [
+            "Is quite small chromosome",
+            "Is long acrocentric chromosome",
+            "Is small acrocentric chromosome",
+            "Is a heteromorphic chromosomes"
+        ],
+        "answer": "Is small acrocentric chromosome"
+    },
+    {
+        "question": "Autosomes are:",
+        "options": [
+            "Somatic chromosomes",
+            "Undergoing meiosis",
+            "Identical in both sexes",
+            "including genosomes"
+        ],
+        "answer": "Identical in both sexes"
+    },
+    {
+        "question": "Disorders of autosomes:",
+        "options": [
+            "Edward’s syndrome",
+            "Patu syndrome",
+            "Trisomy 21",
+            "Spontaneous abortion"
+        ],
+        "answer": "Trisomy 21"
+    },
+    {
+        "question": "Chromosomes:",
+        "options": [
+            "Are carriers of the genes",
+            "Are carriers of the DNA",
+            "Are condensed chromatins",
+            "Are threadlike structures visibly seen during cell division"
+        ],
+        "answer": "Are carriers of the genes"
+    },
+    {
+        "question": "Polyploidy, is/are:",
+        "options": [
+            "Disorder in which the number of chromosomes is multiple of 23",
+            "Disorder in which the number of chromosomes is > than (2n)",
+            "Usually results in spontaneous abortion",
+            "Due to fertilization of an egg by (2) sperms (dispermy)"
+        ],
+        "answer": "Disorder in which the number of chromosomes is multiple of 23"
+    },
+    {
+        "question": "Autosomes are:",
+        "options": [
+            "Somatic chromosomes",
+            "Undergoing meiosis",
+            "Identical in both sexes",
+            "including genosomes"
+        ],
+        "answer": "Identical in both sexes"
+    },
+    {
+        "question": "DNA annealing in PCR refers to:",
+        "options": [
+            "Renaturation and cooling at 40 C",
+            "Cooling at 40 C + Renaturation",
+            "Cooling at 55 C + Renaturation",
+            "Renaturation and cooling at 55 C"
+        ],
+        "answer": "Renaturation and cooling at 55 C"
+    },
+    {
+        "question": "Recombinant DNA cannot be prepared without?",
+        "options": [
+            "Plasmids",
+            "Restriction enzymes producing sticky ends",
+            "DNA polymerase III",
+            "DNA ligase"
+        ],
+        "answer": "DNA ligase"
+    },
+    {
+        "question": "Amino acid sequence of the encoded protein is not changed on:",
+        "options": [
+            "Silent mutation",
+            "Acceptable missense mutation",
+            "Nonsense mutation",
+            "Frameshift mutation"
+        ],
+        "answer": "Silent mutation"
+    },
+    {
+        "question": "If the codon UAC on m-RNA changes into UAG as a result of a base substitution in DNA, it will result in:",
+        "options": [
+            "Silent mutation",
+            "Missense mutation",
+            "Nonsense mutation",
+            "Frameshift mutation"
+        ],
+        "answer": "Nonsense mutation"
+    },
+    {
+        "question": "Telomeres are short-repeated sequences of DNA located at the tips of chromosomes.",
+        "options": [
+            "A gradual shortening of chromosome telomeric DNA occurs in somatic cells",
+            "Cell aging seems to be correlated with shortening telomeres",
+            "A & B",
+            "A, B & C"
+        ],
+        "answer": "A & B"
+    },
+    {
+        "question": "t-RNA genes have:",
+        "options": [
+            "Upstream promoters",
+            "Downstream promoters",
+            "Intragenic promoters",
+            "No promoters"
+        ],
+        "answer": "Intragenic promoters"
+    },
+    {
+        "question": "Circular double stranded DNA:",
+        "options": [
+            "Has no polarity (direction)",
+            "Has free 5’ and 3’ ends",
+            "Has no free 5’ and 3’ ends",
+            "Cannot be supercoiled"
+        ],
+        "answer": "Has no free 5’ and 3’ ends"
+    },
+    {
+        "question": "Degeneracy of codon means:",
+        "options": [
+            "More than one codon for a single amino acid",
+            "Termination of protein synthesis",
+            "Transcription",
+            "Translation"
+        ],
+        "answer": "More than one codon for a single amino acid"
+    },
+    {
+        "question": "In eukaryotes, mRNA processing involves all of the following events except:",
+        "options": [
+            "synthesis with reverse transcriptase",
+            "addition of a 5’ cap",
+            "addition of poly A to the 3’ end",
+            "mRNA splicing"
+        ],
+        "answer": "synthesis with reverse transcriptase"
+    },
+    {
+        "question": "If the sequence of bases in a section of DNA is ATCGCTCC, what is the corresponding sequence of bases in mRNA?",
+        "options": [
+            "ATCCGATT",
+            "TAGGCUGG",
+            "UAGCGAGG",
+            "TATCGGCC"
+        ],
+        "answer": "UAGCGAGG"
+    },
+    {
+        "question": "Which of the following has been linked to producing carcinogens and many different types of cancer?",
+        "options": [
+            "High dietary fat",
+            "Ultraviolet light",
+            "Table salt",
+            "Cigarette smoke"
+        ],
+        "answer": "Cigarette smoke"
+    },
+    {
+        "question": "Most of the beneficial products produced by bacteria and other genetically modified organisms containing recombinant DNA are:",
+        "options": [
+            "lipids",
+            "carbohydrates",
+            "proteins",
+            "other nucleic acids"
+        ],
+        "answer": "proteins"
+    },
+    {
+        "question": "After a long week of sunbathing on the beach, what type of DNA damage might you be concerned about?",
+        "options": [
+            "photolyase-induced mutations",
+            "decreased telomere length",
+            "thymine dimers",
+            "protein mutation"
+        ],
+        "answer": "thymine dimers"
+    },
+    {
+        "question": "Which of the following statements concerning the double helix structure present in DNA molecules is correct?",
+        "options": [
+            "the two nucleotide strands are mirror images of each other",
+            "hydrogen bonds between a sugar unit and a base pair hold the two nucleotide strands together",
+            "base pairing between strands always involves one pyrimidine base and one purine base",
+            "base pairing combinations are always A-C and G-T"
+        ],
+        "answer": "base pairing between strands always involves one pyrimidine base and one purine base"
+    },
+    {
+        "question": "Replication of DNA produces two daughter DNA molecules in which one daughter molecule contains both parent strands and one daughter molecule",
+        "options": [
+            "contains both newly synthesized strands",
+            "each daughter molecule contains one parent strand and one newly synthesized strand",
+            "each daughter molecule contains two newly synthesized strands",
+            "each daughter molecule contains a segment of both parent strands"
+        ],
+        "answer": "each daughter molecule contains one parent strand and one newly synthesized strand"
+    },
+    {
+        "question": "In DNA replication the unwinding of the double helix",
+        "options": [
+            "begins at the 5' end and continues to the 3' end",
+            "begins at the 3' end and continues to the 5' end",
+            "occurs at many places within the double helix at the same time",
+            "is governed by the enzyme DNA ligase"
+        ],
+        "answer": "occurs at many places within the double helix at the same time"
+    },
+    {
+        "question": "Associated with the process of DNA transcription is the formation of two DNA molecules:",
+        "options": [
+            "from one DNA molecule and amino acids",
+            "one DNA molecule from a number of shorter RNA molecules",
+            "A pre-mRNA molecule which is then 'edited' to form an mRNA molecule",
+            "an mRNA molecule which contains several genes"
+        ],
+        "answer": "A pre-mRNA molecule which is then 'edited' to form an mRNA molecule"
+    },
+    {
+        "question": "Which of the following events occurs during the translation phase of protein synthesis?",
+        "options": [
+            "mRNA interacts with a chromosome",
+            "Codon-anticodon base pairing occurs",
+            "rRNAs carry amino acids to the site for protein synthesis",
+            "more than one correct response"
+        ],
+        "answer": "Codon-anticodon base pairing occurs"
+    },
+    {
+        "question": "Which of the following statements concerning genes and chromosomes is correct?",
+        "options": [
+            "A gene is a segment of a DNA molecule that contains instructions for the synthesis one or more proteins",
+            "A chromosome contains several DNA molecules bound to protein",
+            "Genes directly interact with amino acids during protein synthesis",
+            "more than one correct response"
+        ],
+        "answer": "A gene is a segment of a DNA molecule that contains instructions for the synthesis one or more proteins"
+    },
+    {
+        "question": "The enzyme used in the polymerase chain reaction is—",
+        "options": [
+            "a restriction endonuclease",
+            "heat-resistant RNA polymerase",
+            "reverse transcriptase",
+            "a heat-resistant DNA polymerase"
+        ],
+        "answer": "a heat-resistant DNA polymerase"
+    },
+    {
+        "question": "Unwinding of DNA is done by:",
+        "options": [
+            "Helicase enzyme",
+            "Topoisomerase",
+            "DNA ligase",
+            "Reverse transcriptase"
+        ],
+        "answer": "Helicase enzyme"
+    },
+    {
+        "question": "During replication of DNA, which one of the following enzymes polymerizes okazaki fragment:",
+        "options": [
+            "DNA polymerase I",
+            "DNA polymerase II",
+            "DNA polymerase III",
+            "RNA polymerase"
+        ],
+        "answer": "DNA polymerase III"
+    },
+    {
+        "question": "Replication and transcription are similar processes in mechanistic terms because both involving:",
+        "options": [
+            "Use RNA primase for initiation",
+            "Use deoxyribonucleotides as precursors",
+            "Are semi-conservative events",
+            "Involve phosphodiester bond formation with elongation occurring in 5'-3' direction"
+        ],
+        "answer": "Involve phosphodiester bond formation with elongation occurring in 5'-3' direction"
+    },
+    {
+        "question": "r-RNA is mainly produced in:",
+        "options": [
+            "nucleus",
+            "Nucleolus",
+            "Ribosome",
+            "Endoplasmic reticulum"
+        ],
+        "answer": "Nucleolus"
+    },
+    {
+        "question": "Anticodon is present in:",
+        "options": [
+            "t-RNA",
+            "r-RNA",
+            "m-RNA + t-RNA",
+            "hn-RNA"
+        ],
+        "answer": "t-RNA"
+    },
+    {
+        "question": "Which one of the following is the complementary sequence of 5'TTAAGCTAC3'?",
+        "options": [
+            "5'GTAGC TTAA 3'",
+            "5'AATTGCCATG3'",
+            "5'CATGCGAATT3'",
+            "3'AATTCGATG 5'"
+        ],
+        "answer": "3'AATTCGATG 5'"
+    },
+    {
+        "question": "Deamination of cytosine produces:",
+        "options": [
+            "Cytidine",
+            "Uracil",
+            "Hypoxanthine",
+            "Xanthine"
+        ],
+        "answer": "Uracil"
+    },
+    {
+        "question": "An enzyme that makes a double stranded DNA copy from a single stranded RNA template molecule is known as:",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "Reverse transcriptase",
+            "Phosphodiestrase"
+        ],
+        "answer": "Reverse transcriptase"
+    },
+    {
+        "question": "Transcription of a gene in human cells:",
+        "options": [
+            "Always begins at an AUG codon",
+            "Requires a primer RNA",
+            "Always reads the DNA template strand in the 3’ to 5’ direction",
+            "Does not require local unwinding"
+        ],
+        "answer": "Always reads the DNA template strand in the 3’ to 5’ direction"
+    },
+    {
+        "question": "Heterogeneous nuclear RNA (hnRNA) is the precursor of:",
+        "options": [
+            "m-RNA",
+            "t-RNA",
+            "r-RNA",
+            "sn-RNA"
+        ],
+        "answer": "m-RNA"
+    },
+    {
+        "question": "True about coding strand of DNA:",
+        "options": [
+            "DNA acts as template for m-RNA",
+            "Acting as lagging strand",
+            "Matches with RNA transcript that encodes protein",
+            "Acts as t-RNA"
+        ],
+        "answer": "Matches with RNA transcript that encodes protein"
+    },
+    {
+        "question": "All are true about genetic code except:",
+        "options": [
+            "Degenerate",
+            "Universal",
+            "Non-overlapping",
+            "Unambiguous"
+        ],
+        "answer": "Unambiguous"
+    },
+    {
+        "question": "Reverse transcription is:",
+        "options": [
+            "Synthesis of DNA from DNA",
+            "Synthesis of RNA from DNA",
+            "Synthesis of DNA from RNA",
+            "Synthesis of RNA from RNA"
+        ],
+        "answer": "Synthesis of DNA from RNA"
+    },
+    {
+        "question": "The exons are involved in one of the following processes:",
+        "options": [
+            "Recombinant DNA technology",
+            "Transcription",
+            "Translation",
+            "Replication"
+        ],
+        "answer": "Translation"
+    },
+    {
+        "question": "Chemical analysis of DNA extracted from unknown virus indicates following composition, 40% Adenine, 20 % Thymine; 15% Guanine; 25% cytosine; this implies the structure of viral DNA is:",
+        "options": [
+            "Single stranded",
+            "Double stranded",
+            "Circular DNA",
+            "Does not exist"
+        ],
+        "answer": "Single stranded"
+    }
+]
